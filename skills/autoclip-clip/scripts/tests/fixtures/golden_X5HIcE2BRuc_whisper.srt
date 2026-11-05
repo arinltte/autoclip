@@ -1,0 +1,9359 @@
+1
+00:00:00,000 --> 00:00:01,520
+What's up guys, welcome back to Let's
+
+2
+00:00:01,520 --> 00:00:03,260
+Get It Podcast. We've got Dr.
+
+3
+00:00:03,540 --> 00:00:05,540
+Ong Kien Ming back in the podcast.
+
+4
+00:00:05,820 --> 00:00:08,020
+I actually did one with him. I don't know
+
+5
+00:00:08,020 --> 00:00:09,340
+how many episodes ago. Quite some time
+
+6
+00:00:09,340 --> 00:00:11,140
+ago, right? It was one of the early episodes.
+
+7
+00:00:11,520 --> 00:00:15,100
+Yeah, former MITI Deputy Minister, MP
+
+8
+00:00:15,100 --> 00:00:17,680
+of Sedang and Bangi and has a background
+
+9
+00:00:17,680 --> 00:00:19,780
+in political science and economics.
+
+10
+00:00:20,180 --> 00:00:22,360
+How are you doing? I'm good, I'm good.
+
+11
+00:00:22,980 --> 00:00:25,900
+Today, this is the first weekend of October.
+
+12
+00:00:26,700 --> 00:00:29,680
+Exciting weekend. You have a lot of activities
+
+13
+00:00:29,680 --> 00:00:30,940
+happening in Malaysia now.
+
+14
+00:00:31,300 --> 00:00:33,580
+Letua Langkawi, they are cycling through.
+
+15
+00:00:33,800 --> 00:00:35,860
+I think we'll probably pass through Klang
+
+16
+00:00:35,860 --> 00:00:38,420
+Valley. Today, I'm going for the F1 qualifying
+
+17
+00:00:38,420 --> 00:00:39,960
+race. Oh yeah, you just told me.
+
+18
+00:00:40,120 --> 00:00:41,880
+And then tomorrow, I'm running the half
+
+19
+00:00:41,880 --> 00:00:43,440
+marathon for the KL Standard Chartered.
+
+20
+00:00:43,780 --> 00:00:45,460
+Hopefully, it won't be cancelled.
+
+21
+00:00:45,720 --> 00:00:47,440
+So yeah, looking forward to this weekend.
+
+22
+00:00:47,740 --> 00:00:49,640
+So there might be a risk because of the
+
+23
+00:00:49,640 --> 00:00:51,900
+haze? I think today is okay.
+
+24
+00:00:52,140 --> 00:00:53,520
+They made the announcement yesterday that
+
+25
+00:00:53,520 --> 00:00:55,420
+they will continue. So I think they ran
+
+26
+00:00:55,420 --> 00:00:57,840
+the 10k this morning. The weather looks
+
+27
+00:00:57,840 --> 00:00:59,340
+okay. So touch wood.
+
+28
+00:00:59,620 --> 00:01:01,280
+Since you brought up the haze thing, right?
+
+29
+00:01:01,580 --> 00:01:02,940
+Maybe I can ask you a bit.
+
+30
+00:01:03,120 --> 00:01:05,280
+Perhaps you would know. Any idea how long
+
+31
+00:01:05,280 --> 00:01:07,260
+are we expected to have to deal with this?
+
+32
+00:01:07,380 --> 00:01:09,360
+Because it subsided for a while.
+
+33
+00:01:09,780 --> 00:01:11,220
+I think last week.
+
+34
+00:01:11,500 --> 00:01:13,260
+And then I also was doing a shooting.
+
+35
+00:01:13,560 --> 00:01:17,020
+I went and did a shoot specifically at
+
+36
+00:01:17,020 --> 00:01:20,620
+a rooftop location. But it's wasted because
+
+37
+00:01:20,620 --> 00:01:22,080
+it's just misty all.
+
+38
+00:01:22,080 --> 00:01:24,400
+Yeah, so I think a few things that we
+
+39
+00:01:24,400 --> 00:01:25,320
+need to remember.
+
+40
+00:01:26,880 --> 00:01:30,540
+Firstly, we have this super El Nino effect,
+
+41
+00:01:30,540 --> 00:01:32,360
+which makes everything very dry.
+
+42
+00:01:33,860 --> 00:01:35,800
+Especially in Indonesia, where a lot of
+
+43
+00:01:35,800 --> 00:01:38,220
+this haze is coming from. So people assume
+
+44
+00:01:38,220 --> 00:01:40,540
+like, oh, this Indonesia is irresponsible.
+
+45
+00:01:40,540 --> 00:01:43,600
+Just do open burning, stuff like that.
+
+46
+00:01:43,760 --> 00:01:44,860
+I think a lot of people think that way.
+
+47
+00:01:44,920 --> 00:01:48,240
+Is that the case? I don't think it's necessarily
+
+48
+00:01:48,240 --> 00:01:51,560
+open burning. It could be you are doing
+
+49
+00:01:51,560 --> 00:01:53,980
+some clearing in your own small little
+
+50
+00:01:53,980 --> 00:01:57,560
+palm or plantation or your kerbun.
+
+51
+00:01:58,120 --> 00:01:59,440
+And then you throw a cigarette.
+
+52
+00:02:00,260 --> 00:02:02,100
+Oh, accidents? Yeah, it could be.
+
+53
+00:02:02,180 --> 00:02:03,580
+Because these fires, sometimes they are
+
+54
+00:02:03,580 --> 00:02:06,060
+accidents. And also depends on things
+
+55
+00:02:06,060 --> 00:02:07,840
+like, for example, the weather patterns.
+
+56
+00:02:08,000 --> 00:02:09,920
+Like I said, it's very dry. It depends
+
+57
+00:02:09,920 --> 00:02:12,400
+on things like how much you actually spend
+
+58
+00:02:12,400 --> 00:02:15,080
+maintaining the underbrush in a particular
+
+59
+00:02:15,080 --> 00:02:17,880
+area. Because if you clear it, then the
+
+60
+00:02:17,880 --> 00:02:19,700
+likelihood of this spreading is much less.
+
+61
+00:02:19,860 --> 00:02:21,540
+So you mentioned El Nino.
+
+62
+00:02:21,700 --> 00:02:23,640
+If I'm not mistaken, this extreme heat
+
+63
+00:02:23,640 --> 00:02:26,540
+and dry. Yeah, some parts get very wet.
+
+64
+00:02:26,640 --> 00:02:29,100
+Some parts get very dry. So it really
+
+65
+00:02:29,100 --> 00:02:32,220
+depends on where. And then, yeah, it's
+
+66
+00:02:32,220 --> 00:02:34,040
+sort of like once every 10 years or so.
+
+67
+00:02:34,220 --> 00:02:35,800
+So we're entering into that cycle now.
+
+68
+00:02:35,800 --> 00:02:38,720
+So is it like literally because of extreme
+
+69
+00:02:38,720 --> 00:02:40,740
+heat and dryness, even if no one throws
+
+70
+00:02:40,740 --> 00:02:42,480
+a cigarette, they can catch fire?
+
+71
+00:02:42,720 --> 00:02:44,520
+Less likely. Less likely. I mean, we're
+
+72
+00:02:44,520 --> 00:02:46,120
+not in the middle of the desert where
+
+73
+00:02:46,120 --> 00:02:48,440
+the temperatures can go up. But, you know,
+
+74
+00:02:49,320 --> 00:02:52,380
+smoking and throwing cigarette butts are
+
+75
+00:02:52,380 --> 00:02:55,140
+this very commonplace all over the world.
+
+76
+00:02:56,180 --> 00:02:58,360
+Especially, you know, in places where,
+
+77
+00:02:58,940 --> 00:03:00,680
+you know, you don't have much entertainment.
+
+78
+00:03:01,320 --> 00:03:03,320
+You know, krete or cigarettes or whatever
+
+79
+00:03:03,320 --> 00:03:04,900
+becomes. Bad etiquette.
+
+80
+00:03:06,080 --> 00:03:08,020
+Yeah, I mean, you know, you're in the
+
+81
+00:03:08,020 --> 00:03:10,160
+middle of your own, you know, property
+
+82
+00:03:10,160 --> 00:03:11,760
+in an agriculture area.
+
+83
+00:03:11,920 --> 00:03:13,520
+You're not going to look for an ashtray
+
+84
+00:03:13,520 --> 00:03:15,200
+to get put a cigarette butt. Just throw
+
+85
+00:03:15,200 --> 00:03:17,540
+it. So any idea, like how long we're going
+
+86
+00:03:17,540 --> 00:03:18,740
+to have to deal with this anymore?
+
+87
+00:03:18,780 --> 00:03:20,820
+I have no idea. You know, I think it comes
+
+88
+00:03:20,820 --> 00:03:23,420
+and goes. And if let's say the haze, if
+
+89
+00:03:23,420 --> 00:03:26,280
+the situation with the dry weather continues,
+
+90
+00:03:26,620 --> 00:03:29,540
+it may even extend until, you know, beyond
+
+91
+00:03:29,540 --> 00:03:30,940
+the end of the year.
+
+92
+00:03:31,160 --> 00:03:32,620
+So we'll have to wait and see.
+
+93
+00:03:32,620 --> 00:03:34,860
+Something I noticed, because I also play,
+
+94
+00:03:34,860 --> 00:03:38,100
+I play pickleball and there's often a
+
+95
+00:03:38,100 --> 00:03:39,420
+lot of courts outdoor, right?
+
+96
+00:03:40,060 --> 00:03:41,440
+I feel like a lot of people, especially
+
+97
+00:03:41,440 --> 00:03:43,900
+those who are workout a lot, right?
+
+98
+00:03:44,200 --> 00:03:47,760
+I think even runners, you know, they are
+
+99
+00:03:47,760 --> 00:03:49,220
+stubborn. They will still do it.
+
+100
+00:03:49,360 --> 00:03:51,280
+Oh no. And it's risking their...
+
+101
+00:03:51,280 --> 00:03:53,960
+So I would say that a lot of people have
+
+102
+00:03:53,960 --> 00:03:55,680
+cut down the outdoor training already.
+
+103
+00:03:56,100 --> 00:03:57,680
+You know, I...
+
+104
+00:03:57,680 --> 00:04:00,380
+Yourself. I went for a run earlier this
+
+105
+00:04:00,380 --> 00:04:02,920
+week, you know, six kilometers.
+
+106
+00:04:04,000 --> 00:04:06,180
+Haze wasn't so bad between 100 to 150.
+
+107
+00:04:06,540 --> 00:04:08,640
+I felt a little bit of it eye -watering
+
+108
+00:04:08,640 --> 00:04:10,460
+and all that. But yeah, definitely I wouldn't
+
+109
+00:04:10,460 --> 00:04:11,960
+be able to go for like long runs.
+
+110
+00:04:11,960 --> 00:04:13,600
+But I don't...
+
+111
+00:04:13,600 --> 00:04:14,800
+I can't really tell actually.
+
+112
+00:04:14,980 --> 00:04:16,160
+I think the reason why people just keep...
+
+113
+00:04:16,160 --> 00:04:18,200
+They keep on doing their outdoor activities
+
+114
+00:04:18,200 --> 00:04:19,640
+because they can't really...
+
+115
+00:04:19,640 --> 00:04:20,760
+I couldn't... Like let's say when I play
+
+116
+00:04:20,760 --> 00:04:22,440
+pickleball outdoor, I can't really tell.
+
+117
+00:04:22,700 --> 00:04:23,960
+Can you tell in your run times?
+
+118
+00:04:24,060 --> 00:04:25,380
+I think you can a bit, right?
+
+119
+00:04:25,380 --> 00:04:27,720
+I can tell because if you're out there
+
+120
+00:04:27,720 --> 00:04:30,400
+for a longer period of time, you do feel
+
+121
+00:04:30,400 --> 00:04:34,420
+the haze and the, you
+
+122
+00:04:34,420 --> 00:04:37,400
+know, carbon in your...
+
+123
+00:04:37,400 --> 00:04:38,840
+Carbon dioxide in your lungs and all that
+
+124
+00:04:38,840 --> 00:04:40,800
+kind of stuff. So it will affect your
+
+125
+00:04:40,800 --> 00:04:42,940
+timing, definitely. Yeah, but it's not
+
+126
+00:04:42,940 --> 00:04:44,100
+more than... It's just not the timing.
+
+127
+00:04:44,280 --> 00:04:45,480
+It's actually your long -term health.
+
+128
+00:04:45,960 --> 00:04:48,340
+Yeah, you don't want to exert your lungs
+
+129
+00:04:48,340 --> 00:04:50,800
+and your body in a situation where it
+
+130
+00:04:50,800 --> 00:04:53,320
+is not so healthy. Not so much like the
+
+131
+00:04:53,320 --> 00:04:55,300
+instant, immediate effect you see.
+
+132
+00:04:55,420 --> 00:04:56,680
+Yeah, correct. It's just long -term. Yeah.
+
+133
+00:04:56,820 --> 00:04:59,680
+Okay. Yeah, let's address some elephants
+
+134
+00:04:59,680 --> 00:05:00,900
+in the room, right? Okay.
+
+135
+00:05:01,020 --> 00:05:02,800
+Not the haze, not the haze. No, not the
+
+136
+00:05:02,800 --> 00:05:05,500
+haze. Okay. Yeah. So today on Merdeka
+
+137
+00:05:05,500 --> 00:05:06,760
+Day, you chose...
+
+138
+00:05:06,760 --> 00:05:08,160
+This year on Merdeka Day, yeah.
+
+139
+00:05:08,160 --> 00:05:11,460
+This year on Merdeka Day, you chose a
+
+140
+00:05:11,460 --> 00:05:13,700
+special... That's a very special day to
+
+141
+00:05:13,700 --> 00:05:17,000
+announce your resignation after four years...
+
+142
+00:05:17,000 --> 00:05:18,540
+Fourteen years, not four years.
+
+143
+00:05:18,720 --> 00:05:20,200
+Yeah, fourteen years in the DAP. Fourteen
+
+144
+00:05:20,200 --> 00:05:21,720
+years in the DAP.
+
+145
+00:05:22,060 --> 00:05:22,160
+Yeah.
+
+146
+00:05:24,960 --> 00:05:27,900
+And you have been receiving heavy backlash.
+
+147
+00:05:28,680 --> 00:05:31,640
+I think, if I'm not mistaken, you also
+
+148
+00:05:31,640 --> 00:05:33,120
+mentioned this is something that you've
+
+149
+00:05:33,120 --> 00:05:34,560
+been planning.
+
+150
+00:05:35,000 --> 00:05:37,320
+Thinking about, yeah. Yeah. Thinking about,
+
+151
+00:05:37,440 --> 00:05:40,420
+maybe at the start of this year already?
+
+152
+00:05:40,740 --> 00:05:44,480
+Or it was... Yeah, I think at the back
+
+153
+00:05:44,480 --> 00:05:45,760
+of my mind, at the start of the year.
+
+154
+00:05:45,980 --> 00:05:49,380
+But I think it progressively became, you
+
+155
+00:05:49,380 --> 00:05:52,280
+know, more untenable for me to become,
+
+156
+00:05:52,520 --> 00:05:54,680
+to remain as a party member in the DAP.
+
+157
+00:05:55,500 --> 00:05:57,180
+Especially given the fact that, you know,
+
+158
+00:05:57,260 --> 00:05:58,900
+I was making certain predictions about
+
+159
+00:05:58,900 --> 00:06:00,800
+the state elections in Johor and Negeri.
+
+160
+00:06:01,680 --> 00:06:03,960
+Where it wasn't as if I wanted the DAP
+
+161
+00:06:03,960 --> 00:06:06,260
+to lose. Or it wasn't because I wanted
+
+162
+00:06:06,260 --> 00:06:08,800
+the BN to win. It was because that's where
+
+163
+00:06:08,800 --> 00:06:10,820
+I saw the wind blowing. And then, yeah.
+
+164
+00:06:10,980 --> 00:06:12,340
+Some of the leaders may not have been
+
+165
+00:06:12,340 --> 00:06:13,940
+so happy about that. And to be fair, right.
+
+166
+00:06:14,160 --> 00:06:16,180
+Your... Which was also quite expected.
+
+167
+00:06:16,360 --> 00:06:17,500
+People who follow you would know your
+
+168
+00:06:17,500 --> 00:06:19,680
+prediction was quite spot on.
+
+169
+00:06:20,180 --> 00:06:22,440
+Right? Yeah, yeah, yeah. Yeah. I don't
+
+170
+00:06:22,440 --> 00:06:23,660
+know. Politics is a funny thing.
+
+171
+00:06:23,820 --> 00:06:26,700
+You know, you upset your leaders for sort
+
+172
+00:06:26,700 --> 00:06:29,200
+of giving a good forecast.
+
+173
+00:06:29,620 --> 00:06:33,520
+Right? So, I think sometimes, you know,
+
+174
+00:06:33,980 --> 00:06:37,180
+if I were to look at what the DAP is doing
+
+175
+00:06:37,180 --> 00:06:41,140
+now and also, to a certain extent, PKR
+
+176
+00:06:41,140 --> 00:06:42,960
+and also Pakatan Harapan, it's almost
+
+177
+00:06:42,960 --> 00:06:45,300
+as if they are in a sort of like a siege
+
+178
+00:06:45,300 --> 00:06:47,920
+mentality. So, siege mentality is like
+
+179
+00:06:47,920 --> 00:06:49,400
+you're being attacked from all sides.
+
+180
+00:06:50,020 --> 00:06:51,340
+You know, even... Backs against the wall.
+
+181
+00:06:51,340 --> 00:06:54,860
+Exactly, exactly. So, you want your party
+
+182
+00:06:54,860 --> 00:06:57,920
+members to be good team players to support
+
+183
+00:06:57,920 --> 00:07:00,660
+the party from all these attacks, not
+
+184
+00:07:00,660 --> 00:07:03,480
+contribute to the undermining of the public
+
+185
+00:07:03,480 --> 00:07:07,480
+confidence with regards to DAP and PH.
+
+186
+00:07:07,740 --> 00:07:09,820
+And I don't know, man. Maybe that sort
+
+187
+00:07:09,820 --> 00:07:12,280
+of siege mentality is also going to surface
+
+188
+00:07:12,280 --> 00:07:15,700
+when you don't see a solution inside.
+
+189
+00:07:15,700 --> 00:07:17,100
+Right? Do we...
+
+190
+00:07:17,100 --> 00:07:19,580
+So, there was a senior DAP leader who
+
+191
+00:07:19,580 --> 00:07:23,180
+told me sometime at the beginning of this
+
+192
+00:07:23,180 --> 00:07:25,460
+year or end of last year, he said that
+
+193
+00:07:25,460 --> 00:07:28,580
+we will sink or swim with Anwar Ibrahim.
+
+194
+00:07:29,140 --> 00:07:31,320
+So, we meaning DAP.
+
+195
+00:07:31,720 --> 00:07:33,140
+What were your thoughts when he told you
+
+196
+00:07:33,140 --> 00:07:35,600
+that? My thoughts at the time was that
+
+197
+00:07:35,600 --> 00:07:37,640
+it's much more likely that you'll sink.
+
+198
+00:07:38,020 --> 00:07:40,080
+And then, I think we come to a stage where
+
+199
+00:07:40,080 --> 00:07:42,980
+if I were to describe it in terms of an
+
+200
+00:07:42,980 --> 00:07:46,160
+analogy or a movie, it's like...
+
+201
+00:07:47,160 --> 00:07:52,400
+I would say most DAP, PKR,
+
+202
+00:07:52,520 --> 00:07:55,760
+Amana, they are on Titanic.
+
+203
+00:07:56,640 --> 00:07:58,120
+It's a sinking ship. Yeah.
+
+204
+00:07:58,440 --> 00:08:00,440
+Right? And let me finish.
+
+205
+00:08:01,360 --> 00:08:03,920
+The DAP leaders don't want to get off.
+
+206
+00:08:04,540 --> 00:08:06,220
+So, even those who say they want to get
+
+207
+00:08:06,220 --> 00:08:08,560
+off suddenly find an excuse to get back
+
+208
+00:08:08,560 --> 00:08:10,440
+on. Well, we have someone...
+
+209
+00:08:10,440 --> 00:08:12,840
+Oh, he didn't say he's going to get off.
+
+210
+00:08:12,920 --> 00:08:14,760
+He's going to resign. Anthony Loke.
+
+211
+00:08:15,320 --> 00:08:16,940
+But that one only will take full effect
+
+212
+00:08:16,940 --> 00:08:20,700
+when Najib serves his house arrest.
+
+213
+00:08:20,800 --> 00:08:22,460
+But we talked about that later. You said
+
+214
+00:08:22,460 --> 00:08:23,540
+like, okay, they're definitely going to
+
+215
+00:08:23,540 --> 00:08:25,620
+sink. It's not just about they're definitely
+
+216
+00:08:25,620 --> 00:08:27,880
+going to sink. It's like, to have that
+
+217
+00:08:27,880 --> 00:08:31,880
+sort of idea, we will stick with the leader
+
+218
+00:08:31,880 --> 00:08:33,180
+through thick and thin.
+
+219
+00:08:33,420 --> 00:08:35,040
+What if the leader is going against everything
+
+220
+00:08:35,040 --> 00:08:36,400
+your party fights for? Exactly.
+
+221
+00:08:36,620 --> 00:08:37,820
+I think we'll talk about that later.
+
+222
+00:08:38,140 --> 00:08:40,060
+So, let me just finish up with the analogy
+
+223
+00:08:40,060 --> 00:08:44,140
+of the Titanic. You know, the leaders
+
+224
+00:08:44,140 --> 00:08:45,980
+are there. Let's say you just focus on
+
+225
+00:08:45,980 --> 00:08:48,180
+DAP leaders, but it extends to PKR and
+
+226
+00:08:48,180 --> 00:08:49,300
+also Amana leaders.
+
+227
+00:08:51,520 --> 00:08:54,240
+They all have different high -level positions
+
+228
+00:08:54,240 --> 00:08:55,800
+managing the Titanic.
+
+229
+00:08:56,840 --> 00:08:58,980
+And some of them may feel that genuinely,
+
+230
+00:08:59,340 --> 00:09:01,860
+I want to do something to help out the
+
+231
+00:09:01,860 --> 00:09:03,640
+people in the ship itself.
+
+232
+00:09:03,820 --> 00:09:06,500
+And the people in the ship could be, you
+
+233
+00:09:06,500 --> 00:09:08,760
+know, your members or more broadly speaking,
+
+234
+00:09:08,900 --> 00:09:11,320
+the general public that has given you
+
+235
+00:09:11,320 --> 00:09:12,880
+the trust and confidence to manage the
+
+236
+00:09:12,880 --> 00:09:15,620
+ship. But you've come to a situation whereby
+
+237
+00:09:15,620 --> 00:09:19,380
+a lot of the passengers want to get off
+
+238
+00:09:19,380 --> 00:09:21,140
+the ship because they see there's a sinking
+
+239
+00:09:21,140 --> 00:09:25,520
+ship. And then, you know, you have
+
+240
+00:09:25,520 --> 00:09:27,660
+the choice of whether you want to save
+
+241
+00:09:27,660 --> 00:09:31,840
+some people by getting off the sinking
+
+242
+00:09:31,840 --> 00:09:36,160
+ship. But because you are too, you
+
+243
+00:09:36,160 --> 00:09:38,940
+know, attracted to the high -level positions,
+
+244
+00:09:38,940 --> 00:09:41,540
+the pay, the perks that comes from that
+
+245
+00:09:41,540 --> 00:09:45,020
+ship. Right. So, you know, even when it's
+
+246
+00:09:45,020 --> 00:09:46,660
+sinking, sometimes you don't even, you
+
+247
+00:09:46,660 --> 00:09:48,040
+don't realize or you don't want to admit
+
+248
+00:09:48,040 --> 00:09:50,100
+that it's sinking until it's really, really,
+
+249
+00:09:50,180 --> 00:09:52,000
+really too late already. Is it you don't
+
+250
+00:09:52,000 --> 00:09:53,760
+realize? Maybe it's as simple as you cannot,
+
+251
+00:09:53,880 --> 00:09:55,260
+you cannot leave that all behind, not
+
+252
+00:09:55,260 --> 00:09:57,040
+the perks. Sure. You know what I mean?
+
+253
+00:09:57,040 --> 00:09:59,180
+I mean, to be fair, I think this analogy
+
+254
+00:09:59,180 --> 00:10:00,960
+fails in the sense that, you know, whatever
+
+255
+00:10:00,960 --> 00:10:03,060
+that some of the ministers, deputy ministers
+
+256
+00:10:03,060 --> 00:10:05,300
+are trying to do, things like for the
+
+257
+00:10:05,300 --> 00:10:06,560
+budget and whatnot, right? Yeah.
+
+258
+00:10:06,720 --> 00:10:08,860
+If they continue to do this, I think they
+
+259
+00:10:08,860 --> 00:10:11,360
+would be able to have some positive effect
+
+260
+00:10:11,360 --> 00:10:13,200
+in the long run, which for the Titanic,
+
+261
+00:10:13,360 --> 00:10:15,560
+maybe everyone who sings, you know, just
+
+262
+00:10:15,560 --> 00:10:18,320
+dies, right? Yeah. But I would say that
+
+263
+00:10:18,320 --> 00:10:21,460
+if, let's say, you leave, at least you
+
+264
+00:10:21,460 --> 00:10:22,880
+have some moral standing, you know, you
+
+265
+00:10:22,880 --> 00:10:24,440
+have some moral high ground that you can,
+
+266
+00:10:24,560 --> 00:10:27,260
+you know, use to continue the struggle,
+
+267
+00:10:27,460 --> 00:10:29,420
+rather than to let even your reputation
+
+268
+00:10:29,420 --> 00:10:31,600
+sink to the floor of the bottom of the
+
+269
+00:10:31,600 --> 00:10:33,400
+ocean. Yeah. You're saying like you leave,
+
+270
+00:10:33,500 --> 00:10:35,860
+then maybe in the next elections, you
+
+271
+00:10:35,860 --> 00:10:38,760
+have better, a better argument for why
+
+272
+00:10:38,760 --> 00:10:40,440
+they should, your supporters should stick
+
+273
+00:10:40,440 --> 00:10:42,060
+with you. Not even in the next election,
+
+274
+00:10:42,180 --> 00:10:43,880
+in the upcoming general election.
+
+275
+00:10:44,380 --> 00:10:45,560
+Right. If you, if you stay on. In the
+
+276
+00:10:45,560 --> 00:10:47,700
+state election. No, no, I'm saying that,
+
+277
+00:10:47,760 --> 00:10:49,420
+you're saying that next general election.
+
+278
+00:10:49,660 --> 00:10:51,240
+Ah, G16 or? Ah, G16.
+
+279
+00:10:51,360 --> 00:10:53,800
+Okay. So for G16, at least you can see
+
+280
+00:10:53,800 --> 00:10:55,560
+it, I have some moral high ground. If
+
+281
+00:10:55,560 --> 00:10:57,740
+not, then you become a laughingstock,
+
+282
+00:10:57,840 --> 00:10:59,100
+sorry to say. Okay.
+
+283
+00:10:59,260 --> 00:11:00,860
+I think you also mentioned on the day
+
+284
+00:11:00,860 --> 00:11:03,300
+you resigned, is it that you would pledge
+
+285
+00:11:03,300 --> 00:11:05,860
+your support for KJ if he were to be given
+
+286
+00:11:05,860 --> 00:11:07,600
+a seat next election? Yeah.
+
+287
+00:11:07,780 --> 00:11:09,600
+So this is also one of the reasons why
+
+288
+00:11:09,600 --> 00:11:12,780
+I wanted to resign, you know, before G16.
+
+289
+00:11:12,780 --> 00:11:15,020
+Of course, I chose Medeca Day because
+
+290
+00:11:15,020 --> 00:11:16,540
+it was a significant day.
+
+291
+00:11:16,740 --> 00:11:20,800
+Yeah. So when I said that I would
+
+292
+00:11:20,800 --> 00:11:23,400
+campaign for KJ, the first time I said
+
+293
+00:11:23,400 --> 00:11:25,560
+this was on the 10th of January this year
+
+294
+00:11:25,560 --> 00:11:26,980
+when he turned 50.
+
+295
+00:11:27,340 --> 00:11:29,020
+I posted on Instagram and said that.
+
+296
+00:11:29,020 --> 00:11:33,600
+Right. So that time, BN and PH
+
+297
+00:11:33,600 --> 00:11:34,960
+were still working together.
+
+298
+00:11:35,180 --> 00:11:37,040
+And there was a chance that they may work
+
+299
+00:11:37,040 --> 00:11:38,460
+together in the next general election.
+
+300
+00:11:38,680 --> 00:11:41,340
+Right. And at the time, Kyrie hasn't rejoined
+
+301
+00:11:41,340 --> 00:11:45,340
+UMNO yet. So, you know, if let's say the
+
+302
+00:11:45,340 --> 00:11:48,480
+time he did rejoin UMNO, there was a chance,
+
+303
+00:11:48,700 --> 00:11:51,140
+a possibility that BN may still campaign
+
+304
+00:11:51,140 --> 00:11:53,340
+together with PH. But, you know, fast
+
+305
+00:11:53,340 --> 00:11:56,200
+forward after Johor, after Negri Sembilan.
+
+306
+00:11:56,320 --> 00:11:58,020
+Yeah. It's quite obvious that BN will
+
+307
+00:11:58,020 --> 00:11:59,580
+not campaign with PH, right?
+
+308
+00:12:00,060 --> 00:12:02,480
+Yeah. But actually at that time right
+
+309
+00:12:02,480 --> 00:12:03,900
+in January, did you actually think that
+
+310
+00:12:03,900 --> 00:12:06,160
+they would? No, there was a chance because
+
+311
+00:12:06,160 --> 00:12:07,720
+at the time Sabah state elections hadn't
+
+312
+00:12:07,720 --> 00:12:10,120
+happened yet. So you didn't see the vulnerabilities
+
+313
+00:12:10,120 --> 00:12:11,320
+that DAP face.
+
+314
+00:12:11,520 --> 00:12:14,220
+So at that time, BN or specifically UMNO
+
+315
+00:12:14,220 --> 00:12:17,600
+still may have thought there was attraction
+
+316
+00:12:17,600 --> 00:12:20,780
+and also rewards to be gained from working
+
+317
+00:12:20,780 --> 00:12:22,700
+with PH who could deliver the non -malevol
+
+318
+00:12:22,700 --> 00:12:24,560
+to UMNO. Right. Which is what happened
+
+319
+00:12:24,560 --> 00:12:27,040
+in the 2023 state elections in some of
+
+320
+00:12:27,040 --> 00:12:29,840
+the states that BN did manage to win a
+
+321
+00:12:29,840 --> 00:12:32,440
+few seats in Penang, Negri as well as
+
+322
+00:12:32,440 --> 00:12:36,620
+Selangor. Right. But by the time Johor
+
+323
+00:12:36,620 --> 00:12:38,280
+and Negri Sembilan came, that possibility
+
+324
+00:12:38,280 --> 00:12:39,540
+was no longer the cuts.
+
+325
+00:12:39,680 --> 00:12:42,200
+So if let's say I were to campaign for
+
+326
+00:12:42,200 --> 00:12:44,640
+KJ, if he gets a seat in the next general
+
+327
+00:12:44,640 --> 00:12:46,840
+election, then I would be campaigning
+
+328
+00:12:46,840 --> 00:12:48,600
+for an UMNO BN candidate.
+
+329
+00:12:48,980 --> 00:12:50,880
+Yeah. So as a DAP member, I would get
+
+330
+00:12:50,880 --> 00:12:52,180
+sacked. It's a sackable offence.
+
+331
+00:12:52,360 --> 00:12:54,400
+Yeah. Right. So in order to avoid that
+
+332
+00:12:54,400 --> 00:12:57,140
+from happening, better that I resign and
+
+333
+00:12:57,140 --> 00:12:59,920
+not put the head of the disciplinary committee
+
+334
+00:12:59,920 --> 00:13:01,420
+of the DAP in a tough position.
+
+335
+00:13:01,420 --> 00:13:03,580
+That person is none other than Tony Poir,
+
+336
+00:13:03,680 --> 00:13:06,580
+my good friend. Yeah. What are his thoughts
+
+337
+00:13:06,580 --> 00:13:07,900
+actually about your decision?
+
+338
+00:13:07,900 --> 00:13:11,200
+I actually told him about two weeks ago,
+
+339
+00:13:11,860 --> 00:13:15,100
+two weeks before the announcement that
+
+340
+00:13:15,100 --> 00:13:17,300
+I was going to resign. He took a bit of
+
+341
+00:13:17,300 --> 00:13:19,660
+time. I think he was okay with it.
+
+342
+00:13:19,820 --> 00:13:22,100
+He was okay because he saw that the direction
+
+343
+00:13:22,100 --> 00:13:25,300
+I was heading was not one that could sustain
+
+344
+00:13:25,300 --> 00:13:27,660
+me within the party. So yeah, so it's
+
+345
+00:13:27,660 --> 00:13:29,320
+merdeka not just for me, but also for
+
+346
+00:13:29,320 --> 00:13:30,640
+the party. Party itself.
+
+347
+00:13:30,880 --> 00:13:33,300
+Yeah. Okay. Before I ask you about the
+
+348
+00:13:33,300 --> 00:13:35,520
+decision with KG, right?
+
+349
+00:13:35,640 --> 00:13:37,460
+So you made it very clear that you're
+
+350
+00:13:37,460 --> 00:13:40,080
+not going to contest or join any political
+
+351
+00:13:40,080 --> 00:13:41,760
+party for this next elections.
+
+352
+00:13:41,960 --> 00:13:44,060
+Yeah. Why so?
+
+353
+00:13:44,620 --> 00:13:47,980
+And also, you know, do you think that
+
+354
+00:13:47,980 --> 00:13:51,020
+you can provide more or contribute more
+
+355
+00:13:51,020 --> 00:13:53,700
+to our country outside as well?
+
+356
+00:13:54,580 --> 00:13:57,420
+Yeah. Yeah. So the reason for not joining
+
+357
+00:13:57,420 --> 00:14:01,420
+any political party is that, frankly
+
+358
+00:14:01,420 --> 00:14:03,400
+speaking, I don't really see any political
+
+359
+00:14:03,400 --> 00:14:07,460
+party that fits into what
+
+360
+00:14:07,460 --> 00:14:11,260
+I would call would be my core reason for
+
+361
+00:14:11,260 --> 00:14:13,700
+joining politics, which is public policy
+
+362
+00:14:13,700 --> 00:14:16,040
+making. If there was any party that I
+
+363
+00:14:16,040 --> 00:14:18,800
+think still tries to keep to that public
+
+364
+00:14:18,800 --> 00:14:21,640
+policy focus or emphasis.
+
+365
+00:14:21,860 --> 00:14:23,460
+Bersama. Bersama. It would be bersama.
+
+366
+00:14:23,800 --> 00:14:23,860
+Yeah.
+
+367
+00:14:52,440 --> 00:14:53,840
+Yeah.
+
+368
+00:14:53,840 --> 00:14:55,400
+For making any effort in.
+
+369
+00:14:55,860 --> 00:14:57,280
+Why did you say it was present?
+
+370
+00:14:57,420 --> 00:14:59,220
+You were very new that time.
+
+371
+00:14:59,300 --> 00:15:01,920
+I think three years in, right? Yeah.
+
+372
+00:15:03,600 --> 00:15:05,960
+So 2013 was new, you know, in the sense
+
+373
+00:15:05,960 --> 00:15:10,420
+that, you know, I was not,
+
+374
+00:15:10,620 --> 00:15:12,240
+I was. Were you an MP yet?
+
+375
+00:15:12,240 --> 00:15:14,220
+I wasn't an MP yet, but, you know, sort
+
+376
+00:15:14,220 --> 00:15:16,180
+of like got a sense of what was, you know,
+
+377
+00:15:16,300 --> 00:15:17,760
+happening. I've been contributing to the
+
+378
+00:15:17,760 --> 00:15:21,300
+party and also to the coalition for about
+
+379
+00:15:21,300 --> 00:15:23,160
+a year since I joined in 2012.
+
+380
+00:15:25,100 --> 00:15:27,020
+Yeah. Basically, Rafi Z's way of doing
+
+381
+00:15:27,020 --> 00:15:28,320
+things is my way or the highway.
+
+382
+00:15:28,960 --> 00:15:31,280
+Right. I'm not sure to what extent he's
+
+383
+00:15:31,280 --> 00:15:35,100
+changed. I think under the Bersama structure,
+
+384
+00:15:35,580 --> 00:15:37,320
+he has to allow more people to come in
+
+385
+00:15:37,320 --> 00:15:39,140
+to do the heavy lifting.
+
+386
+00:15:39,620 --> 00:15:41,620
+People like Nick Nazmi and then now increasingly
+
+387
+00:15:41,620 --> 00:15:45,460
+Wong Chan, Lee Chen Chong, MP of Petaling
+
+388
+00:15:45,460 --> 00:15:48,260
+Jaya who resigned. Oh, he already announced
+
+389
+00:15:48,260 --> 00:15:50,440
+he's joining Bersama. He's announced his
+
+390
+00:15:50,440 --> 00:15:51,880
+resignation on Friday.
+
+391
+00:15:52,140 --> 00:15:54,020
+I think very likely he'll join Bersama.
+
+392
+00:15:54,240 --> 00:15:55,580
+Yeah. Because I didn't see any of that,
+
+393
+00:15:55,700 --> 00:15:57,560
+but it's very. Yeah. It is a matter of
+
+394
+00:15:57,560 --> 00:15:59,780
+time, right? Right. So I think when you
+
+395
+00:15:59,780 --> 00:16:01,460
+join any other organization, right, I
+
+396
+00:16:01,460 --> 00:16:02,280
+think, you know,
+
+397
+00:16:03,640 --> 00:16:04,840
+I'll look for three things. Yes.
+
+398
+00:16:05,140 --> 00:16:07,240
+And this is my advice to any aspiring
+
+399
+00:16:07,240 --> 00:16:09,520
+politician as well. Younger people and
+
+400
+00:16:09,520 --> 00:16:12,260
+all that. Firstly, the ethos of the organization,
+
+401
+00:16:12,500 --> 00:16:16,060
+the direction, the philosophy, the prioritization.
+
+402
+00:16:16,260 --> 00:16:19,860
+Right. And I think to me, Bersama is actually
+
+403
+00:16:19,860 --> 00:16:22,820
+quite close to what I feel would be my
+
+404
+00:16:22,820 --> 00:16:26,360
+ideal still. Second, you look at the top
+
+405
+00:16:26,360 --> 00:16:27,740
+leadership. Right.
+
+406
+00:16:27,820 --> 00:16:29,580
+Whoever is sitting at the top of the party,
+
+407
+00:16:29,780 --> 00:16:31,840
+usually it's one person, maybe at most
+
+408
+00:16:31,840 --> 00:16:33,860
+two or three. Right. So for DAP, you look
+
+409
+00:16:33,860 --> 00:16:36,740
+at people like Anthony Loke, used to be
+
+410
+00:16:36,740 --> 00:16:39,580
+Lim Guanning, but now less so.
+
+411
+00:16:40,120 --> 00:16:42,360
+Anthony Loke, Nga Koming, Stephen Sim.
+
+412
+00:16:43,220 --> 00:16:45,420
+You look at, you know, somebody like,
+
+413
+00:16:45,580 --> 00:16:49,280
+you look at people like MCA, for example,
+
+414
+00:16:49,460 --> 00:16:51,980
+Wee Ka Xiong and others. And then after
+
+415
+00:16:51,980 --> 00:16:53,540
+that, you look at, the third thing that
+
+416
+00:16:53,540 --> 00:16:55,100
+you look at is the cohort that you're
+
+417
+00:16:55,100 --> 00:16:56,540
+going in with. Right.
+
+418
+00:16:56,540 --> 00:16:58,000
+So who are the people that are around
+
+419
+00:16:58,000 --> 00:16:59,780
+your same age? Who can you work with?
+
+420
+00:16:59,880 --> 00:17:02,880
+Who you may not necessarily work along
+
+421
+00:17:02,880 --> 00:17:04,580
+with. Right. So I think for number two
+
+422
+00:17:04,580 --> 00:17:06,180
+and number three, even though I have a
+
+423
+00:17:06,180 --> 00:17:08,900
+lot of friends in Bersama, I admire and
+
+424
+00:17:08,900 --> 00:17:10,680
+respect somebody like Nick Nazmi, for
+
+425
+00:17:10,680 --> 00:17:14,420
+example. But I think when I look at Rafizi's
+
+426
+00:17:14,420 --> 00:17:16,720
+leadership, I think I myself personally,
+
+427
+00:17:16,720 --> 00:17:18,980
+I don't think I can gel with him.
+
+428
+00:17:19,340 --> 00:17:21,340
+So, yeah. And that's one reason.
+
+429
+00:17:21,480 --> 00:17:23,200
+Second reason is what you talked about
+
+430
+00:17:23,200 --> 00:17:24,840
+just now. I still can contribute to the
+
+431
+00:17:24,840 --> 00:17:26,860
+public policy making ecosystem without
+
+432
+00:17:26,860 --> 00:17:29,820
+being in active frontline party politics.
+
+433
+00:17:30,100 --> 00:17:31,920
+Through the different roles that I play,
+
+434
+00:17:32,300 --> 00:17:34,420
+like board members of business chambers,
+
+435
+00:17:35,160 --> 00:17:36,920
+advisory council members of different
+
+436
+00:17:36,920 --> 00:17:39,520
+associations in the manufacturing ecosystem.
+
+437
+00:17:40,280 --> 00:17:42,160
+You know, now I also have a private sector
+
+438
+00:17:42,160 --> 00:17:44,740
+gig. You know, I use that to try to engage
+
+439
+00:17:44,740 --> 00:17:47,880
+with policymakers in my own industry and
+
+440
+00:17:47,880 --> 00:17:50,780
+sector. So, you know, there's no rush
+
+441
+00:17:50,780 --> 00:17:52,620
+for me to get and join a political party.
+
+442
+00:17:52,620 --> 00:17:55,400
+I feel like, like you said, like Merdeka
+
+443
+00:17:55,400 --> 00:17:57,240
+Day is where you announce. It's a lot
+
+444
+00:17:57,240 --> 00:17:58,720
+of freedom.
+
+445
+00:17:59,240 --> 00:18:02,200
+Not just freedom, but like it's much easier
+
+446
+00:18:02,200 --> 00:18:05,200
+to express your opinions without getting
+
+447
+00:18:05,200 --> 00:18:08,300
+the backlash from your colleagues.
+
+448
+00:18:08,300 --> 00:18:09,900
+Yes. So, yes.
+
+449
+00:18:10,200 --> 00:18:13,520
+And I think now after about over a month
+
+450
+00:18:13,520 --> 00:18:16,540
+after making the announcement, I, you
+
+451
+00:18:16,540 --> 00:18:18,180
+know, shared with a friend recently who's
+
+452
+00:18:18,180 --> 00:18:21,760
+a DAP party member that I feel very relieved
+
+453
+00:18:21,760 --> 00:18:23,360
+that I'm no longer a DAP member.
+
+454
+00:18:23,360 --> 00:18:25,600
+Because when I see what is happening within
+
+455
+00:18:25,600 --> 00:18:29,180
+the DAP, I don't feel as if I have to
+
+456
+00:18:29,180 --> 00:18:31,900
+defend even privately with my friends.
+
+457
+00:18:32,060 --> 00:18:33,820
+Yeah. You know, what's happening to your
+
+458
+00:18:33,820 --> 00:18:35,300
+party, that kind of stuff, right?
+
+459
+00:18:35,480 --> 00:18:37,800
+So, yeah. I mean, it's a relief.
+
+460
+00:18:37,940 --> 00:18:39,580
+It's a relief. Yeah. So, okay.
+
+461
+00:18:39,660 --> 00:18:41,520
+Let's talk about KJ now.
+
+462
+00:18:41,660 --> 00:18:44,120
+So many, a lot of questions I got.
+
+463
+00:18:44,200 --> 00:18:45,680
+I'm glad I got you on today.
+
+464
+00:18:45,700 --> 00:18:47,660
+I can ask all this.
+
+465
+00:18:47,900 --> 00:18:49,700
+Sure. So, it's the sort of opposite for
+
+466
+00:18:49,700 --> 00:18:51,940
+KJ. He was out for how long?
+
+467
+00:18:52,060 --> 00:18:53,640
+Two, three years. Two years plus, right?
+
+468
+00:18:54,720 --> 00:18:56,920
+Yeah. Three years. Three years plus, almost
+
+469
+00:18:56,920 --> 00:18:59,360
+four years. Yeah. So, it's like you were
+
+470
+00:18:59,360 --> 00:19:01,160
+saying, you know, when you're outside,
+
+471
+00:19:02,100 --> 00:19:05,380
+recently you felt sort of a relief and
+
+472
+00:19:05,380 --> 00:19:07,580
+now KJ is back in.
+
+473
+00:19:07,720 --> 00:19:09,320
+I think he went in March or May.
+
+474
+00:19:09,980 --> 00:19:11,220
+Yeah, earlier this year. Yeah.
+
+475
+00:19:11,760 --> 00:19:13,840
+I'm guessing you already knew that he
+
+476
+00:19:13,840 --> 00:19:15,460
+was going to go back in before.
+
+477
+00:19:15,520 --> 00:19:17,620
+I had an inkling. I had a strong inkling.
+
+478
+00:19:17,980 --> 00:19:20,240
+Yeah. So, I'll let you answer this.
+
+479
+00:19:20,720 --> 00:19:22,300
+I'm pretty sure you can tell by just the
+
+480
+00:19:22,300 --> 00:19:24,860
+comments on are we okay? Heavy, heavy
+
+481
+00:19:24,860 --> 00:19:27,600
+backlash. Yeah. You know. So, why do you
+
+482
+00:19:27,600 --> 00:19:29,540
+think they are unhappy with you?
+
+483
+00:19:30,880 --> 00:19:33,640
+I expected that. I didn't expect it to
+
+484
+00:19:33,640 --> 00:19:35,540
+be so...
+
+485
+00:19:36,040 --> 00:19:38,100
+It was almost all, you know, comments.
+
+486
+00:19:38,460 --> 00:19:40,620
+Oh, yeah. Because, sorry, because from
+
+487
+00:19:40,620 --> 00:19:42,180
+myself, I...
+
+488
+00:19:42,180 --> 00:19:44,500
+To my limited knowledge, I've observed
+
+489
+00:19:44,500 --> 00:19:46,000
+you. I feel like you've always been someone
+
+490
+00:19:46,000 --> 00:19:49,300
+who's been very... Stick true to your
+
+491
+00:19:49,300 --> 00:19:51,760
+principles. Very articulate when you speak.
+
+492
+00:19:53,200 --> 00:19:54,760
+You're not just someone who just simply
+
+493
+00:19:54,760 --> 00:19:57,600
+talk. Very analytical. I choose to believe
+
+494
+00:19:57,600 --> 00:19:59,580
+like there would be a good reasoning,
+
+495
+00:19:59,700 --> 00:20:02,700
+you know, for you to make this decision.
+
+496
+00:20:02,700 --> 00:20:04,780
+And, you know, I think most of the backlash
+
+497
+00:20:04,780 --> 00:20:08,000
+just stems from the fact that people cannot
+
+498
+00:20:08,000 --> 00:20:09,740
+separate KJ from the party.
+
+499
+00:20:10,160 --> 00:20:11,660
+Right? That's one of it.
+
+500
+00:20:11,840 --> 00:20:13,560
+But, yeah, I want to hear from your side
+
+501
+00:20:13,560 --> 00:20:14,740
+as well. Sure.
+
+502
+00:20:16,080 --> 00:20:17,920
+Actually, if you delve into the comments
+
+503
+00:20:17,920 --> 00:20:22,380
+with regards to my support for KJ at
+
+504
+00:20:22,380 --> 00:20:24,900
+the end of my resignation post on Facebook.
+
+505
+00:20:25,740 --> 00:20:27,700
+Oh, I didn't see that one. There's actually
+
+506
+00:20:27,700 --> 00:20:29,780
+a bit of a racial divide.
+
+507
+00:20:30,580 --> 00:20:34,840
+Yeah. Meaning, many non -Malays, especially
+
+508
+00:20:34,840 --> 00:20:36,980
+those who hate Barisan National and UMNO.
+
+509
+00:20:37,500 --> 00:20:40,920
+Yeah. They would, you know, they would
+
+510
+00:20:40,920 --> 00:20:43,160
+have criticized my decision.
+
+511
+00:20:43,300 --> 00:20:44,640
+Not my decision to leave the DAP.
+
+512
+00:20:45,940 --> 00:20:48,180
+Your decision to help. To support KJ.
+
+513
+00:20:48,180 --> 00:20:51,460
+Right? And, you know, these are, I think,
+
+514
+00:20:51,580 --> 00:20:54,560
+mostly maybe those pro -reformacy voters.
+
+515
+00:20:54,920 --> 00:20:58,260
+Those voters who saw KJ when he was, you
+
+516
+00:20:58,260 --> 00:21:01,220
+know, this way before, you know, UMNO,
+
+517
+00:21:01,640 --> 00:21:03,360
+Fourth Floor Boys days and things like
+
+518
+00:21:03,360 --> 00:21:05,640
+that. Right? And they still remember that,
+
+519
+00:21:05,760 --> 00:21:07,320
+you know, for the younger viewers, Fourth
+
+520
+00:21:07,320 --> 00:21:09,560
+Floor is a reference point to the Prime
+
+521
+00:21:09,560 --> 00:21:11,660
+Minister's office. When Pak La was the
+
+522
+00:21:11,660 --> 00:21:14,540
+Prime Minister, KJ and a few of his, you
+
+523
+00:21:14,540 --> 00:21:16,900
+know, close friends, very smart young
+
+524
+00:21:16,900 --> 00:21:19,020
+people were helping Pak La with different
+
+525
+00:21:19,020 --> 00:21:20,800
+public policies. And they were termed
+
+526
+00:21:20,800 --> 00:21:23,000
+as the Fourth Floor Boys. They were obviously,
+
+527
+00:21:23,220 --> 00:21:25,260
+you know, females as well.
+
+528
+00:21:25,400 --> 00:21:27,540
+So, but that was the moniker that helped.
+
+529
+00:21:27,720 --> 00:21:29,280
+I didn't know about the Fourth Floor thing.
+
+530
+00:21:29,280 --> 00:21:32,320
+So, actually, what is it about that incident
+
+531
+00:21:32,320 --> 00:21:33,820
+that rubbed people the wrong way?
+
+532
+00:21:33,900 --> 00:21:36,620
+It's not an incident. It is, you know,
+
+533
+00:21:36,700 --> 00:21:39,520
+a period of time where Kyrie was labeled
+
+534
+00:21:39,520 --> 00:21:41,780
+as the most powerful son -in -law in Malaysia.
+
+535
+00:21:42,080 --> 00:21:44,240
+Ah, okay. You know, and, you know,
+
+536
+00:21:46,140 --> 00:21:48,080
+rightly or wrongly, people said that he,
+
+537
+00:21:48,260 --> 00:21:52,060
+you know, influenced a lot of Pak La's
+
+538
+00:21:52,060 --> 00:21:54,600
+thinking and policies, was a gatekeeper,
+
+539
+00:21:55,040 --> 00:21:57,040
+and so on and so forth.
+
+540
+00:21:57,040 --> 00:22:00,100
+Right. So, I think a lot of those comments
+
+541
+00:22:00,100 --> 00:22:02,380
+by the older generation, you know, older
+
+542
+00:22:02,380 --> 00:22:04,620
+meaning people my age, around those who
+
+543
+00:22:04,620 --> 00:22:08,080
+are in their, I would say, between 45
+
+544
+00:22:08,080 --> 00:22:10,320
+to about 65, around that age.
+
+545
+00:22:11,080 --> 00:22:14,720
+And, yeah. So, a lot of them would have
+
+546
+00:22:14,720 --> 00:22:17,780
+remembered that episode and criticized
+
+547
+00:22:17,780 --> 00:22:21,300
+KJ. There are also some Malays who criticized
+
+548
+00:22:21,300 --> 00:22:24,900
+my decision because they may have been
+
+549
+00:22:24,900 --> 00:22:27,340
+fans of KJ in his own podcast, Keluas
+
+550
+00:22:27,340 --> 00:22:29,840
+Kejap. But once he went back to UMNO,
+
+551
+00:22:30,140 --> 00:22:32,620
+then they started seeing that he, you
+
+552
+00:22:32,620 --> 00:22:34,920
+know, may be saying things that are more
+
+553
+00:22:34,920 --> 00:22:36,280
+pro -BN, more pro -UMNO.
+
+554
+00:22:36,420 --> 00:22:37,820
+So, he lost the independence.
+
+555
+00:22:38,140 --> 00:22:40,360
+Yeah, he did. And I think, you know, some
+
+556
+00:22:40,360 --> 00:22:42,940
+Malays also didn't appreciate that.
+
+557
+00:22:43,060 --> 00:22:45,020
+And KJ admitted that as much in his own
+
+558
+00:22:45,020 --> 00:22:49,240
+podcast. But for me, I
+
+559
+00:22:49,240 --> 00:22:51,460
+could see that many comments that were
+
+560
+00:22:51,460 --> 00:22:55,640
+positive were coming from the Malay audience,
+
+561
+00:22:55,980 --> 00:22:58,500
+whether it's on my Facebook or on other
+
+562
+00:22:58,500 --> 00:23:00,120
+commentaries and whatnot, right?
+
+563
+00:23:00,340 --> 00:23:03,580
+And, you know, to me, this kind of racial
+
+564
+00:23:03,580 --> 00:23:05,160
+divide is also quite interesting, right?
+
+565
+00:23:05,160 --> 00:23:08,500
+Because, you know, I think it would have
+
+566
+00:23:08,500 --> 00:23:11,440
+been okay if, let's say, for the non -Malays,
+
+567
+00:23:11,540 --> 00:23:13,040
+if, let's say, I'd gone and joined Bersama,
+
+568
+00:23:13,520 --> 00:23:17,160
+right, with Rafi Z. Oh, they would, I
+
+569
+00:23:17,160 --> 00:23:19,680
+think you would, maybe a majority would
+
+570
+00:23:19,680 --> 00:23:21,320
+be okay. Yeah, yeah, yeah.
+
+571
+00:23:21,320 --> 00:23:22,740
+I would say that. Yeah, I would say that,
+
+572
+00:23:22,840 --> 00:23:26,340
+yeah. But I think for the Malay audience,
+
+573
+00:23:26,700 --> 00:23:29,040
+I would say a majority of them would be
+
+574
+00:23:29,040 --> 00:23:31,140
+okay with me supporting KJ because they
+
+575
+00:23:31,140 --> 00:23:34,400
+can see the potential of KJ as a political
+
+576
+00:23:34,400 --> 00:23:36,700
+leader for the country. Even after he
+
+577
+00:23:36,700 --> 00:23:39,240
+rejoined UMNO and Barisan National.
+
+578
+00:23:40,120 --> 00:23:44,320
+Yeah, so then the question is, what
+
+579
+00:23:44,320 --> 00:23:47,060
+is it about KJ that you would want to
+
+580
+00:23:47,060 --> 00:23:48,900
+devote your support in helping?
+
+581
+00:23:49,120 --> 00:23:51,140
+Many people have, they've said this for
+
+582
+00:23:51,140 --> 00:23:53,200
+many years already. They see PM potential
+
+583
+00:23:53,200 --> 00:23:56,560
+in KJ. Obviously, he carries himself very
+
+584
+00:23:56,560 --> 00:23:57,920
+well, speaks very well.
+
+585
+00:23:58,120 --> 00:23:59,860
+And, you know, there's also that stain
+
+586
+00:23:59,860 --> 00:24:02,120
+of the Curious moment, right, when in
+
+587
+00:24:02,120 --> 00:24:03,900
+his UMNO youth times.
+
+588
+00:24:04,400 --> 00:24:07,280
+He has addressed that, you know, and has
+
+589
+00:24:07,280 --> 00:24:09,320
+talked about how, you know, those things
+
+590
+00:24:09,320 --> 00:24:11,820
+that he did in the past, it's not something
+
+591
+00:24:11,820 --> 00:24:13,820
+that he would avoid. But, yeah, what is
+
+592
+00:24:13,820 --> 00:24:15,900
+it about? Maybe I throw the question back
+
+593
+00:24:15,900 --> 00:24:17,920
+to you before I answer. You like to do
+
+594
+00:24:17,920 --> 00:24:21,060
+that. Yeah, as somebody in the younger
+
+595
+00:24:21,060 --> 00:24:23,300
+generation, you know, you would be Gen
+
+596
+00:24:23,300 --> 00:24:25,440
+Z, I presume, around there?
+
+597
+00:24:26,040 --> 00:24:28,020
+No, no, no. Or millennial. Gen Z is 1999.
+
+598
+00:24:29,020 --> 00:24:31,140
+Yeah. Okay, okay, okay.
+
+599
+00:24:31,140 --> 00:24:34,860
+I'm 94. Okay, just millennial, almost
+
+600
+00:24:34,860 --> 00:24:37,220
+there, Gen Z. Okay. But even millennials,
+
+601
+00:24:37,260 --> 00:24:38,620
+I think it would be relevant, you know,
+
+602
+00:24:38,700 --> 00:24:40,780
+in the sense that what, when you look
+
+603
+00:24:40,780 --> 00:24:45,820
+at Kyrie, you know, let's say, when
+
+604
+00:24:45,820 --> 00:24:47,440
+he was, let's say, health minister during
+
+605
+00:24:47,440 --> 00:24:49,780
+COVID. Okay. And then, after that, when
+
+606
+00:24:49,780 --> 00:24:52,620
+he was a podcaster, still is, but not
+
+607
+00:24:52,620 --> 00:24:55,400
+having joined UMNO, or rejoined UMNO.
+
+608
+00:24:55,520 --> 00:24:57,520
+And then now, after he rejoined UMNO,
+
+609
+00:24:57,860 --> 00:25:00,060
+what are your impressions of him at these
+
+610
+00:25:00,060 --> 00:25:01,780
+three parts of his life?
+
+611
+00:25:02,100 --> 00:25:05,060
+Okay. I'll be honest, COVID, time to time,
+
+612
+00:25:05,180 --> 00:25:07,680
+when he was a health minister, I didn't
+
+613
+00:25:07,680 --> 00:25:09,240
+pay too much attention. I paid only when,
+
+614
+00:25:09,400 --> 00:25:11,080
+after he joined Keloas Kejap, when he,
+
+615
+00:25:11,440 --> 00:25:13,360
+yeah, started Keloas Kejap.
+
+616
+00:25:13,500 --> 00:25:15,180
+After he got kicked out of UMNO. Yes,
+
+617
+00:25:15,260 --> 00:25:17,000
+sir. So, when, I mean, if I'm just being
+
+618
+00:25:17,000 --> 00:25:19,040
+very blind and put it, and just speaking
+
+619
+00:25:19,040 --> 00:25:23,060
+my mind, I really think he's,
+
+620
+00:25:23,220 --> 00:25:26,820
+he is a very progressive person inside,
+
+621
+00:25:27,180 --> 00:25:29,560
+you know, and he was with a party that
+
+622
+00:25:29,560 --> 00:25:31,920
+is nationalist Malay.
+
+623
+00:25:32,020 --> 00:25:34,300
+That's not exactly, he even publicly stated
+
+624
+00:25:34,300 --> 00:25:37,000
+that they could try, UMNO could try and
+
+625
+00:25:37,000 --> 00:25:38,840
+go in that direction, multiracial.
+
+626
+00:25:39,280 --> 00:25:40,720
+I think, if I'm not mistaken, that was
+
+627
+00:25:40,720 --> 00:25:42,780
+one of the reasons why he got kicked out,
+
+628
+00:25:42,940 --> 00:25:45,300
+is it? No. Main reason he got kicked out
+
+629
+00:25:45,300 --> 00:25:47,300
+was because he had a big public falling
+
+630
+00:25:47,300 --> 00:25:49,100
+out with his president, Saeed Hamidi.
+
+631
+00:25:49,420 --> 00:25:51,820
+Yeah, but maybe when he also made that
+
+632
+00:25:51,820 --> 00:25:53,340
+statement, it was also not too favourable.
+
+633
+00:25:54,080 --> 00:25:56,120
+Yeah, sometimes the progressive elements
+
+634
+00:25:56,120 --> 00:25:58,740
+of KJ, and not just him, but others also,
+
+635
+00:25:58,860 --> 00:26:01,800
+like Shah Ril, when it becomes too big
+
+636
+00:26:01,800 --> 00:26:04,500
+of a clarion call, it's also almost as
+
+637
+00:26:04,500 --> 00:26:06,400
+if they are betraying their Malay principles.
+
+638
+00:26:06,580 --> 00:26:08,760
+This is within UMNO. Yeah, and it's, you
+
+639
+00:26:08,760 --> 00:26:11,400
+know, it's funny because, I mean, we,
+
+640
+00:26:11,560 --> 00:26:14,740
+we, everyday Malaysians, right, we see
+
+641
+00:26:14,740 --> 00:26:16,920
+these people and we know, obviously, come
+
+642
+00:26:16,920 --> 00:26:19,580
+on, man, look at the, their network of
+
+643
+00:26:19,580 --> 00:26:20,840
+people that they are around.
+
+644
+00:26:21,020 --> 00:26:23,500
+They're very obvious progressive people.
+
+645
+00:26:26,280 --> 00:26:28,220
+Multi -racial network of friends is the,
+
+646
+00:26:28,380 --> 00:26:29,820
+is very obvious.
+
+647
+00:26:31,360 --> 00:26:33,620
+So, but I do see also the side of KJ,
+
+648
+00:26:33,900 --> 00:26:35,140
+you know, right, when he joined back into
+
+649
+00:26:35,140 --> 00:26:39,280
+UMNO recently, he
+
+650
+00:26:39,280 --> 00:26:41,080
+is maybe a bit more critical.
+
+651
+00:26:41,460 --> 00:26:43,780
+I mean, he was very critical of PMX already
+
+652
+00:26:43,780 --> 00:26:45,620
+before then. Now he's got to step it up
+
+653
+00:26:45,620 --> 00:26:47,420
+a notch. I guess you're just doing your,
+
+654
+00:26:47,780 --> 00:26:50,660
+you're playing your politics, showing
+
+655
+00:26:50,660 --> 00:26:52,820
+your party that you are very much in the
+
+656
+00:26:52,820 --> 00:26:54,560
+force right now. Something like that.
+
+657
+00:26:54,560 --> 00:26:56,040
+Being a good team player.
+
+658
+00:26:56,220 --> 00:26:58,240
+Yeah, a good team player. Unlike me when
+
+659
+00:26:58,240 --> 00:27:00,340
+I was in the DAP. Yeah, yeah, yeah.
+
+660
+00:27:01,440 --> 00:27:03,700
+Yeah, so you see, these are the things
+
+661
+00:27:03,700 --> 00:27:06,900
+that, one of the, I guess, interesting
+
+662
+00:27:06,900 --> 00:27:08,780
+differences that I see in both of you
+
+663
+00:27:08,780 --> 00:27:11,840
+guys. And also, interestingly, you're,
+
+664
+00:27:11,840 --> 00:27:13,700
+you're, you're devoting your, and you
+
+665
+00:27:13,700 --> 00:27:15,040
+pledge your support to him. So, that's
+
+666
+00:27:15,040 --> 00:27:16,640
+why I'm trying to understand why I'm not
+
+667
+00:27:16,640 --> 00:27:18,840
+saying that KJ is a bad person or not.
+
+668
+00:27:19,680 --> 00:27:21,700
+Because we are, the way I look at it,
+
+669
+00:27:21,780 --> 00:27:24,820
+I'm also, I can say I also like him, right?
+
+670
+00:27:26,460 --> 00:27:28,060
+I think a lot of people, the people my
+
+671
+00:27:28,060 --> 00:27:29,320
+age also that like him, they think that,
+
+672
+00:27:29,380 --> 00:27:31,380
+okay, he has that stain. UMNO youth day
+
+673
+00:27:31,380 --> 00:27:35,320
+stain in him. But that is, in the long
+
+674
+00:27:35,320 --> 00:27:36,900
+run, that is not his goal.
+
+675
+00:27:36,900 --> 00:27:40,900
+He wants to, he wants to try and, I don't
+
+676
+00:27:40,900 --> 00:27:42,800
+know, is it possible to turn UMNO progressive?
+
+677
+00:27:43,900 --> 00:27:45,600
+And multi, multi racial?
+
+678
+00:27:45,600 --> 00:27:48,680
+I don't think it is possible, I don't
+
+679
+00:27:48,680 --> 00:27:50,240
+think it's possible to turn UMNO multi
+
+680
+00:27:50,240 --> 00:27:52,580
+racial because UMNO stands for United
+
+681
+00:27:52,580 --> 00:27:54,800
+Malay National Organization.
+
+682
+00:27:55,060 --> 00:27:55,580
+They can change the name.
+
+683
+00:27:57,000 --> 00:28:00,500
+No, so I would say, it is possible to
+
+684
+00:28:00,500 --> 00:28:04,580
+strengthen the multi racial and multi
+
+685
+00:28:04,580 --> 00:28:07,880
+religious nature of Barisan National.
+
+686
+00:28:08,380 --> 00:28:09,640
+So, multi what?
+
+687
+00:28:10,000 --> 00:28:12,860
+Multi racial, multi religious aspect of
+
+688
+00:28:12,860 --> 00:28:15,300
+Barisan National. That was the clarion
+
+689
+00:28:15,300 --> 00:28:17,200
+call for the coming together of Barisan
+
+690
+00:28:17,200 --> 00:28:20,780
+National. You have the three races represented
+
+691
+00:28:20,780 --> 00:28:22,480
+in Peninsular Malaysia and then later
+
+692
+00:28:22,480 --> 00:28:26,220
+on, the Sabahans and the Sarawakans were
+
+693
+00:28:26,220 --> 00:28:28,780
+brought in. And I think over time, that
+
+694
+00:28:28,780 --> 00:28:30,500
+may have been diluted for all sorts of
+
+695
+00:28:30,500 --> 00:28:32,260
+different reasons. Maybe UMNO became more,
+
+696
+00:28:32,380 --> 00:28:35,040
+too overly dominant. And then, of course,
+
+697
+00:28:35,140 --> 00:28:36,840
+there was the 1MDB scandal and all that
+
+698
+00:28:36,840 --> 00:28:39,840
+kind of stuff, right? So, now as UMNO
+
+699
+00:28:39,840 --> 00:28:42,020
+approaches the 16th general election,
+
+700
+00:28:42,360 --> 00:28:46,160
+I think there is some sort of effort led
+
+701
+00:28:46,160 --> 00:28:49,800
+by Zahid Hamidi, ironically, to want to
+
+702
+00:28:49,800 --> 00:28:53,380
+strengthen the relationship between UMNO,
+
+703
+00:28:53,840 --> 00:28:55,240
+MIC and MCA.
+
+704
+00:28:55,240 --> 00:28:57,880
+Because, let me take you behind the curtain.
+
+705
+00:28:58,380 --> 00:29:00,720
+When I say that there was a possibility
+
+706
+00:29:00,720 --> 00:29:04,220
+that BN may have worked with UMNO, this
+
+707
+00:29:04,220 --> 00:29:07,560
+was before the Sabah state elections earlier
+
+708
+00:29:07,560 --> 00:29:10,800
+in this year, whereby there was a possibility
+
+709
+00:29:10,800 --> 00:29:15,020
+that UMNO may have ditched Barisan National.
+
+710
+00:29:15,020 --> 00:29:17,000
+That means do not want the baggage of
+
+711
+00:29:17,000 --> 00:29:21,120
+MIC and also MCA and work directly with
+
+712
+00:29:21,120 --> 00:29:25,200
+PH, including DAP, to be able to get
+
+713
+00:29:25,200 --> 00:29:27,000
+access to the non -Malay vote share.
+
+714
+00:29:27,160 --> 00:29:29,480
+You're talking about leading up to the
+
+715
+00:29:29,480 --> 00:29:32,240
+state elections? No. Meaning earlier this
+
+716
+00:29:32,240 --> 00:29:33,940
+year, before Sabah state elections.
+
+717
+00:29:34,360 --> 00:29:36,160
+Sabah state elections showed the vulnerability
+
+718
+00:29:36,160 --> 00:29:38,680
+of the DAP when DAP lost all eight state
+
+719
+00:29:38,680 --> 00:29:42,260
+seats. It showed that DAP did not have
+
+720
+00:29:42,260 --> 00:29:44,420
+control of the non -Malay vote anymore.
+
+721
+00:29:45,040 --> 00:29:48,240
+So, that was when UMNO decided to re -evaluate
+
+722
+00:29:48,240 --> 00:29:50,140
+its position and strategy.
+
+723
+00:29:50,600 --> 00:29:53,720
+And when the first test came, which was
+
+724
+00:29:53,720 --> 00:29:57,260
+Johor, and that was when MCA won more
+
+725
+00:29:57,260 --> 00:29:58,840
+seats than DAP, the first time it has
+
+726
+00:29:58,840 --> 00:30:00,480
+happened at the state level in 20 years,
+
+727
+00:30:00,700 --> 00:30:02,860
+that was when BN realized that it did
+
+728
+00:30:02,860 --> 00:30:06,360
+not need the DAP. MCA won more state seats
+
+729
+00:30:06,360 --> 00:30:08,280
+than DAP in the Johor state elections,
+
+730
+00:30:08,460 --> 00:30:11,400
+eight versus six. And managed to claw
+
+731
+00:30:11,400 --> 00:30:13,340
+back some of the Chinese votes in certain
+
+732
+00:30:13,340 --> 00:30:16,340
+seats, even up to 30 % for some of the
+
+733
+00:30:16,340 --> 00:30:20,340
+seats. That was when I think UMNO re -evaluated
+
+734
+00:30:20,340 --> 00:30:22,580
+this initial possibility.
+
+735
+00:30:22,580 --> 00:30:25,460
+And then, I think, went back to its more
+
+736
+00:30:25,460 --> 00:30:27,640
+comfortable roots of trying to strengthen
+
+737
+00:30:27,640 --> 00:30:30,660
+Barisan National together with MIC and
+
+738
+00:30:30,660 --> 00:30:35,800
+MCA. So, going back to your point, if
+
+739
+00:30:35,800 --> 00:30:38,120
+let's say you want a more progressive
+
+740
+00:30:38,120 --> 00:30:42,040
+UMNO, it should be in the context of a
+
+741
+00:30:42,040 --> 00:30:44,780
+more progressive Barisan National, where
+
+742
+00:30:44,780 --> 00:30:47,760
+the viewpoints of the other parties can
+
+743
+00:30:47,760 --> 00:30:49,400
+be brought in to the picture.
+
+744
+00:30:49,400 --> 00:30:53,740
+Okay, this is where, I think, again, drawing
+
+745
+00:30:53,740 --> 00:30:56,260
+you behind the curtain, right? In the
+
+746
+00:30:56,260 --> 00:31:00,280
+past, when UMNO was very dominant, it
+
+747
+00:31:00,280 --> 00:31:02,540
+was always very easy to overlook MIC and
+
+748
+00:31:02,540 --> 00:31:05,440
+MCA. Because all you needed to do, or
+
+749
+00:31:05,440 --> 00:31:07,900
+not all you needed to do, but a lot of
+
+750
+00:31:07,900 --> 00:31:11,980
+the times, as long as you gave MIC and
+
+751
+00:31:11,980 --> 00:31:14,760
+MCA access to positions of power,
+
+752
+00:31:16,380 --> 00:31:19,300
+you know, the perks of power, being able
+
+753
+00:31:19,300 --> 00:31:21,120
+to appoint people in your party to be
+
+754
+00:31:21,120 --> 00:31:23,760
+senators, being able to appoint your party
+
+755
+00:31:23,760 --> 00:31:27,200
+leaders who are not MPs or ADUNs to be
+
+756
+00:31:27,200 --> 00:31:29,920
+chairman of statutory boards and whatnot.
+
+757
+00:31:30,680 --> 00:31:33,580
+Even if, let's say, some things, you know,
+
+758
+00:31:33,720 --> 00:31:36,500
+may not sit well with MC or MIC, they
+
+759
+00:31:36,500 --> 00:31:38,360
+could overlook that because of access
+
+760
+00:31:38,360 --> 00:31:40,600
+to these perks, access to these positions.
+
+761
+00:31:40,860 --> 00:31:42,360
+And, of course, there were some policy
+
+762
+00:31:42,360 --> 00:31:43,960
+concessions, minor ones here and there.
+
+763
+00:31:45,420 --> 00:31:49,460
+At the same time, MC and MIC also did
+
+764
+00:31:49,460 --> 00:31:51,780
+not strengthen their own leadership, especially
+
+765
+00:31:51,780 --> 00:31:54,300
+the younger ones, to be able to contribute
+
+766
+00:31:54,300 --> 00:31:56,740
+to public policy conversations.
+
+767
+00:31:57,120 --> 00:31:59,860
+Meaning, everything, you basically let
+
+768
+00:31:59,860 --> 00:32:02,200
+UMNO take the lead on important issues
+
+769
+00:32:02,200 --> 00:32:06,340
+of economy, of education and
+
+770
+00:32:06,340 --> 00:32:08,720
+whatnot. And then, I only take care of
+
+771
+00:32:08,720 --> 00:32:10,280
+very narrow, narrow interests, meaning
+
+772
+00:32:10,280 --> 00:32:12,080
+Chinese education, Tamil education.
+
+773
+00:32:12,380 --> 00:32:14,260
+And then, all these other stuff, I just
+
+774
+00:32:14,260 --> 00:32:15,940
+let you take work.
+
+775
+00:32:15,940 --> 00:32:18,200
+I'm not going to handle. And then, the
+
+776
+00:32:18,200 --> 00:32:20,220
+concession is that you give me what I
+
+777
+00:32:20,220 --> 00:32:22,740
+want in other areas. Does this remind
+
+778
+00:32:22,740 --> 00:32:26,600
+you of anything that have happened in
+
+779
+00:32:26,600 --> 00:32:28,880
+the Malaysian government or the polity
+
+780
+00:32:28,880 --> 00:32:31,800
+in the recent past? No, I can't.
+
+781
+00:32:31,880 --> 00:32:33,640
+You can't. I have not come to mind. You
+
+782
+00:32:33,640 --> 00:32:35,540
+can't. I mean, people who hold on to their
+
+783
+00:32:35,540 --> 00:32:38,960
+positions. I mean, like what we just talked
+
+784
+00:32:38,960 --> 00:32:41,960
+about earlier. Yeah, the DAP leaders.
+
+785
+00:32:42,120 --> 00:32:45,440
+But, yeah, that's politics for you.
+
+786
+00:32:45,640 --> 00:32:48,100
+I think of it very, I think it's a very
+
+787
+00:32:48,100 --> 00:32:51,740
+simplistic view. I look at it like MCA,
+
+788
+00:32:51,880 --> 00:32:56,000
+MIC, they are seen as together with BN.
+
+789
+00:32:56,000 --> 00:33:00,000
+And also, because of that, they
+
+790
+00:33:00,000 --> 00:33:02,560
+were at one point heavily stained from
+
+791
+00:33:02,560 --> 00:33:05,700
+the whole 1MDB incident, right?
+
+792
+00:33:05,780 --> 00:33:08,940
+1MDB even sort of like not being able
+
+793
+00:33:08,940 --> 00:33:12,080
+to stand up to UMNO on certain racial
+
+794
+00:33:12,080 --> 00:33:13,500
+and religious issues and whatnot.
+
+795
+00:33:13,500 --> 00:33:18,620
+So, I actually don't understand where
+
+796
+00:33:18,620 --> 00:33:20,380
+did this, you know, it was funny, man.
+
+797
+00:33:20,460 --> 00:33:21,900
+At one, I think just not too long ago,
+
+798
+00:33:22,040 --> 00:33:23,200
+we were like, people were saying UMNO
+
+799
+00:33:23,200 --> 00:33:25,160
+is a dead party, dead party. And then
+
+800
+00:33:25,160 --> 00:33:26,600
+suddenly, like you said, you know, MCA
+
+801
+00:33:26,600 --> 00:33:29,460
+for the first time in…
+
+802
+00:33:29,460 --> 00:33:31,380
+20 years. 20 years. Yeah, in 20 years.
+
+803
+00:33:31,600 --> 00:33:34,120
+Since 2020. Yeah, I managed to beat DAP
+
+804
+00:33:34,120 --> 00:33:37,660
+in Johor. Who are these MCA supporters?
+
+805
+00:33:37,800 --> 00:33:39,800
+I assume they are… MCA is definitely Chinese
+
+806
+00:33:39,800 --> 00:33:42,260
+people supporting. Yeah, so…
+
+807
+00:33:42,900 --> 00:33:44,480
+What's the psyche behind the voters?
+
+808
+00:33:44,640 --> 00:33:46,200
+I'll talk a bit more about MCA first and
+
+809
+00:33:46,200 --> 00:33:47,840
+then I'll come back to Kyrie since you
+
+810
+00:33:47,840 --> 00:33:49,320
+wanted to ask about him.
+
+811
+00:33:49,980 --> 00:33:52,540
+See, for MCA in Johor, what a lot of people
+
+812
+00:33:52,540 --> 00:33:54,380
+don't realize is that there are a lot
+
+813
+00:33:54,380 --> 00:33:57,460
+of, you know, people who used to support
+
+814
+00:33:57,460 --> 00:34:00,540
+MCA that still wants MCA and Barisan National
+
+815
+00:34:00,540 --> 00:34:02,380
+to be strong in Johor. I'm talking about
+
+816
+00:34:02,380 --> 00:34:05,480
+non -Malays. Because there's this historical
+
+817
+00:34:05,480 --> 00:34:07,820
+attachment. They saw the contribution
+
+818
+00:34:07,820 --> 00:34:10,500
+of MCA in Johor over a prolonged period
+
+819
+00:34:10,500 --> 00:34:12,800
+of time, economic, social and whatnot.
+
+820
+00:34:13,600 --> 00:34:17,600
+And, you know, those were beginning to
+
+821
+00:34:17,600 --> 00:34:19,500
+react… Those were…
+
+822
+00:34:19,500 --> 00:34:22,200
+Those kinds of feelings were starting
+
+823
+00:34:22,200 --> 00:34:25,000
+to be reactivated under the leadership
+
+824
+00:34:25,000 --> 00:34:28,680
+of On Hafiz. Because in On Hafiz, they
+
+825
+00:34:28,680 --> 00:34:31,040
+saw the face of a progressive Malay leader
+
+826
+00:34:31,040 --> 00:34:34,600
+within UMNO that could lead the state
+
+827
+00:34:34,600 --> 00:34:37,460
+well, economically, politically, socially,
+
+828
+00:34:37,760 --> 00:34:41,020
+that is inclusive. And at the same time,
+
+829
+00:34:41,300 --> 00:34:44,480
+you also had a couple of MCA younger leaders
+
+830
+00:34:44,480 --> 00:34:46,340
+that stepped up to the plate in the state
+
+831
+00:34:46,340 --> 00:34:49,640
+government, providing support to On Hafiz.
+
+832
+00:34:49,640 --> 00:34:51,420
+So this one, probably a lot of your readers
+
+833
+00:34:51,420 --> 00:34:53,860
+or listeners don't know or don't realize.
+
+834
+00:34:58,000 --> 00:35:00,520
+In 2021 December, the state elections
+
+835
+00:35:00,520 --> 00:35:01,880
+that happened during COVID, right?
+
+836
+00:35:02,180 --> 00:35:04,060
+Of course, BN won big. Not as big as what
+
+837
+00:35:04,060 --> 00:35:06,320
+they won now. But they won.
+
+838
+00:35:06,480 --> 00:35:08,420
+You know, I think it was 40 out of 56
+
+839
+00:35:08,420 --> 00:35:12,620
+seats. But there were two MCA young candidates
+
+840
+00:35:12,620 --> 00:35:15,200
+that became ex -co that really performed.
+
+841
+00:35:15,860 --> 00:35:19,300
+One guy was Ling Tiansun, who is the adun
+
+842
+00:35:19,300 --> 00:35:23,380
+for Yongping. And Yongping is a 56 % Chinese
+
+843
+00:35:23,380 --> 00:35:25,820
+majority seat. This guy managed to win
+
+844
+00:35:25,820 --> 00:35:28,000
+it. Usually under those circumstances,
+
+845
+00:35:28,220 --> 00:35:31,320
+right, that is a 100 % winnable seat for
+
+846
+00:35:31,320 --> 00:35:34,500
+DAP. But he worked hard on the ground.
+
+847
+00:35:35,660 --> 00:35:38,460
+Yongping is in the parliamentary constituency
+
+848
+00:35:38,460 --> 00:35:41,220
+of Ai Hitam, which is Wee Ka Xiong's parliamentary
+
+849
+00:35:41,220 --> 00:35:46,320
+constituency. And he is
+
+850
+00:35:46,320 --> 00:35:47,680
+sort of like the grassroots leader that
+
+851
+00:35:47,680 --> 00:35:50,080
+managed to convince a lot of the local
+
+852
+00:35:50,080 --> 00:35:51,740
+Chinese community there to support him.
+
+853
+00:35:51,800 --> 00:35:53,840
+And he won again this time. Even though
+
+854
+00:35:53,840 --> 00:35:56,540
+Nga Kouming was there campaigning for
+
+855
+00:35:56,540 --> 00:35:59,160
+the DAP, the whole Perak team was there,
+
+856
+00:35:59,260 --> 00:36:01,120
+Howard Lee, Wong Ka Ho, and all that.
+
+857
+00:36:01,120 --> 00:36:05,140
+But in the end, this Asun won a very
+
+858
+00:36:05,140 --> 00:36:07,540
+comfortable victory. You know, won over
+
+859
+00:36:07,540 --> 00:36:08,780
+80 % of the Malays support.
+
+860
+00:36:09,020 --> 00:36:11,740
+Won maybe about 20 -30 % of the Chinese
+
+861
+00:36:11,740 --> 00:36:13,740
+support. I haven't gotten the details
+
+862
+00:36:13,740 --> 00:36:17,060
+yet, but it was, you know, pretty, I think,
+
+863
+00:36:17,320 --> 00:36:19,360
+not insignificant. And then the other
+
+864
+00:36:19,360 --> 00:36:22,980
+guy, the adun for Paloh, P -A -L -O -H,
+
+865
+00:36:23,220 --> 00:36:24,780
+which is in Hishamuddin's constituency
+
+866
+00:36:24,780 --> 00:36:26,000
+of Sembrong.
+
+867
+00:36:26,340 --> 00:36:27,780
+This guy called Lee Tinghan.
+
+868
+00:36:28,200 --> 00:36:29,980
+First time he contested was 2021.
+
+869
+00:36:31,040 --> 00:36:32,980
+I've had the chance to engage with him
+
+870
+00:36:32,980 --> 00:36:35,280
+on other investment matters.
+
+871
+00:36:35,460 --> 00:36:36,960
+He's the ex -co in charge of investments.
+
+872
+00:36:37,660 --> 00:36:40,340
+He is a professional by background.
+
+873
+00:36:40,960 --> 00:36:42,280
+Law degree from UM.
+
+874
+00:36:43,520 --> 00:36:47,280
+You know, worked in a law firm.
+
+875
+00:36:47,760 --> 00:36:50,700
+Was handpicked by Wee Ka Xiong to join
+
+876
+00:36:50,700 --> 00:36:52,660
+him after Sheraton moved to be in his
+
+877
+00:36:52,660 --> 00:36:55,020
+office. And then Wee Ka Xiong put him
+
+878
+00:36:55,020 --> 00:36:59,400
+as the candidate. He's got a master's
+
+879
+00:36:59,400 --> 00:37:01,280
+LLM from Cambridge. Right.
+
+880
+00:37:01,280 --> 00:37:03,300
+So, he's a pretty impressive guy.
+
+881
+00:37:03,660 --> 00:37:06,420
+And I recently attended his wedding in
+
+882
+00:37:06,420 --> 00:37:08,660
+Johor Bahru last Sunday.
+
+883
+00:37:08,660 --> 00:37:12,140
+Right. And, you know, he, all the companies
+
+884
+00:37:12,140 --> 00:37:13,800
+that are investing in Johor Bahru have
+
+885
+00:37:13,800 --> 00:37:15,660
+a chance to talk to him, find him to be
+
+886
+00:37:15,660 --> 00:37:18,540
+very impressive. So, my point is, if,
+
+887
+00:37:18,620 --> 00:37:19,080
+let's say,
+
+888
+00:37:20,400 --> 00:37:22,380
+you know, MCA can have these kind of younger
+
+889
+00:37:22,380 --> 00:37:24,720
+leaders stepping up to the plate and working
+
+890
+00:37:24,720 --> 00:37:27,100
+well together with someone like On Hafiz.
+
+891
+00:37:27,480 --> 00:37:30,020
+And if that model can be replicated at
+
+892
+00:37:30,020 --> 00:37:31,520
+the federal level, right?
+
+893
+00:37:31,680 --> 00:37:33,220
+Right now, of course, the leadership is
+
+894
+00:37:33,220 --> 00:37:34,960
+in the hands of somebody like Zaid Hamidi.
+
+895
+00:37:35,540 --> 00:37:37,260
+You know, he has to work with Wee Ka Xiong
+
+896
+00:37:37,260 --> 00:37:38,800
+as the leader of the party. But if, let's
+
+897
+00:37:38,800 --> 00:37:41,320
+say, you have the next generation of leaders
+
+898
+00:37:41,320 --> 00:37:42,600
+or the next line of leaders.
+
+899
+00:37:42,600 --> 00:37:45,680
+You can look at somebody like Datuk Joe
+
+900
+00:37:45,680 --> 00:37:47,820
+Ghani, the Miti Minister. He was former
+
+901
+00:37:47,820 --> 00:37:49,660
+Second Finance Minister under Najib.
+
+902
+00:37:49,940 --> 00:37:52,420
+You know, if he can bring in more, you
+
+903
+00:37:52,420 --> 00:37:55,840
+know, younger leaders in UMNO, you know,
+
+904
+00:37:55,940 --> 00:37:57,880
+people like KJ, Cheryl and others as well.
+
+905
+00:37:58,320 --> 00:38:00,080
+And then, you know, similarly, Wee Ka
+
+906
+00:38:00,080 --> 00:38:01,700
+Xiong can bring in other younger leaders.
+
+907
+00:38:02,120 --> 00:38:05,860
+You know, I go running with this young
+
+908
+00:38:05,860 --> 00:38:08,260
+MCA leader called Neo Choo Xiong, who
+
+909
+00:38:08,260 --> 00:38:10,260
+I've interviewed on my podcast as well.
+
+910
+00:38:10,260 --> 00:38:12,980
+He was a former PTD officer, you know,
+
+911
+00:38:13,080 --> 00:38:14,500
+and bring these guys up at the federal
+
+912
+00:38:14,500 --> 00:38:16,820
+level so that they can work together as
+
+913
+00:38:16,820 --> 00:38:20,000
+a more powerful, you know, partnership
+
+914
+00:38:20,000 --> 00:38:21,560
+within the Barisan National.
+
+915
+00:38:21,720 --> 00:38:23,000
+That is when I think Barisan National
+
+916
+00:38:23,000 --> 00:38:24,520
+can be strengthened towards the direction
+
+917
+00:38:24,520 --> 00:38:26,800
+you're talking about. And also, I'm guessing
+
+918
+00:38:26,800 --> 00:38:29,380
+the direction that you are hoping for.
+
+919
+00:38:29,440 --> 00:38:31,840
+I'm hoping for. Of course, even though
+
+920
+00:38:31,840 --> 00:38:34,820
+I've left the DAP, I'm hoping that, you
+
+921
+00:38:34,820 --> 00:38:36,920
+know, Pakata Harapan can also show that
+
+922
+00:38:36,920 --> 00:38:39,120
+way forward. But because right now, maybe
+
+923
+00:38:39,120 --> 00:38:40,640
+I just finished that right now, I do not
+
+924
+00:38:40,640 --> 00:38:42,760
+see that kind of direction.
+
+925
+00:38:43,440 --> 00:38:44,560
+You see, in the... From Pakata Harapan.
+
+926
+00:38:44,720 --> 00:38:46,900
+Yes, because you see, when I first joined
+
+927
+00:38:46,900 --> 00:38:48,420
+DAP in 2012, right?
+
+928
+00:38:48,580 --> 00:38:51,740
+So in a sense that they are not focusing
+
+929
+00:38:51,740 --> 00:38:53,960
+on bringing up the younger talents.
+
+930
+00:38:53,960 --> 00:38:58,300
+So when I joined DAP in 2012, most
+
+931
+00:38:58,300 --> 00:38:59,980
+young people, especially non -Malays and
+
+932
+00:38:59,980 --> 00:39:02,540
+some idealistic Malays as well, they looked
+
+933
+00:39:02,540 --> 00:39:05,140
+at PH as the place where young people
+
+934
+00:39:05,140 --> 00:39:06,920
+could have opportunities to contribute,
+
+935
+00:39:07,160 --> 00:39:10,460
+to be heard and to make meaningful changes
+
+936
+00:39:10,460 --> 00:39:11,140
+to the country.
+
+937
+00:39:12,440 --> 00:39:14,720
+Right now, if I'm a young idealistic person
+
+938
+00:39:14,720 --> 00:39:16,740
+wanting to do the same thing, you know
+
+939
+00:39:16,740 --> 00:39:18,460
+which party I would join? Bien?
+
+940
+00:39:18,660 --> 00:39:20,360
+No, Bersama. Yeah.
+
+941
+00:39:21,280 --> 00:39:23,520
+Right? Right. If I'm the type who really
+
+942
+00:39:23,520 --> 00:39:26,200
+want to start from an underdog position,
+
+943
+00:39:26,240 --> 00:39:28,340
+I would join Bersama. If let's say I'm
+
+944
+00:39:28,340 --> 00:39:30,260
+a more pro -establishment person, maybe
+
+945
+00:39:30,260 --> 00:39:33,200
+I'm a little bit older or I want to contribute
+
+946
+00:39:33,200 --> 00:39:36,440
+to the actual policy -making ecosystem
+
+947
+00:39:36,440 --> 00:39:39,860
+of a more established setup, I would probably
+
+948
+00:39:39,860 --> 00:39:41,180
+join Barisan National.
+
+949
+00:39:41,580 --> 00:39:44,480
+Right now, if let's say I'm joining Pakata
+
+950
+00:39:44,480 --> 00:39:45,160
+Harapan, right?
+
+951
+00:39:46,980 --> 00:39:48,500
+I don't want to see too much.
+
+952
+00:39:48,500 --> 00:39:50,220
+Who are the young expiring people that
+
+953
+00:39:50,220 --> 00:39:52,180
+are joining Pakata Harapan then?
+
+954
+00:39:52,340 --> 00:39:55,020
+Well, we'll have to look at the next general
+
+955
+00:39:55,020 --> 00:39:57,040
+election to see who are the new candidates
+
+956
+00:39:57,040 --> 00:39:59,740
+that they are going to put up. So usually
+
+957
+00:39:59,740 --> 00:40:00,940
+what will happen is that there will be
+
+958
+00:40:00,940 --> 00:40:02,460
+some state representatives who will be
+
+959
+00:40:02,460 --> 00:40:04,120
+elevated to parliament and then you get
+
+960
+00:40:04,120 --> 00:40:05,880
+some younger people to come in at the
+
+961
+00:40:05,880 --> 00:40:09,120
+state level. This will be an indication
+
+962
+00:40:09,120 --> 00:40:12,320
+of whether or not they can get good, capable,
+
+963
+00:40:12,540 --> 00:40:14,680
+younger people to step up to the plate
+
+964
+00:40:14,680 --> 00:40:17,640
+to join, let's say, DAP, PKR or AMANA
+
+965
+00:40:17,640 --> 00:40:19,560
+to be candidates. Okay.
+
+966
+00:40:20,200 --> 00:40:24,500
+Yeah. I think I got a good sense of why
+
+967
+00:40:24,500 --> 00:40:27,120
+you pledged your support to Kyrie.
+
+968
+00:40:27,380 --> 00:40:30,100
+Maybe you can share about how do you think
+
+969
+00:40:30,100 --> 00:40:32,440
+he's going to perform?
+
+970
+00:40:32,800 --> 00:40:34,360
+Yeah. Do you think he'll be given a seat?
+
+971
+00:40:35,060 --> 00:40:39,420
+I think likely because he has
+
+972
+00:40:39,420 --> 00:40:41,680
+been seen to be a very good campaigner
+
+973
+00:40:41,680 --> 00:40:43,880
+for Barisan National in Johor and also
+
+974
+00:40:43,880 --> 00:40:45,620
+in Negeri Sembilan. I think he went to
+
+975
+00:40:45,620 --> 00:40:48,680
+a few seats, really mobilized public support,
+
+976
+00:40:49,180 --> 00:40:51,420
+had a couple of good public narratives
+
+977
+00:40:51,420 --> 00:40:54,840
+for the media to pick up in terms of some
+
+978
+00:40:54,840 --> 00:40:56,820
+of the political narratives in both states.
+
+979
+00:40:58,100 --> 00:41:02,000
+And I think he needs Zahid Hamidi as much
+
+980
+00:41:02,000 --> 00:41:03,120
+as Zahid Hamidi needs him.
+
+981
+00:41:04,380 --> 00:41:06,040
+Because I think Zahid, even though he's
+
+982
+00:41:06,040 --> 00:41:08,220
+played a very good game politically, when
+
+983
+00:41:08,220 --> 00:41:10,040
+you talk about national politics, if you
+
+984
+00:41:10,040 --> 00:41:13,880
+put him one -on -one against ANWR, I think
+
+985
+00:41:13,880 --> 00:41:15,440
+probably Prime Minister ANWR will still
+
+986
+00:41:15,440 --> 00:41:16,920
+have the upper hand in terms of image.
+
+987
+00:41:16,920 --> 00:41:20,240
+Of course, that's changing. So, within
+
+988
+00:41:20,240 --> 00:41:22,220
+the context of a parliamentary system,
+
+989
+00:41:22,860 --> 00:41:25,560
+you need people like KJ and others who
+
+990
+00:41:25,560 --> 00:41:27,640
+have rejoined UMNO, some of the younger
+
+991
+00:41:27,640 --> 00:41:29,740
+ones currently as well, to be able to
+
+992
+00:41:29,740 --> 00:41:31,880
+make a good case for why Zahid Hamidi
+
+993
+00:41:31,880 --> 00:41:33,720
+should be the next Prime Minister of Malaysia.
+
+994
+00:41:33,940 --> 00:41:36,200
+And I think Kyrie would be in a position
+
+995
+00:41:36,200 --> 00:41:39,060
+to do that in the next general election.
+
+996
+00:41:39,060 --> 00:41:41,100
+Maybe I can ask you this.
+
+997
+00:41:41,240 --> 00:41:43,860
+Do you think Zahid needs KJ more or KJ
+
+998
+00:41:43,860 --> 00:41:45,880
+needs Zahid more? I think both of them
+
+999
+00:41:45,880 --> 00:41:47,280
+need each other, right?
+
+1000
+00:41:47,680 --> 00:41:48,940
+That's the nature of politics.
+
+1001
+00:41:49,120 --> 00:41:50,800
+If you want to play in party politics,
+
+1002
+00:41:51,040 --> 00:41:52,520
+you need to support your president.
+
+1003
+00:41:52,720 --> 00:41:54,740
+So, for example, if let's say I wanted
+
+1004
+00:41:54,740 --> 00:41:56,560
+to contest in a seat in the next general
+
+1005
+00:41:56,560 --> 00:41:59,020
+election under the DAP ticket, I would
+
+1006
+00:41:59,020 --> 00:42:00,900
+need the support of Anthony Lowe.
+
+1007
+00:42:00,920 --> 00:42:02,940
+Anthony, yeah. I can't go and make predictions
+
+1008
+00:42:02,940 --> 00:42:04,660
+to say that he's going to lose in Chenna,
+
+1009
+00:42:04,760 --> 00:42:08,360
+which I did. But people think that also
+
+1010
+00:42:08,360 --> 00:42:10,340
+KJ has options. He honestly could have
+
+1011
+00:42:10,340 --> 00:42:12,080
+joined... Other parties?
+
+1012
+00:42:12,240 --> 00:42:12,360
+Yeah.
+
+1013
+00:42:13,600 --> 00:42:14,900
+But yeah, he could have.
+
+1014
+00:42:15,000 --> 00:42:17,820
+But I think he still feels that UMNO is
+
+1015
+00:42:17,820 --> 00:42:19,660
+the best vehicle for him. And he has got
+
+1016
+00:42:19,660 --> 00:42:21,940
+a lot of friends. He's got a lot of history
+
+1017
+00:42:21,940 --> 00:42:23,420
+in UMNO. He still have a lot of people
+
+1018
+00:42:23,420 --> 00:42:26,040
+who support him in UMNO, even though they
+
+1019
+00:42:26,040 --> 00:42:28,220
+couldn't publicly voice it out when he
+
+1020
+00:42:28,220 --> 00:42:30,360
+was out in the wilderness. Even now, I
+
+1021
+00:42:30,360 --> 00:42:32,440
+think maybe some are probably still quite
+
+1022
+00:42:32,440 --> 00:42:34,700
+careful because when he goes in, you don't
+
+1023
+00:42:34,700 --> 00:42:39,040
+know what kind of response or reaction
+
+1024
+00:42:39,040 --> 00:42:41,300
+you will have if you outwardly support
+
+1025
+00:42:41,300 --> 00:42:42,520
+him. Because there are other people in
+
+1026
+00:42:42,520 --> 00:42:44,400
+UMNO who may not necessarily see eye to
+
+1027
+00:42:44,400 --> 00:42:47,100
+eye with Kyrie. That's the nature of party
+
+1028
+00:42:47,100 --> 00:42:49,280
+politics, right? Just like when I was
+
+1029
+00:42:49,280 --> 00:42:50,880
+talking about different public policies
+
+1030
+00:42:50,880 --> 00:42:54,260
+within the context of DAP, getting my
+
+1031
+00:42:54,260 --> 00:42:56,720
+voice heard in the public space.
+
+1032
+00:42:56,720 --> 00:42:58,880
+I can tell you for a fact, not all DAP
+
+1033
+00:42:58,880 --> 00:43:00,340
+leaders liked it.
+
+1034
+00:43:00,920 --> 00:43:02,640
+Some, maybe the older generation, didn't
+
+1035
+00:43:02,640 --> 00:43:04,800
+like the fact that people like me, Tony
+
+1036
+00:43:04,800 --> 00:43:08,760
+Pua, a few others were given opportunities
+
+1037
+00:43:08,760 --> 00:43:12,420
+that maybe they themselves couldn't have
+
+1038
+00:43:12,420 --> 00:43:12,720
+gotten.
+
+1039
+00:43:14,040 --> 00:43:16,520
+But that's the decision of the party.
+
+1040
+00:43:16,740 --> 00:43:18,560
+And I think on the whole, that was good
+
+1041
+00:43:18,560 --> 00:43:21,420
+for the party in the past. I think for
+
+1042
+00:43:21,420 --> 00:43:24,460
+KG and for UMNO moving forward and for
+
+1043
+00:43:24,460 --> 00:43:26,200
+Barisan National as well. The next general
+
+1044
+00:43:26,200 --> 00:43:27,780
+election will also be a test in terms
+
+1045
+00:43:27,780 --> 00:43:30,380
+of their own renewal, their own narrative,
+
+1046
+00:43:30,840 --> 00:43:33,400
+their own strengthening. To see whether
+
+1047
+00:43:33,400 --> 00:43:36,420
+this can be part and parcel of the process
+
+1048
+00:43:36,420 --> 00:43:38,860
+of BN becoming stronger. Because BN is
+
+1049
+00:43:38,860 --> 00:43:40,400
+not just competing against PHR.
+
+1050
+00:43:40,660 --> 00:43:42,600
+It is also competing against PAS.
+
+1051
+00:43:43,240 --> 00:43:45,020
+Even though likely they are going to form
+
+1052
+00:43:45,020 --> 00:43:46,800
+some sort of electoral pact together.
+
+1053
+00:43:47,020 --> 00:43:48,320
+During the state elections. In the long
+
+1054
+00:43:48,320 --> 00:43:49,860
+run, yes. During the state elections and
+
+1055
+00:43:49,860 --> 00:43:51,400
+likely in the next general elections as
+
+1056
+00:43:51,400 --> 00:43:54,160
+well. But in the long run, BN and also
+
+1057
+00:43:54,160 --> 00:43:56,580
+PAS knows, they are fishing mostly for
+
+1058
+00:43:56,580 --> 00:43:58,360
+the same pool of voters, which is the
+
+1059
+00:43:58,360 --> 00:44:01,100
+Malay voters. The advantage that BN has
+
+1060
+00:44:01,100 --> 00:44:03,860
+is that it has a longer history of having
+
+1061
+00:44:03,860 --> 00:44:06,820
+multiracial, multireligious cooperation
+
+1062
+00:44:06,820 --> 00:44:09,160
+within the context of Barisan National.
+
+1063
+00:44:09,180 --> 00:44:11,060
+So by default, they actually have the
+
+1064
+00:44:11,060 --> 00:44:14,860
+better potential market to capture, would
+
+1065
+00:44:14,860 --> 00:44:17,600
+you say? So, put it this way.
+
+1066
+00:44:17,780 --> 00:44:21,300
+If let's say you're a Malay person, you
+
+1067
+00:44:21,300 --> 00:44:23,220
+want the economy to grow.
+
+1068
+00:44:23,520 --> 00:44:25,080
+You're quite practical. You also want
+
+1069
+00:44:25,080 --> 00:44:28,360
+good interracial relations in this country.
+
+1070
+00:44:28,360 --> 00:44:31,420
+You want to have good relations with Sabah
+
+1071
+00:44:31,420 --> 00:44:33,700
+and Sarawak. You want experienced people
+
+1072
+00:44:33,700 --> 00:44:35,520
+to be able to run and manage the country.
+
+1073
+00:44:37,280 --> 00:44:39,960
+Between PAS and Barisan National or UMNO,
+
+1074
+00:44:40,440 --> 00:44:42,600
+who has more experience? Obviously, Barisan
+
+1075
+00:44:42,600 --> 00:44:44,340
+National, right? So if Barisan National
+
+1076
+00:44:44,340 --> 00:44:46,820
+can clean itself up, clean its act, admit
+
+1077
+00:44:46,820 --> 00:44:49,400
+to the wrongs that it did for Felda, for
+
+1078
+00:44:49,400 --> 00:44:53,820
+Tabong Haji, for 1MDB, and try to have
+
+1079
+00:44:53,820 --> 00:44:56,380
+a new path going forward, I think a lot
+
+1080
+00:44:56,380 --> 00:44:59,700
+of the Malay voters would allow them a
+
+1081
+00:44:59,700 --> 00:45:02,260
+second chance. But right now, I don't
+
+1082
+00:45:02,260 --> 00:45:03,660
+really see that happening. Because if
+
+1083
+00:45:03,660 --> 00:45:05,200
+you look at the whole narrative about
+
+1084
+00:45:05,200 --> 00:45:07,940
+Tabong Haji, yes, there's political persecution,
+
+1085
+00:45:08,260 --> 00:45:09,840
+timing, and all that kind of stuff. But
+
+1086
+00:45:09,840 --> 00:45:11,740
+the stuff that went wrong, in terms of
+
+1087
+00:45:11,740 --> 00:45:13,400
+the decisions that were made under UMNO
+
+1088
+00:45:13,400 --> 00:45:16,500
+leadership, you cannot run away from that.
+
+1089
+00:45:16,720 --> 00:45:19,160
+They have to admit the kind of shortcomings
+
+1090
+00:45:19,160 --> 00:45:21,820
+that they were involved in from an institutional
+
+1091
+00:45:21,820 --> 00:45:23,980
+perspective. Are they Manning? Not really.
+
+1092
+00:45:24,180 --> 00:45:25,780
+Not yet, right? I don't think so. I don't
+
+1093
+00:45:25,780 --> 00:45:28,140
+see that. But, I mean, it's like you said,
+
+1094
+00:45:28,200 --> 00:45:30,880
+it's something that they should do.
+
+1095
+00:45:31,360 --> 00:45:33,360
+They should do. So, you know,
+
+1096
+00:45:34,640 --> 00:45:37,860
+it's almost, again, the equivalent that
+
+1097
+00:45:37,860 --> 00:45:41,040
+your audience may relate to better is
+
+1098
+00:45:41,040 --> 00:45:41,340
+like,
+
+1099
+00:45:46,140 --> 00:45:50,100
+how soon will it be, if let's say PH finds
+
+1100
+00:45:50,100 --> 00:45:52,380
+itself back in opposition, how soon will
+
+1101
+00:45:52,380 --> 00:45:55,460
+it be before PH admits the mistakes that
+
+1102
+00:45:55,460 --> 00:45:58,980
+they made during Anwar Ibrahim's tenure
+
+1103
+00:45:58,980 --> 00:46:00,440
+as Prime Minister? Yeah, this current.
+
+1104
+00:46:00,660 --> 00:46:02,240
+It will take some time, they can't just
+
+1105
+00:46:02,240 --> 00:46:03,740
+switch overnight. Why?
+
+1106
+00:46:04,280 --> 00:46:06,840
+Like, I mean, you see, you're saying it
+
+1107
+00:46:06,840 --> 00:46:09,160
+in a way where you think, oh, definitely
+
+1108
+00:46:09,160 --> 00:46:12,300
+it's a better idea to just do it right
+
+1109
+00:46:12,300 --> 00:46:13,880
+now. But you're saying that that's not
+
+1110
+00:46:13,880 --> 00:46:15,880
+how political people work, is it?
+
+1111
+00:46:16,000 --> 00:46:18,000
+That they will take their time, maybe
+
+1112
+00:46:18,000 --> 00:46:20,600
+ego. Ego, they're also entrenched in a
+
+1113
+00:46:20,600 --> 00:46:23,040
+certain position, you know, right now
+
+1114
+00:46:23,040 --> 00:46:26,020
+that they have to defend. And then, if
+
+1115
+00:46:26,020 --> 00:46:29,100
+let's say they change tunes, people will
+
+1116
+00:46:29,100 --> 00:46:30,780
+ask them, how come you didn't do anything
+
+1117
+00:46:30,780 --> 00:46:31,960
+while you were in government? Not any
+
+1118
+00:46:31,960 --> 00:46:34,780
+people, the, your subordinates.
+
+1119
+00:46:35,000 --> 00:46:37,440
+Friends, supporters, yeah. No, same thing,
+
+1120
+00:46:37,540 --> 00:46:39,360
+let's say, go back to Kyrie. A lot of
+
+1121
+00:46:39,360 --> 00:46:42,100
+people ask, eh, you, you know, you are,
+
+1122
+00:46:42,220 --> 00:46:46,860
+after the, the, after GE 14, 2018,
+
+1123
+00:46:47,300 --> 00:46:49,120
+you came out and you attacked Najib for
+
+1124
+00:46:49,120 --> 00:46:50,700
+1MDB and things like that.
+
+1125
+00:46:50,800 --> 00:46:52,200
+You say we have to admit it, blah, blah,
+
+1126
+00:46:52,300 --> 00:46:54,360
+blah. Right, people, people ask him, how
+
+1127
+00:46:54,360 --> 00:46:55,540
+come you didn't do anything when you were
+
+1128
+00:46:55,540 --> 00:46:57,700
+in government or in cabinet?
+
+1129
+00:46:58,600 --> 00:46:59,900
+Subsequently, he has come out to say,
+
+1130
+00:47:00,060 --> 00:47:01,820
+I did try this and that, but of course,
+
+1131
+00:47:01,880 --> 00:47:03,140
+Najib had his own point of view.
+
+1132
+00:47:03,680 --> 00:47:06,140
+You know, he backed Najib up by appearing
+
+1133
+00:47:06,140 --> 00:47:09,700
+in, you know, commercials showing, you
+
+1134
+00:47:09,700 --> 00:47:11,480
+know, football, them wearing football
+
+1135
+00:47:11,480 --> 00:47:13,340
+jerseys, being BFFs and all that kind
+
+1136
+00:47:13,340 --> 00:47:15,080
+of stuff. And Kyrie has admitted that
+
+1137
+00:47:15,080 --> 00:47:16,420
+will be something that he has to live
+
+1138
+00:47:16,420 --> 00:47:18,220
+with for the rest of his life. Right,
+
+1139
+00:47:18,360 --> 00:47:21,320
+so, similarly, I think there will be a
+
+1140
+00:47:21,320 --> 00:47:24,580
+day in the not -too -distant future where
+
+1141
+00:47:24,580 --> 00:47:27,100
+the DAP leaders will be asked by their
+
+1142
+00:47:27,100 --> 00:47:29,700
+supporters, by their friends, you know,
+
+1143
+00:47:29,800 --> 00:47:32,860
+oh, Anwar, Ibrahim did X, Y, and Z when
+
+1144
+00:47:32,860 --> 00:47:34,020
+he was Prime Minister. I mean, they're
+
+1145
+00:47:34,020 --> 00:47:35,600
+already asking it now. Yes, correct.
+
+1146
+00:47:35,820 --> 00:47:37,420
+And for a while already. Yes, I mean,
+
+1147
+00:47:37,480 --> 00:47:40,560
+everyone knows this. Fahaj, Corporate
+
+1148
+00:47:40,560 --> 00:47:43,400
+Mafia, MACC, Azam Baki, right?
+
+1149
+00:47:43,580 --> 00:47:45,740
+But, no further action.
+
+1150
+00:47:46,500 --> 00:47:50,480
+Okay, so, just now you've explained, like,
+
+1151
+00:47:50,560 --> 00:47:54,180
+what you think you could see in BN moving
+
+1152
+00:47:54,180 --> 00:47:56,540
+forward, how they can rebrand themselves
+
+1153
+00:47:56,540 --> 00:47:57,800
+and build up again. No, what I hope that
+
+1154
+00:47:57,800 --> 00:47:59,980
+they can do. Similarly, also what I hope
+
+1155
+00:47:59,980 --> 00:48:01,520
+for the other coalitions, right?
+
+1156
+00:48:01,600 --> 00:48:04,560
+But I would say that right now, BN, I
+
+1157
+00:48:04,560 --> 00:48:06,800
+think, has certain momentum behind, you
+
+1158
+00:48:06,800 --> 00:48:07,820
+know, win behind its sales.
+
+1159
+00:48:09,300 --> 00:48:12,500
+I mean, is it, sorry, am I trying to paint
+
+1160
+00:48:12,500 --> 00:48:14,860
+you as the big BN supporter and it's not
+
+1161
+00:48:14,860 --> 00:48:18,560
+right? No, so, you see, to me...
+
+1162
+00:48:18,560 --> 00:48:20,160
+No, I'm not saying that. Yeah, I know,
+
+1163
+00:48:20,260 --> 00:48:21,840
+I know. I mean, it might come off that
+
+1164
+00:48:21,840 --> 00:48:23,220
+way. No, it doesn't matter.
+
+1165
+00:48:23,420 --> 00:48:26,140
+You see, I have to explain to your readers,
+
+1166
+00:48:26,380 --> 00:48:27,900
+to your listeners and also to you.
+
+1167
+00:48:28,240 --> 00:48:30,100
+I'm in a very unique position.
+
+1168
+00:48:30,460 --> 00:48:32,980
+I don't think there's been somebody in
+
+1169
+00:48:32,980 --> 00:48:37,460
+my position like what I'm in, as
+
+1170
+00:48:37,460 --> 00:48:39,200
+far as I can remember in Malaysian politics.
+
+1171
+00:48:39,300 --> 00:48:41,520
+Yeah. Because of a few reasons.
+
+1172
+00:48:42,000 --> 00:48:44,760
+Firstly, when I say certain things, let's
+
+1173
+00:48:44,760 --> 00:48:46,680
+say make predictions, right? I'm putting
+
+1174
+00:48:46,680 --> 00:48:49,060
+on the hat of a political analyst and
+
+1175
+00:48:49,060 --> 00:48:51,560
+a political scientist. I have a PhD in
+
+1176
+00:48:51,560 --> 00:48:53,440
+political science. I've done this kind
+
+1177
+00:48:53,440 --> 00:48:54,960
+of election projections for a long time
+
+1178
+00:48:54,960 --> 00:48:57,580
+already, right? So that's one hat that
+
+1179
+00:48:57,580 --> 00:49:00,200
+I wear. And sometimes people forget that
+
+1180
+00:49:00,200 --> 00:49:01,640
+when I make predictions, it's not because
+
+1181
+00:49:01,640 --> 00:49:02,860
+I'm supporting one side or the other.
+
+1182
+00:49:02,860 --> 00:49:04,780
+They think that I'm supporting the end
+
+1183
+00:49:04,780 --> 00:49:06,900
+or other parties.
+
+1184
+00:49:07,180 --> 00:49:10,680
+The second thing is I'm also wearing the
+
+1185
+00:49:10,680 --> 00:49:12,680
+hat of a political analyst
+
+1186
+00:49:15,660 --> 00:49:19,100
+with certain desires on wanting institutional
+
+1187
+00:49:19,100 --> 00:49:20,600
+reform in this country, right?
+
+1188
+00:49:20,780 --> 00:49:23,200
+So when I say I hope that this coalition
+
+1189
+00:49:23,200 --> 00:49:24,720
+does this, I hope that this coalition
+
+1190
+00:49:24,720 --> 00:49:27,580
+does that, right? It is with that intention
+
+1191
+00:49:27,580 --> 00:49:29,400
+of wanting reforms to be made.
+
+1192
+00:49:29,400 --> 00:49:31,960
+But when I make those kind of suggestions,
+
+1193
+00:49:32,200 --> 00:49:34,080
+right, unlike other political analysts,
+
+1194
+00:49:34,300 --> 00:49:35,820
+I'm a politician.
+
+1195
+00:49:36,320 --> 00:49:38,480
+I was a member of parliament.
+
+1196
+00:49:38,800 --> 00:49:40,820
+I was a deputy minister, right?
+
+1197
+00:49:40,980 --> 00:49:43,460
+So that comes with a certain level of
+
+1198
+00:49:43,460 --> 00:49:45,000
+responsibility and weight.
+
+1199
+00:49:45,120 --> 00:49:49,340
+But a lot of people will also try to
+
+1200
+00:49:49,340 --> 00:49:52,140
+interpret that in terms of their own biases
+
+1201
+00:49:52,140 --> 00:49:54,440
+towards me and whatever my intentions
+
+1202
+00:49:54,440 --> 00:49:57,020
+may be. I understand that completely.
+
+1203
+00:49:57,320 --> 00:49:59,780
+And honestly, I feel like someone like
+
+1204
+00:49:59,780 --> 00:50:00,320
+you,
+
+1205
+00:50:02,500 --> 00:50:05,320
+it's maybe rough to say on the podcast,
+
+1206
+00:50:05,400 --> 00:50:07,800
+but it might be a bit annoying that you
+
+1207
+00:50:07,800 --> 00:50:09,760
+always have to explain this to the comments.
+
+1208
+00:50:09,980 --> 00:50:11,360
+I also know there's going to be a lot
+
+1209
+00:50:11,360 --> 00:50:12,540
+of people going to be like, oh, Brian's
+
+1210
+00:50:12,540 --> 00:50:16,400
+stupid for... But yeah, I do understand
+
+1211
+00:50:16,400 --> 00:50:17,740
+your background and I respect that.
+
+1212
+00:50:17,740 --> 00:50:18,030
+Yeah.
+
+1213
+00:50:19,440 --> 00:50:21,340
+So I want to ask about...
+
+1214
+00:50:21,340 --> 00:50:23,460
+What I feel is...
+
+1215
+00:50:23,460 --> 00:50:25,160
+This is a question regarding BM's popularity
+
+1216
+00:50:25,160 --> 00:50:26,360
+and strength today.
+
+1217
+00:50:26,580 --> 00:50:28,100
+I feel like most...
+
+1218
+00:50:30,920 --> 00:50:34,100
+I guess non -BM supporters would...
+
+1219
+00:50:34,100 --> 00:50:36,860
+Non -BM sympathizers would not...
+
+1220
+00:50:36,860 --> 00:50:39,720
+Like, would see it this way. So BM's former
+
+1221
+00:50:39,720 --> 00:50:41,500
+leader was convicted for biggest corruption
+
+1222
+00:50:41,500 --> 00:50:43,300
+scandal in modern political history.
+
+1223
+00:50:43,520 --> 00:50:45,340
+Sentenced to 12 years, reduced to half,
+
+1224
+00:50:45,340 --> 00:50:48,220
+now given a conditional house arrest pardon.
+
+1225
+00:50:48,420 --> 00:50:50,540
+In addition, we have the Tamuhaji case,
+
+1226
+00:50:50,700 --> 00:50:53,020
+over 10 billion in financial losses, recently
+
+1227
+00:50:53,020 --> 00:50:56,860
+resurfaced following the release of RCI
+
+1228
+00:50:56,860 --> 00:50:59,460
+report. So how is it that BM is still
+
+1229
+00:50:59,460 --> 00:51:00,840
+so popular today? And they've actually
+
+1230
+00:51:00,840 --> 00:51:03,260
+been dominating the recent state election.
+
+1231
+00:51:03,540 --> 00:51:04,960
+So push and pull factors.
+
+1232
+00:51:05,920 --> 00:51:09,820
+I think, again, a lot of the people who
+
+1233
+00:51:09,820 --> 00:51:13,860
+watch your show and would be very
+
+1234
+00:51:13,860 --> 00:51:17,280
+against and very incensed by the kind
+
+1235
+00:51:17,280 --> 00:51:18,740
+of scandals you talked about just now,
+
+1236
+00:51:18,900 --> 00:51:21,400
+which is perfectly illegitimate, are mostly
+
+1237
+00:51:21,400 --> 00:51:23,480
+non -Malays.
+
+1238
+00:51:23,720 --> 00:51:25,600
+I would say mostly middle class because
+
+1239
+00:51:25,600 --> 00:51:26,920
+they're listening to this in English.
+
+1240
+00:51:27,640 --> 00:51:31,800
+100%. And may not understand the psyche
+
+1241
+00:51:31,800 --> 00:51:34,460
+of the larger Malay electorate and population
+
+1242
+00:51:34,460 --> 00:51:37,260
+out there. So I just want to let, maybe
+
+1243
+00:51:37,260 --> 00:51:39,840
+people who didn't know you were, you served
+
+1244
+00:51:39,840 --> 00:51:41,120
+five years in Bangui.
+
+1245
+00:51:41,300 --> 00:51:44,080
+Is it four years? Yeah, almost five years.
+
+1246
+00:51:44,340 --> 00:51:46,120
+Four years as a member of parliament for
+
+1247
+00:51:46,120 --> 00:51:47,500
+a Malay majority constituency.
+
+1248
+00:51:47,880 --> 00:51:49,320
+How many percent was it? It's about 51
+
+1249
+00:51:49,320 --> 00:51:52,060
+% Malay. But it's big enough to cover
+
+1250
+00:51:52,060 --> 00:51:54,000
+a lot of areas where you had a lot of,
+
+1251
+00:51:54,780 --> 00:51:57,300
+you know, Malay middle class, civil servants.
+
+1252
+00:51:57,700 --> 00:51:59,180
+Of course, there were pockets of poor.
+
+1253
+00:51:59,780 --> 00:52:01,700
+Zaid Hamidi actually lives in my former
+
+1254
+00:52:01,700 --> 00:52:03,140
+constituency in Country Heights.
+
+1255
+00:52:03,480 --> 00:52:05,760
+So, yeah. So, yeah, that's what I thought
+
+1256
+00:52:05,760 --> 00:52:07,020
+it would be. I mean, you would have a
+
+1257
+00:52:07,020 --> 00:52:08,900
+good insight in this. So what is the psyche
+
+1258
+00:52:08,900 --> 00:52:11,740
+behind like the, I guess, Najib sympathizers
+
+1259
+00:52:11,740 --> 00:52:13,180
+or BN sympathizers?
+
+1260
+00:52:13,320 --> 00:52:15,580
+So, so a couple of things that I want
+
+1261
+00:52:15,580 --> 00:52:17,500
+to delve into to explain to your listeners.
+
+1262
+00:52:17,500 --> 00:52:18,740
+Firstly,
+
+1263
+00:52:21,360 --> 00:52:24,200
+the Malay unity narrative that is being
+
+1264
+00:52:24,200 --> 00:52:27,100
+pushed by the Barisan National and also
+
+1265
+00:52:27,100 --> 00:52:30,740
+PAS or UMNO and PAS is a very strong and
+
+1266
+00:52:30,740 --> 00:52:31,620
+compelling narrative.
+
+1267
+00:52:34,220 --> 00:52:37,320
+Your listeners have to understand that
+
+1268
+00:52:37,320 --> 00:52:40,520
+a lot of these voters, Malay voters, felt
+
+1269
+00:52:40,520 --> 00:52:44,740
+betrayed after 2022 because
+
+1270
+00:52:44,740 --> 00:52:47,760
+their vision of a unity government was
+
+1271
+00:52:47,760 --> 00:52:51,860
+one where PN is the dominant party
+
+1272
+00:52:51,860 --> 00:52:54,120
+and the Prime Minister comes from PN which
+
+1273
+00:52:54,120 --> 00:52:57,080
+is a Malay majority and Malay -led coalition
+
+1274
+00:52:57,080 --> 00:53:00,160
+and then maybe supported by Barisan National
+
+1275
+00:53:00,860 --> 00:53:03,540
+because they may not have had so much
+
+1276
+00:53:03,540 --> 00:53:05,600
+confidence in UMNO because of all the
+
+1277
+00:53:05,600 --> 00:53:07,580
+corruption stuff that has gone, that has
+
+1278
+00:53:07,580 --> 00:53:08,820
+happened in the past and they did not
+
+1279
+00:53:08,820 --> 00:53:11,300
+have much confidence in Zaid Hamidi's
+
+1280
+00:53:11,300 --> 00:53:12,960
+you know, leadership.
+
+1281
+00:53:13,320 --> 00:53:16,880
+And they definitely want no part of PH.
+
+1282
+00:53:17,460 --> 00:53:19,880
+Especially DAP. Yeah, because it's literally
+
+1283
+00:53:20,760 --> 00:53:23,160
+DAP is our PASA.
+
+1284
+00:53:23,780 --> 00:53:25,760
+Yes, exactly. It's exactly like that.
+
+1285
+00:53:25,920 --> 00:53:27,820
+Exactly. So you hit the nail on the head.
+
+1286
+00:53:28,100 --> 00:53:29,040
+Right? So,
+
+1287
+00:53:30,360 --> 00:53:33,740
+so you have to remember that that segment
+
+1288
+00:53:33,740 --> 00:53:36,260
+of the population is the majority.
+
+1289
+00:53:36,920 --> 00:53:38,700
+not the segment of the population that's
+
+1290
+00:53:38,700 --> 00:53:40,240
+listening to this podcast. Maybe something
+
+1291
+00:53:40,240 --> 00:53:42,320
+else I can add, right? Because it's really
+
+1292
+00:53:42,320 --> 00:53:44,920
+also I'm fascinated and curious by this
+
+1293
+00:53:44,920 --> 00:53:48,960
+is DAP has always pushed for multi -racial,
+
+1294
+00:53:49,360 --> 00:53:52,620
+right? And whereas PASA, of course, they
+
+1295
+00:53:52,620 --> 00:53:55,540
+also do talk about that inclusivity and
+
+1296
+00:53:55,540 --> 00:53:58,720
+all, but is it just solely because DAP,
+
+1297
+00:53:58,720 --> 00:54:02,320
+you know, maybe when DAP make mistakes,
+
+1298
+00:54:02,600 --> 00:54:05,160
+political errors and then PASA highlighted
+
+1299
+00:54:05,160 --> 00:54:07,800
+just like how DAP would highlight PASA
+
+1300
+00:54:07,800 --> 00:54:09,280
+as the boogeyman and all, like, is it
+
+1301
+00:54:09,280 --> 00:54:12,420
+just because of that that they really
+
+1302
+00:54:12,420 --> 00:54:14,220
+want no part of DAP?
+
+1303
+00:54:14,220 --> 00:54:16,540
+Yeah, so remember I said the Malay unity
+
+1304
+00:54:16,540 --> 00:54:19,740
+narrative is very compelling from a political
+
+1305
+00:54:19,740 --> 00:54:21,480
+perspective, social perspective, which
+
+1306
+00:54:21,480 --> 00:54:24,020
+is why many of the Malays can actually
+
+1307
+00:54:24,020 --> 00:54:26,980
+overlook some of the things that we talked
+
+1308
+00:54:26,980 --> 00:54:30,860
+about whether it's, you know, 1MDB and
+
+1309
+00:54:30,860 --> 00:54:32,840
+then also RCI. It doesn't help that the
+
+1310
+00:54:32,840 --> 00:54:36,400
+RCI for the Tabung Haji issue was politicized.
+
+1311
+00:54:36,600 --> 00:54:38,540
+It was released only after the Johor State
+
+1312
+00:54:38,540 --> 00:54:40,720
+elections before Negeri Sembilan and all
+
+1313
+00:54:40,720 --> 00:54:42,720
+these we can see the political motivations
+
+1314
+00:54:42,720 --> 00:54:45,140
+behind all these actions. Exactly, yeah.
+
+1315
+00:54:45,600 --> 00:54:49,260
+Then the other part is, you know, one
+
+1316
+00:54:49,260 --> 00:54:51,800
+is the hope of Malay unity narrative,
+
+1317
+00:54:51,800 --> 00:54:54,440
+the other one is the united
+
+1318
+00:54:56,500 --> 00:55:00,720
+hatred for hatred, I use hatred as a strong
+
+1319
+00:55:00,720 --> 00:55:02,480
+word but I think it's come to that stage
+
+1320
+00:55:02,480 --> 00:55:02,700
+now.
+
+1321
+00:55:04,320 --> 00:55:06,380
+Maybe fear, you know, would be a less
+
+1322
+00:55:06,380 --> 00:55:08,960
+strong word. Now, actually it's more than
+
+1323
+00:55:08,960 --> 00:55:09,760
+that, it's actually hatred.
+
+1324
+00:55:11,220 --> 00:55:11,960
+Like the
+
+1325
+00:55:13,540 --> 00:55:15,320
+progressive left is also a lot hate past.
+
+1326
+00:55:16,880 --> 00:55:18,480
+Yeah, but progressive left in Malaysia
+
+1327
+00:55:18,480 --> 00:55:21,460
+is a very, very small voting population,
+
+1328
+00:55:21,580 --> 00:55:24,160
+right? So, the reason why I say hatred
+
+1329
+00:55:24,160 --> 00:55:27,880
+is because the Malay population, actually,
+
+1330
+00:55:27,980 --> 00:55:29,380
+they are quite diverse in terms of their
+
+1331
+00:55:29,380 --> 00:55:31,060
+likes and dislikes. You know, even in
+
+1332
+00:55:31,060 --> 00:55:32,840
+a state, in a constituency like Bangi,
+
+1333
+00:55:33,420 --> 00:55:36,900
+they have, you know, some are, some, they
+
+1334
+00:55:36,900 --> 00:55:39,400
+don't fit nicely into these kinds of progressive,
+
+1335
+00:55:39,540 --> 00:55:41,280
+non -progressive kind of labels that non
+
+1336
+00:55:41,280 --> 00:55:43,640
+-Malays like to give. You know, all of
+
+1337
+00:55:43,640 --> 00:55:46,080
+them are religious, all of them, you know,
+
+1338
+00:55:46,140 --> 00:55:49,160
+place very high importance on Islam, but,
+
+1339
+00:55:49,160 --> 00:55:51,760
+you know, the prioritization of other
+
+1340
+00:55:51,760 --> 00:55:54,000
+parts of life, whether it's economic,
+
+1341
+00:55:54,320 --> 00:55:57,860
+family, social, you know, all those, there's
+
+1342
+00:55:57,860 --> 00:55:59,200
+a lot of different nuances there.
+
+1343
+00:55:59,360 --> 00:56:01,080
+There are a lot of nuances and differences
+
+1344
+00:56:01,080 --> 00:56:04,260
+there, right? But, because of what PH,
+
+1345
+00:56:04,260 --> 00:56:06,820
+and to a large degree, what DAP has done
+
+1346
+00:56:06,820 --> 00:56:09,760
+over the past, you know, a few years,
+
+1347
+00:56:10,020 --> 00:56:12,640
+especially over the past few months, that
+
+1348
+00:56:12,640 --> 00:56:16,180
+has brought the Malay voters together
+
+1349
+00:56:16,180 --> 00:56:19,060
+in their common dislike and, I would say,
+
+1350
+00:56:19,520 --> 00:56:20,940
+sometimes hatred of the DAP.
+
+1351
+00:56:21,300 --> 00:56:22,760
+And how do I know this?
+
+1352
+00:56:23,160 --> 00:56:26,420
+I'll give you an example. You just open
+
+1353
+00:56:27,580 --> 00:56:29,780
+the Facebook account or the Instagram
+
+1354
+00:56:29,780 --> 00:56:32,900
+account of Ngakome. And to a lesser extent,
+
+1355
+00:56:33,420 --> 00:56:35,340
+this, you know, Anthony Luke these days,
+
+1356
+00:56:35,540 --> 00:56:38,620
+for Ngakoming, I would say 25 % of the
+
+1357
+00:56:38,620 --> 00:56:40,240
+comments, if let's say they have not been
+
+1358
+00:56:40,240 --> 00:56:41,960
+deleted, would be asking him to resign.
+
+1359
+00:56:42,800 --> 00:56:43,280
+Right?
+
+1360
+00:56:44,820 --> 00:56:47,340
+And why? Why do people...
+
+1361
+00:56:47,340 --> 00:56:49,320
+Oh, he deletes the comments. I don't think
+
+1362
+00:56:49,320 --> 00:56:50,880
+so because there's too many already, right?
+
+1363
+00:56:51,720 --> 00:56:52,200
+So,
+
+1364
+00:56:53,560 --> 00:56:56,820
+I think you have to ask the question and
+
+1365
+00:56:56,820 --> 00:56:58,800
+DAP has to ask the question. I think they
+
+1366
+00:56:58,800 --> 00:57:01,180
+know the answer already. Why is it that
+
+1367
+00:57:01,180 --> 00:57:03,700
+so many of the Malays, at this point in
+
+1368
+00:57:03,700 --> 00:57:05,480
+time, hates the DAP?
+
+1369
+00:57:06,900 --> 00:57:09,100
+I don't think that was the direction that
+
+1370
+00:57:09,100 --> 00:57:12,480
+is inevitable. I think after 2018, under
+
+1371
+00:57:12,480 --> 00:57:16,920
+the PH 1 .0 government, there were opportunities
+
+1372
+00:57:16,920 --> 00:57:19,760
+for, I think, DAP to, you know, present
+
+1373
+00:57:19,760 --> 00:57:22,060
+a more inclusive kind of approach.
+
+1374
+00:57:22,240 --> 00:57:26,260
+Were the Malay majority neutral with PH
+
+1375
+00:57:26,260 --> 00:57:28,280
+at that time? They had to be, no, I would
+
+1376
+00:57:28,280 --> 00:57:32,540
+say at the time, PH had Bersatu, so we
+
+1377
+00:57:32,540 --> 00:57:34,160
+had a little bit more Malay support, maybe
+
+1378
+00:57:34,160 --> 00:57:35,520
+30 to 40%.
+
+1379
+00:57:35,520 --> 00:57:37,360
+We had Tun Mahathir there as well as Prime
+
+1380
+00:57:37,360 --> 00:57:38,760
+Minister. Right?
+
+1381
+00:57:39,060 --> 00:57:43,020
+So, you know, but once PH 1 .0 left, and
+
+1382
+00:57:43,020 --> 00:57:45,000
+then, you know, this unity government
+
+1383
+00:57:45,000 --> 00:57:47,200
+came along, of course, ANUAL also has
+
+1384
+00:57:47,200 --> 00:57:50,600
+some responsibility in this kind of narrative,
+
+1385
+00:57:51,060 --> 00:57:53,680
+this kind of reaction against PH among
+
+1386
+00:57:53,680 --> 00:57:57,280
+the Malay crowd. But I think DAP really
+
+1387
+00:57:57,280 --> 00:57:58,960
+needs to examine its own role and own
+
+1388
+00:57:58,960 --> 00:58:01,020
+position. I'm not putting all the blame
+
+1389
+00:58:01,020 --> 00:58:03,920
+on Nga Koming. I think there are also
+
+1390
+00:58:03,920 --> 00:58:05,940
+other factors at play, the bogeyman politics
+
+1391
+00:58:05,940 --> 00:58:09,280
+and stuff like that. But, you know, I
+
+1392
+00:58:09,280 --> 00:58:10,880
+can already make this prediction.
+
+1393
+00:58:11,960 --> 00:58:16,140
+You know, in the same way that past
+
+1394
+00:58:16,140 --> 00:58:18,300
+UMNO uses DAP as a bogeyman,
+
+1395
+00:58:20,160 --> 00:58:23,080
+DAP would focus on this narrative in the
+
+1396
+00:58:23,080 --> 00:58:26,260
+next general election, which is vote us
+
+1397
+00:58:26,260 --> 00:58:30,600
+in so that you don't have a past or
+
+1398
+00:58:30,600 --> 00:58:33,060
+a BN government. I mean, they've used
+
+1399
+00:58:33,060 --> 00:58:35,320
+that. But this time it will be even more
+
+1400
+00:58:35,320 --> 00:58:37,280
+because there's no other issues to vote,
+
+1401
+00:58:37,440 --> 00:58:39,940
+to campaign on. In the past, there was
+
+1402
+00:58:39,940 --> 00:58:41,740
+GST, in the past, there was 1MDB.
+
+1403
+00:58:42,080 --> 00:58:43,960
+But let's say these issues are taken off
+
+1404
+00:58:43,960 --> 00:58:45,860
+already. And all the whatever said reforms,
+
+1405
+00:58:46,140 --> 00:58:48,040
+they can't exactly use it again.
+
+1406
+00:58:48,200 --> 00:58:49,460
+Correct. Right?
+
+1407
+00:58:49,620 --> 00:58:51,680
+So in that context, I can also make a
+
+1408
+00:58:51,680 --> 00:58:53,700
+prediction. I can let your listeners know
+
+1409
+00:58:53,700 --> 00:58:56,840
+that the more the DAP plays up this past
+
+1410
+00:58:56,840 --> 00:58:59,280
+fear -mongering narrative, the more it
+
+1411
+00:58:59,280 --> 00:59:01,300
+will have a negative reaction among the
+
+1412
+00:59:01,300 --> 00:59:02,740
+Malay crowd. Right?
+
+1413
+00:59:02,820 --> 00:59:05,380
+Because they will go and record Nga Komming
+
+1414
+00:59:05,380 --> 00:59:07,220
+speeches and other leaders using this
+
+1415
+00:59:07,220 --> 00:59:08,740
+narrative. They will translate it to Malay.
+
+1416
+00:59:08,800 --> 00:59:10,400
+They will put it on YouTube. They will
+
+1417
+00:59:10,400 --> 00:59:11,540
+put it on TikTok. They will put it on
+
+1418
+00:59:11,540 --> 00:59:14,360
+WhatsApp. that. And then, remember, politics
+
+1419
+00:59:14,360 --> 00:59:15,760
+is about numbers at the end of the game.
+
+1420
+00:59:15,980 --> 00:59:18,700
+Right? And they will use this during the
+
+1421
+00:59:18,700 --> 00:59:20,220
+general election to invite this kind of
+
+1422
+00:59:20,220 --> 00:59:22,260
+backlash. And then, what will happen?
+
+1423
+00:59:23,160 --> 00:59:25,440
+A lot of the Malay majority seats that
+
+1424
+00:59:25,440 --> 00:59:27,280
+PKR and Amana win, they will lose.
+
+1425
+00:59:28,340 --> 00:59:30,560
+I think some of the mixed seats that PKR
+
+1426
+00:59:30,560 --> 00:59:32,920
+and also DAP holds, they will also lose.
+
+1427
+00:59:33,380 --> 00:59:36,280
+And, most importantly, right, during a
+
+1428
+00:59:36,280 --> 00:59:38,460
+general election, the sentiment will be
+
+1429
+00:59:38,460 --> 00:59:40,120
+quite different. because there will be
+
+1430
+00:59:40,120 --> 00:59:42,400
+some pro -reform voters who would swing
+
+1431
+00:59:42,400 --> 00:59:44,040
+their support to Bersama in a very big
+
+1432
+00:59:44,040 --> 00:59:46,200
+way. And those middle -of -the -road voters,
+
+1433
+00:59:46,300 --> 00:59:48,240
+right, their thinking would be, should
+
+1434
+00:59:48,240 --> 00:59:50,300
+I vote for DAP? And in some cases, they
+
+1435
+00:59:50,300 --> 00:59:52,420
+would to have a decent opposition because
+
+1436
+00:59:52,420 --> 00:59:53,620
+at that time they would know that DAP
+
+1437
+00:59:53,620 --> 00:59:55,220
+will end up in the opposition. And then
+
+1438
+00:59:55,220 --> 00:59:57,200
+some will also say, hey, if I want to
+
+1439
+00:59:57,200 --> 01:00:00,560
+strengthen the cuts of a political party
+
+1440
+01:00:00,560 --> 01:00:02,860
+or coalition against PAS, it's actually
+
+1441
+01:00:02,860 --> 01:00:05,360
+much better for us to vote for BN so that
+
+1442
+01:00:05,360 --> 01:00:07,420
+they can have more seats vis -à -vis PAS
+
+1443
+01:00:07,420 --> 01:00:09,120
+rather than DAP or PKR.
+
+1444
+01:00:09,640 --> 01:00:13,220
+Because DAP probably has a, it's not going
+
+1445
+01:00:13,220 --> 01:00:14,840
+to be a... Not going to be government.
+
+1446
+01:00:15,060 --> 01:00:18,160
+Yeah. So, I guess the question is,
+
+1447
+01:00:19,520 --> 01:00:21,820
+do you think there's, I mean, right now
+
+1448
+01:00:21,820 --> 01:00:23,120
+I know you don't see it, what is their
+
+1449
+01:00:23,120 --> 01:00:24,340
+path to redemption DAP?
+
+1450
+01:00:24,680 --> 01:00:28,580
+Oh, firstly, thankfully, to me, it's not
+
+1451
+01:00:28,580 --> 01:00:31,100
+my problem. Since I've left the party,
+
+1452
+01:00:31,240 --> 01:00:33,520
+right? You know, but again, because I
+
+1453
+01:00:33,520 --> 01:00:34,780
+can wear different hats, you know, I put
+
+1454
+01:00:34,780 --> 01:00:36,520
+on the hat of a political analyst that,
+
+1455
+01:00:36,640 --> 01:00:38,800
+you know, still is committed to institutional
+
+1456
+01:00:38,800 --> 01:00:41,020
+reform, I would say the best thing for
+
+1457
+01:00:41,020 --> 01:00:42,600
+the DAP to do is, number one,
+
+1458
+01:00:44,620 --> 01:00:46,440
+do something before the general election,
+
+1459
+01:00:46,760 --> 01:00:49,060
+do something drastic, if let's say a lot
+
+1460
+01:00:49,060 --> 01:00:50,240
+of these reforms have not been
+
+1461
+01:00:52,020 --> 01:00:54,740
+fulfilled, even to the extent of considering
+
+1462
+01:00:54,740 --> 01:00:57,260
+leaving Pakatan Harapan, right?
+
+1463
+01:00:57,340 --> 01:01:00,060
+To show that, okay, I admit that the ship
+
+1464
+01:01:00,060 --> 01:01:02,400
+is sinking and I'm willing to do something
+
+1465
+01:01:02,400 --> 01:01:04,340
+to get off the ship. Right?
+
+1466
+01:01:04,540 --> 01:01:06,400
+And then say, these are the reforms that
+
+1467
+01:01:06,400 --> 01:01:09,700
+we will pledge to do, and we will do it
+
+1468
+01:01:09,700 --> 01:01:12,160
+with whoever agrees to these, if they
+
+1469
+01:01:12,160 --> 01:01:14,420
+are in government, but we are fine to
+
+1470
+01:01:14,420 --> 01:01:16,820
+remain in opposition, to advocate for
+
+1471
+01:01:16,820 --> 01:01:18,800
+these issues from the perspective of an
+
+1472
+01:01:18,800 --> 01:01:21,820
+opposition party, and then we try to rebuild
+
+1473
+01:01:21,820 --> 01:01:24,120
+back our alliances with whoever has the
+
+1474
+01:01:24,120 --> 01:01:27,440
+same kind of principles and policies as
+
+1475
+01:01:27,440 --> 01:01:29,780
+us. But I feel like a lot of this just
+
+1476
+01:01:29,780 --> 01:01:32,000
+seems like damage control and not so much
+
+1477
+01:01:32,000 --> 01:01:35,100
+in how they make their way to actually
+
+1478
+01:01:35,100 --> 01:01:36,660
+get back into government.
+
+1479
+01:01:37,180 --> 01:01:39,260
+I do not think that...
+
+1480
+01:01:39,260 --> 01:01:40,920
+I mean retain... I do not think...
+
+1481
+01:01:40,920 --> 01:01:44,960
+So the idea of DAP and PH being able
+
+1482
+01:01:44,960 --> 01:01:47,620
+to retain the position of the Prime Minister
+
+1483
+01:01:47,620 --> 01:01:50,120
+and even being back in government, not
+
+1484
+01:01:50,120 --> 01:01:52,400
+impossible. I have seen stranger things
+
+1485
+01:01:52,400 --> 01:01:54,420
+happen in politics in Malaysia.
+
+1486
+01:01:54,580 --> 01:01:56,020
+I would never have thought that there
+
+1487
+01:01:56,020 --> 01:01:57,700
+would be a unity government between PH
+
+1488
+01:01:57,700 --> 01:02:00,300
+and BN when I started my political career
+
+1489
+01:02:00,300 --> 01:02:02,760
+and here we have it. I would say it is
+
+1490
+01:02:02,760 --> 01:02:03,980
+impossible but it is very difficult.
+
+1491
+01:02:05,260 --> 01:02:08,440
+But the sooner the DAP leaders want to
+
+1492
+01:02:08,440 --> 01:02:10,140
+admit publicly that they will be back
+
+1493
+01:02:10,140 --> 01:02:12,140
+in opposition and they want to be a good
+
+1494
+01:02:12,140 --> 01:02:15,600
+opposition force, I think the better it
+
+1495
+01:02:15,600 --> 01:02:17,260
+is for them to be able to have a at least
+
+1496
+01:02:17,260 --> 01:02:18,580
+a little bit of moral high ground.
+
+1497
+01:02:18,740 --> 01:02:21,400
+But let me tell you, this will not happen.
+
+1498
+01:02:22,700 --> 01:02:24,580
+Because they know you are talking about
+
+1499
+01:02:24,580 --> 01:02:26,220
+it and the more they don't want to do
+
+1500
+01:02:26,220 --> 01:02:27,900
+that. No, no, no. Nothing to do with me.
+
+1501
+01:02:28,000 --> 01:02:29,840
+I don't have any power over what the DAP
+
+1502
+01:02:29,840 --> 01:02:31,120
+wants or doesn't want.
+
+1503
+01:02:31,120 --> 01:02:32,980
+Maybe you're in their head a lot. I don't
+
+1504
+01:02:32,980 --> 01:02:35,880
+know. But again, you have to put yourself
+
+1505
+01:02:35,880 --> 01:02:37,960
+in the shoes of the DAP leaders or any
+
+1506
+01:02:37,960 --> 01:02:40,460
+political leaders. If they are going to
+
+1507
+01:02:40,460 --> 01:02:42,140
+have this kind of admission that they
+
+1508
+01:02:42,140 --> 01:02:44,040
+are not likely going to remain in government,
+
+1509
+01:02:44,620 --> 01:02:46,020
+when they go out to do fundraising.
+
+1510
+01:02:47,260 --> 01:02:49,540
+Now, DAP fundraising dinners I think probably
+
+1511
+01:02:49,540 --> 01:02:51,200
+cannot raise as much money as they did
+
+1512
+01:02:51,200 --> 01:02:52,800
+before. What they will do is that they
+
+1513
+01:02:52,800 --> 01:02:55,800
+will go to the different corporate leaders,
+
+1514
+01:02:55,800 --> 01:02:57,920
+the business people that they have gotten
+
+1515
+01:02:57,920 --> 01:02:59,360
+to know over their time in government
+
+1516
+01:02:59,360 --> 01:03:01,880
+over the past two election cycles.
+
+1517
+01:03:02,120 --> 01:03:03,980
+And then they will ask, donate for me
+
+1518
+01:03:03,980 --> 01:03:06,040
+for my campaign and stuff like that.
+
+1519
+01:03:06,500 --> 01:03:08,980
+Then the businessman will ask, so you're
+
+1520
+01:03:08,980 --> 01:03:10,760
+going to be in power or not? Do you think
+
+1521
+01:03:10,760 --> 01:03:11,900
+they're going to say, oh, actually I'm
+
+1522
+01:03:11,900 --> 01:03:14,360
+going to be in opposition, but donate
+
+1523
+01:03:14,360 --> 01:03:17,280
+to me so I can play an effective role
+
+1524
+01:03:17,280 --> 01:03:19,140
+in opposition? Do you think their donations
+
+1525
+01:03:19,140 --> 01:03:21,900
+will go up or go down? They will not get
+
+1526
+01:03:21,900 --> 01:03:24,200
+their money. Or they will get much less.
+
+1527
+01:03:25,000 --> 01:03:28,180
+So that's also another reason why I think
+
+1528
+01:03:28,180 --> 01:03:31,560
+whatever I say, even putting on the head
+
+1529
+01:03:31,560 --> 01:03:34,020
+of a political analyst, but with the experience
+
+1530
+01:03:34,020 --> 01:03:36,780
+of being in politics before, I would say
+
+1531
+01:03:36,780 --> 01:03:39,980
+that that pathway is not likely either.
+
+1532
+01:03:40,440 --> 01:03:43,420
+And then basically they have to go down
+
+1533
+01:03:43,420 --> 01:03:44,560
+with the sinking ship before they can
+
+1534
+01:03:44,560 --> 01:03:46,140
+float again. Okay.
+
+1535
+01:03:46,860 --> 01:03:50,380
+Yeah, so we talk a lot about DAP.
+
+1536
+01:03:50,680 --> 01:03:54,140
+So I think I want to ask about the reform
+
+1537
+01:03:54,140 --> 01:03:54,880
+stuff because
+
+1538
+01:03:56,260 --> 01:03:59,080
+you have someone who has done both inside
+
+1539
+01:03:59,080 --> 01:04:01,140
+and outside of government opposition and
+
+1540
+01:04:01,140 --> 01:04:04,860
+in government, right? You hear often two
+
+1541
+01:04:04,860 --> 01:04:08,000
+sides to talking about when talking about
+
+1542
+01:04:08,000 --> 01:04:09,640
+Anwar's lack of
+
+1543
+01:04:10,940 --> 01:04:12,540
+results. results. Yeah, results.
+
+1544
+01:04:12,920 --> 01:04:15,520
+One will say, okay, what has he been doing
+
+1545
+01:04:15,520 --> 01:04:17,560
+four years? We don't see any major reforms.
+
+1546
+01:04:17,900 --> 01:04:19,420
+Things are getting worse. The other side
+
+1547
+01:04:19,420 --> 01:04:20,940
+will say that, okay, he's got obstacles
+
+1548
+01:04:20,940 --> 01:04:24,900
+because his counterparts, BN, are making
+
+1549
+01:04:24,900 --> 01:04:28,600
+it very difficult. So how hard is it actually?
+
+1550
+01:04:28,860 --> 01:04:31,140
+Is that a good argument to why things
+
+1551
+01:04:31,140 --> 01:04:32,820
+are going very slow?
+
+1552
+01:04:33,000 --> 01:04:35,280
+Or is it true that actually you're the
+
+1553
+01:04:35,280 --> 01:04:37,940
+prime minister, right? you literally can
+
+1554
+01:04:37,940 --> 01:04:39,900
+make all these things happen.
+
+1555
+01:04:40,260 --> 01:04:42,160
+Or maybe he doesn't want it to happen.
+
+1556
+01:04:42,340 --> 01:04:44,420
+Again, this time I put on my academic
+
+1557
+01:04:44,420 --> 01:04:48,800
+hat, I will probably try to write a more
+
+1558
+01:04:48,800 --> 01:04:52,120
+lengthy piece closer to the next general
+
+1559
+01:04:52,120 --> 01:04:53,960
+election, maybe first quarter next year,
+
+1560
+01:04:55,620 --> 01:04:58,140
+after the budget session is over, to evaluate
+
+1561
+01:04:58,140 --> 01:04:59,860
+the institutional
+
+1562
+01:05:01,140 --> 01:05:03,440
+changes and reforms that Anwar has brought
+
+1563
+01:05:03,440 --> 01:05:06,220
+to government over the past four years.
+
+1564
+01:05:06,340 --> 01:05:08,360
+And I divide the reforms into two categories,
+
+1565
+01:05:08,520 --> 01:05:11,040
+broad categories. One is economic reforms.
+
+1566
+01:05:11,280 --> 01:05:13,620
+The other one is political reforms, right?
+
+1567
+01:05:13,740 --> 01:05:15,820
+So I think on the economic reforms part,
+
+1568
+01:05:16,040 --> 01:05:20,200
+I think he's done some good stuff.
+
+1569
+01:05:20,420 --> 01:05:21,820
+The targeted subsidies.
+
+1570
+01:05:22,140 --> 01:05:24,600
+So targeted subsidies, I think he agreed
+
+1571
+01:05:24,600 --> 01:05:28,300
+to it. The push from that came mostly
+
+1572
+01:05:28,300 --> 01:05:30,800
+from the Ministry of Finance. Because
+
+1573
+01:05:30,800 --> 01:05:34,280
+they basically told him, you don't have
+
+1574
+01:05:34,280 --> 01:05:36,320
+enough money, we are running a fiscal
+
+1575
+01:05:36,320 --> 01:05:38,340
+space, the only way in which we are going
+
+1576
+01:05:38,340 --> 01:05:39,920
+to be able to do the handouts that you
+
+1577
+01:05:39,920 --> 01:05:42,520
+want to give, especially for the budget,
+
+1578
+01:05:42,760 --> 01:05:45,220
+this upcoming budget announcement for
+
+1579
+01:05:45,220 --> 01:05:49,600
+budget 2027, is to reduce
+
+1580
+01:05:49,600 --> 01:05:51,020
+the amount of subsidies that you spend
+
+1581
+01:05:52,840 --> 01:05:56,180
+on things like electricity bills, petrol
+
+1582
+01:05:56,180 --> 01:05:58,620
+subsidies, gas subsidies, and whatnot.
+
+1583
+01:05:58,860 --> 01:06:01,640
+So he did that. He put in a couple of
+
+1584
+01:06:01,640 --> 01:06:04,940
+things that helped improve that position.
+
+1585
+01:06:05,180 --> 01:06:06,800
+Which are really all for the targeted
+
+1586
+01:06:06,800 --> 01:06:09,120
+subsidies. Yes, but he didn't go far enough
+
+1587
+01:06:09,120 --> 01:06:12,060
+and now he's reversing. So Budi 95 was
+
+1588
+01:06:12,060 --> 01:06:14,100
+a good start in terms of the petrol subsidies.
+
+1589
+01:06:14,600 --> 01:06:17,280
+And given the fact that we have a Middle
+
+1590
+01:06:17,280 --> 01:06:19,520
+East crisis with global all revenues,
+
+1591
+01:06:20,020 --> 01:06:23,140
+with global all prices increasing, that
+
+1592
+01:06:23,140 --> 01:06:24,760
+would have been a good time for Anwar
+
+1593
+01:06:24,760 --> 01:06:26,420
+to send a signal that I'm a responsible
+
+1594
+01:06:26,420 --> 01:06:28,680
+Prime Minister and Finance Minister by
+
+1595
+01:06:28,680 --> 01:06:32,740
+slowly increasing the price of the subsidized
+
+1596
+01:06:32,740 --> 01:06:35,240
+petrol. You don't have to go from 199
+
+1597
+01:06:35,240 --> 01:06:39,640
+to 250. You go from 199 to 209 to 219.
+
+1598
+01:06:40,180 --> 01:06:41,780
+And then you have some sort of mechanism
+
+1599
+01:06:41,780 --> 01:06:45,380
+whereby you market to market so that people
+
+1600
+01:06:45,380 --> 01:06:47,940
+know that as price of oil increases globally,
+
+1601
+01:06:48,180 --> 01:06:50,580
+we have to take in and absorb some of
+
+1602
+01:06:50,580 --> 01:06:53,200
+the consequences. It cannot be everything
+
+1603
+01:06:53,200 --> 01:06:54,140
+absorbed by the government.
+
+1604
+01:06:55,580 --> 01:06:58,220
+But you continue to let the people know
+
+1605
+01:06:58,220 --> 01:06:59,940
+how much the government is subsidizing
+
+1606
+01:06:59,940 --> 01:07:04,060
+based on your pump price and your
+
+1607
+01:07:04,060 --> 01:07:08,920
+receipt. Second thing is there's
+
+1608
+01:07:08,920 --> 01:07:11,840
+been U -turn. Subsidy go from 300 litres
+
+1609
+01:07:11,840 --> 01:07:13,840
+to 200 litres and now it's back at 300
+
+1610
+01:07:13,840 --> 01:07:15,700
+litres. So who will it benefit?
+
+1611
+01:07:16,020 --> 01:07:18,200
+Mostly people who are driving big cars
+
+1612
+01:07:18,200 --> 01:07:22,060
+and who like me later driving to F1.
+
+1613
+01:07:23,600 --> 01:07:26,460
+For the record, I drive a Toyota Corolla
+
+1614
+01:07:26,460 --> 01:07:28,300
+Cross Hybrid.
+
+1615
+01:07:31,520 --> 01:07:33,760
+it's pretty good.
+
+1616
+01:07:34,980 --> 01:07:36,760
+For the record, you'll also be in the
+
+1617
+01:07:36,760 --> 01:07:39,780
+VIP suite. I'm not paying for it.
+
+1618
+01:07:39,980 --> 01:07:42,840
+Thank you very much who you are.
+
+1619
+01:07:44,420 --> 01:07:47,960
+From that perspective, I think there were
+
+1620
+01:07:47,960 --> 01:07:50,760
+some economic reforms, but not enough.
+
+1621
+01:07:51,040 --> 01:07:52,280
+But why did he U -turn?
+
+1622
+01:07:52,480 --> 01:07:53,840
+Why do you think he did that? Because
+
+1623
+01:07:53,840 --> 01:07:55,680
+by nature, Anwar is a populist.
+
+1624
+01:07:56,000 --> 01:07:58,760
+And populist, I think, sometimes it can
+
+1625
+01:07:58,760 --> 01:08:00,140
+be good, sometimes it can be bad.
+
+1626
+01:08:00,280 --> 01:08:03,540
+But when he doesn't have the bigger picture
+
+1627
+01:08:03,540 --> 01:08:06,680
+of the economic direction of the country
+
+1628
+01:08:06,680 --> 01:08:09,880
+going forward, he resorts to things like,
+
+1629
+01:08:10,180 --> 01:08:12,300
+if I'm put under pressure, I just give
+
+1630
+01:08:12,300 --> 01:08:15,240
+up money. And this was the exact trap
+
+1631
+01:08:15,240 --> 01:08:17,140
+that Najib fell into after 2018.
+
+1632
+01:08:17,820 --> 01:08:20,780
+Or in the run -up to 2018 because of 1MD
+
+1633
+01:08:20,780 --> 01:08:22,280
+pressures and all that. And then he started
+
+1634
+01:08:22,280 --> 01:08:24,420
+giving him money. So this is really, I
+
+1635
+01:08:24,420 --> 01:08:25,900
+mean, it's like you said, sometimes it
+
+1636
+01:08:25,900 --> 01:08:29,700
+works, sometimes this populist actions,
+
+1637
+01:08:29,880 --> 01:08:32,100
+sometimes it works, sometimes it don't.
+
+1638
+01:08:32,260 --> 01:08:34,880
+They have to, he also knows that, but
+
+1639
+01:08:34,880 --> 01:08:37,060
+it's sort of, what is your next best,
+
+1640
+01:08:37,240 --> 01:08:39,220
+he couldn't think of. Okay, so.
+
+1641
+01:08:39,460 --> 01:08:40,340
+Or he couldn't
+
+1642
+01:08:41,640 --> 01:08:43,700
+execute. No, maybe I'll ask you this.
+
+1643
+01:08:45,460 --> 01:08:48,360
+Anwar Ibrahim was last finance minister
+
+1644
+01:08:48,360 --> 01:08:49,740
+in the 1990s.
+
+1645
+01:08:50,260 --> 01:08:51,680
+This was. 91, 92?
+
+1646
+01:08:51,880 --> 01:08:52,000
+No,
+
+1647
+01:08:53,840 --> 01:08:57,300
+93 to 98, around that time, before you
+
+1648
+01:08:57,300 --> 01:09:00,120
+were even born. Oh, yeah, yeah. That was
+
+1649
+01:09:00,120 --> 01:09:03,400
+more than, that was more than 30 years
+
+1650
+01:09:03,400 --> 01:09:05,460
+ago. Deputy plus, deputy minister plus.
+
+1651
+01:09:05,800 --> 01:09:07,260
+years ago, 30 years ago, yeah.
+
+1652
+01:09:08,060 --> 01:09:10,040
+You know, he said he had to wait 25 years
+
+1653
+01:09:10,040 --> 01:09:11,580
+before becoming prime minister, right?
+
+1654
+01:09:12,160 --> 01:09:14,120
+Has the world become more complicated
+
+1655
+01:09:14,120 --> 01:09:16,540
+and complex since then?
+
+1656
+01:09:17,360 --> 01:09:20,160
+Has the policy ecosystem become much more
+
+1657
+01:09:20,160 --> 01:09:23,020
+nuanced and sophisticated with the advent
+
+1658
+01:09:23,020 --> 01:09:25,980
+of digitalization, now with AI.
+
+1659
+01:09:28,840 --> 01:09:31,780
+If I were to ask you, your,
+
+1660
+01:09:33,300 --> 01:09:34,420
+how was your father?
+
+1661
+01:09:36,020 --> 01:09:40,040
+64, he's going to watch this, 68, I think.
+
+1662
+01:09:40,880 --> 01:09:43,480
+Is he still very active in business?
+
+1663
+01:09:43,980 --> 01:09:44,500
+That means? I,
+
+1664
+01:09:46,540 --> 01:09:48,800
+semi. semi. So, semi -retired already,
+
+1665
+01:09:48,960 --> 01:09:49,060
+right?
+
+1666
+01:09:50,320 --> 01:09:54,020
+Do you know any other 80 -year -old CEOs
+
+1667
+01:09:54,020 --> 01:09:56,380
+in the Malaysian ecosystem that is still
+
+1668
+01:09:56,380 --> 01:09:59,540
+very much in the limelight trying to fight
+
+1669
+01:09:59,540 --> 01:10:03,120
+for the interest of the company in a very
+
+1670
+01:10:03,120 --> 01:10:06,340
+public way? Can you name any in Malaysia?
+
+1671
+01:10:06,800 --> 01:10:09,460
+Or even globally? No.
+
+1672
+01:10:09,740 --> 01:10:11,640
+I mean, I know I was almost 80.
+
+1673
+01:10:11,920 --> 01:10:14,300
+So, he's 79 this year, right?
+
+1674
+01:10:14,300 --> 01:10:16,880
+So, I think, you know, it may not be so
+
+1675
+01:10:16,880 --> 01:10:19,800
+fair to him, for him to understand these
+
+1676
+01:10:19,800 --> 01:10:21,800
+kinds of policy complexities.
+
+1677
+01:10:22,660 --> 01:10:24,600
+So, that's why he resorts to the populist
+
+1678
+01:10:24,600 --> 01:10:25,820
+measures because those are things that
+
+1679
+01:10:25,820 --> 01:10:26,380
+he understands.
+
+1680
+01:10:28,920 --> 01:10:31,720
+Right? Which is something that I think
+
+1681
+01:10:31,720 --> 01:10:34,020
+all politicians need to be aware of, you
+
+1682
+01:10:34,020 --> 01:10:36,100
+know, all parties need to be aware of.
+
+1683
+01:10:36,200 --> 01:10:38,080
+But, of course, because when you're at
+
+1684
+01:10:38,080 --> 01:10:39,860
+the very top, the people at the bottom
+
+1685
+01:10:39,860 --> 01:10:42,660
+do not dare to say anything, you know,
+
+1686
+01:10:42,780 --> 01:10:44,520
+to your face because they are afraid that
+
+1687
+01:10:44,520 --> 01:10:46,720
+you may punish them.
+
+1688
+01:10:46,880 --> 01:10:49,040
+One opinion also is like, you know, even
+
+1689
+01:10:49,040 --> 01:10:51,660
+though he's how old and he was also finance
+
+1690
+01:10:51,660 --> 01:10:54,480
+minister how many years ago, he has a
+
+1691
+01:10:54,480 --> 01:10:57,780
+great team of very reliable people or
+
+1692
+01:10:57,780 --> 01:11:00,240
+qualified. Can you name one? I can't.
+
+1693
+01:11:00,360 --> 01:11:02,020
+But, this is what we assume, you know,
+
+1694
+01:11:02,060 --> 01:11:03,160
+they're going to be telling him, oh, you
+
+1695
+01:11:03,160 --> 01:11:04,820
+can't do this, you know, you need to adapt
+
+1696
+01:11:04,820 --> 01:11:06,120
+to this, blah, blah, blah. But, it's like
+
+1697
+01:11:06,120 --> 01:11:08,360
+you said, do they dare to do it?
+
+1698
+01:11:08,620 --> 01:11:11,140
+Yeah. So, I would name one, this is public
+
+1699
+01:11:11,140 --> 01:11:13,880
+information, Nohisham Hussein, who is
+
+1700
+01:11:13,880 --> 01:11:16,120
+his economic advisor, so to speak,
+
+1701
+01:11:17,600 --> 01:11:19,460
+you know, he was brought in from EPF to
+
+1702
+01:11:19,460 --> 01:11:21,200
+help him on some economic matters and
+
+1703
+01:11:21,200 --> 01:11:23,300
+whatnot. You know, and I think he will
+
+1704
+01:11:23,300 --> 01:11:24,760
+try to give good advice, whether or not
+
+1705
+01:11:24,760 --> 01:11:26,220
+Anwar will listen to him is a separate
+
+1706
+01:11:26,220 --> 01:11:29,200
+issue. I think Tengku Zafrul is also his
+
+1707
+01:11:29,200 --> 01:11:31,900
+political advisor and has been trying
+
+1708
+01:11:31,900 --> 01:11:33,420
+to defend the prime minister in certain
+
+1709
+01:11:33,420 --> 01:11:35,140
+ways. Again, whether or not he listens
+
+1710
+01:11:35,140 --> 01:11:38,260
+to Zafrul on political and policy stuff,
+
+1711
+01:11:38,260 --> 01:11:40,960
+I'm not quite sure. But yeah, I mean,
+
+1712
+01:11:41,640 --> 01:11:44,100
+you know, that's on the economic policy
+
+1713
+01:11:44,100 --> 01:11:48,300
+side. If you ask Anwar to again describe
+
+1714
+01:11:48,300 --> 01:11:51,060
+the nuances of the new investment framework
+
+1715
+01:11:51,060 --> 01:11:53,280
+under Miti and Maida, I don't think he
+
+1716
+01:11:53,280 --> 01:11:54,760
+will be able to do that. Maybe it's not
+
+1717
+01:11:54,760 --> 01:11:56,200
+in his position to do so as well.
+
+1718
+01:11:56,700 --> 01:12:00,080
+If you ask him the nuances and the pros
+
+1719
+01:12:00,080 --> 01:12:02,140
+and cons between having an SST and GST,
+
+1720
+01:12:02,320 --> 01:12:03,260
+I don't think he will be able to tell
+
+1721
+01:12:03,260 --> 01:12:05,140
+you, which is why...
+
+1722
+01:12:05,140 --> 01:12:06,640
+No way, even that he can't.
+
+1723
+01:12:06,720 --> 01:12:08,980
+Well, I'll give you a very simple example.
+
+1724
+01:12:09,280 --> 01:12:12,560
+In a recent budget dialogue, when journalists
+
+1725
+01:12:12,560 --> 01:12:14,100
+asked him about what were some of the
+
+1726
+01:12:14,100 --> 01:12:17,400
+highlights that he heard at this discussion,
+
+1727
+01:12:17,660 --> 01:12:21,440
+he came out and said, oh, we may be introducing
+
+1728
+01:12:21,440 --> 01:12:25,140
+a hybrid tax system, SST plus GST.
+
+1729
+01:12:26,680 --> 01:12:29,140
+If you ask any tax consultant worth their
+
+1730
+01:12:29,140 --> 01:12:31,500
+salt, and even some who may not be worth
+
+1731
+01:12:31,500 --> 01:12:33,660
+their salt, they will say that this is
+
+1732
+01:12:33,660 --> 01:12:36,420
+an unworkable system. There's no other
+
+1733
+01:12:36,420 --> 01:12:40,520
+developed country that has combined and
+
+1734
+01:12:40,520 --> 01:12:43,080
+expanded SST with a GST, because you do
+
+1735
+01:12:43,080 --> 01:12:47,060
+not know where your input taxes and claims
+
+1736
+01:12:47,060 --> 01:12:48,420
+and reliefs are going to come from.
+
+1737
+01:12:48,540 --> 01:12:49,660
+Where do they start? Where do they end?
+
+1738
+01:12:50,220 --> 01:12:52,220
+So, by the very fact that he mentioned
+
+1739
+01:12:52,220 --> 01:12:54,200
+this, it was a big error.
+
+1740
+01:12:54,460 --> 01:12:55,980
+Yes, it was not filtered, it was not,
+
+1741
+01:12:56,100 --> 01:12:58,400
+you know, you may have listened to wrong
+
+1742
+01:12:58,400 --> 01:12:59,340
+advice, I don't know who,
+
+1743
+01:13:00,860 --> 01:13:03,440
+it shows me that on the economic side,
+
+1744
+01:13:03,860 --> 01:13:05,300
+that is a very big gap.
+
+1745
+01:13:06,040 --> 01:13:08,020
+Okay, you know, the other things that
+
+1746
+01:13:08,020 --> 01:13:09,580
+he did, things like the Government Procurement
+
+1747
+01:13:09,580 --> 01:13:12,860
+Act, that was actually put in place before
+
+1748
+01:13:12,860 --> 01:13:15,600
+2022. Zafro was the finance minister when
+
+1749
+01:13:15,600 --> 01:13:19,060
+the details of that started to be fleshed
+
+1750
+01:13:19,060 --> 01:13:20,620
+out, and he just, you know, allowed it
+
+1751
+01:13:20,620 --> 01:13:23,640
+to be passed. That's on the economic side.
+
+1752
+01:13:23,700 --> 01:13:25,860
+A lot of stuff, I don't want to go through
+
+1753
+01:13:25,860 --> 01:13:28,040
+in detail, but I'll write about it later
+
+1754
+01:13:28,040 --> 01:13:31,100
+on. On the policy side, or the political
+
+1755
+01:13:31,100 --> 01:13:35,020
+reform side, yeah, minor things, Parliamentary
+
+1756
+01:13:35,020 --> 01:13:36,900
+Services Act, you know, to establish a
+
+1757
+01:13:36,900 --> 01:13:39,820
+separate Parliamentary Services Act, and
+
+1758
+01:13:39,820 --> 01:13:41,960
+having a commission to oversee, for example,
+
+1759
+01:13:42,260 --> 01:13:43,880
+the running and the functioning of Parliament,
+
+1760
+01:13:44,200 --> 01:13:46,700
+but even then, that was put in under PH
+
+1761
+01:13:46,700 --> 01:13:51,060
+1 .0. He just allowed it to be taken
+
+1762
+01:13:51,060 --> 01:13:53,180
+to its natural conclusion. And it's not
+
+1763
+01:13:53,180 --> 01:13:54,820
+going to be a game -changer because Parliamentary
+
+1764
+01:13:54,820 --> 01:13:56,540
+Services Act only affects the running
+
+1765
+01:13:56,950 --> 01:13:59,000
+of the Parliament itself. It doesn't affect
+
+1766
+01:13:59,000 --> 01:14:01,380
+the lives of you and me. everyday Malaysians.
+
+1767
+01:14:01,660 --> 01:14:03,940
+So, coming back to the question I asked
+
+1768
+01:14:03,940 --> 01:14:04,080
+you,
+
+1769
+01:14:06,640 --> 01:14:09,500
+how much of, people think that BN is the
+
+1770
+01:14:09,500 --> 01:14:11,780
+reason, that's not actually the, is the
+
+1771
+01:14:11,780 --> 01:14:14,740
+reason why these reforms are slow and
+
+1772
+01:14:14,740 --> 01:14:16,080
+all. That's actually not the... Let me
+
+1773
+01:14:16,080 --> 01:14:17,160
+ask you a very simple question.
+
+1774
+01:14:19,940 --> 01:14:24,620
+Who decides on who gets access to the
+
+1775
+01:14:24,620 --> 01:14:26,600
+Parliamentary Allocation as an MP?
+
+1776
+01:14:28,040 --> 01:14:30,200
+Because MPs do get an allocation, right?
+
+1777
+01:14:30,340 --> 01:14:32,240
+Who decides that? I would assume the PM
+
+1778
+01:14:32,240 --> 01:14:34,000
+and the Finance Minister?
+
+1779
+01:14:34,340 --> 01:14:36,300
+No, not the Finance Minister, the Prime
+
+1780
+01:14:36,300 --> 01:14:38,740
+Minister. Because the Internal Coordination
+
+1781
+01:14:38,740 --> 01:14:41,300
+Unit that handles the Parliamentary Allocation
+
+1782
+01:14:41,300 --> 01:14:43,560
+sits directly under the Prime Minister's
+
+1783
+01:14:43,560 --> 01:14:43,920
+Department.
+
+1784
+01:14:45,460 --> 01:14:47,880
+So, with a stroke of a pen, he could have
+
+1785
+01:14:47,880 --> 01:14:50,140
+allocated money to the opposition.
+
+1786
+01:14:50,780 --> 01:14:52,660
+And that's what Mahathir did under PH
+
+1787
+01:14:52,660 --> 01:14:54,840
+1 .0. They allocated some money, some
+
+1788
+01:14:54,840 --> 01:14:57,100
+funds. It's not a matter of whether
+
+1789
+01:14:58,400 --> 01:15:00,740
+BN or other parties agree or don't agree.
+
+1790
+01:15:01,080 --> 01:15:03,800
+He can do it. Oppositions get zero, right?
+
+1791
+01:15:03,940 --> 01:15:06,840
+Zero. Even under PH 1 .0, opposition got
+
+1792
+01:15:06,840 --> 01:15:09,480
+some stuff. So, you're saying that he
+
+1793
+01:15:09,480 --> 01:15:12,240
+did not choose to do that because he's
+
+1794
+01:15:12,240 --> 01:15:13,560
+in government. Why would he do that for
+
+1795
+01:15:13,560 --> 01:15:15,500
+his opposition? Which is very simple to
+
+1796
+01:15:15,500 --> 01:15:17,740
+understand. Let me ask you another question.
+
+1797
+01:15:19,020 --> 01:15:21,260
+When Wong Chan's allocation was taken
+
+1798
+01:15:21,260 --> 01:15:23,360
+from him when he was still an MP, when
+
+1799
+01:15:23,360 --> 01:15:24,940
+Lee Chen Chong's allocation was taken
+
+1800
+01:15:24,940 --> 01:15:27,600
+away when he was still an MP, when Rozia
+
+1801
+01:15:27,600 --> 01:15:29,300
+and Ampang, whose allocation still has
+
+1802
+01:15:29,300 --> 01:15:31,380
+not been restored to her, was taken away.
+
+1803
+01:15:32,120 --> 01:15:36,380
+Was it BN or GPS or GRS
+
+1804
+01:15:36,380 --> 01:15:37,840
+that was asking for these allocations
+
+1805
+01:15:37,840 --> 01:15:38,560
+to be taken away?
+
+1806
+01:15:40,260 --> 01:15:41,080
+What's the answer?
+
+1807
+01:15:43,860 --> 01:15:47,180
+Which party did Wong Chan, Chen Chong
+
+1808
+01:15:47,180 --> 01:15:48,900
+and then Rozia is still belonging to?
+
+1809
+01:15:48,980 --> 01:15:50,400
+PICA. Correct. Yeah.
+
+1810
+01:15:51,080 --> 01:15:53,300
+So, Anwar took away the allocation of
+
+1811
+01:15:53,300 --> 01:15:56,060
+his own party MPs.
+
+1812
+01:15:57,420 --> 01:15:59,280
+But why would he do that?
+
+1813
+01:15:59,460 --> 01:16:01,280
+Because they were not in line with him
+
+1814
+01:16:01,280 --> 01:16:04,720
+as a party leader. Oh, he was trying to
+
+1815
+01:16:05,840 --> 01:16:07,820
+set them straight. Right.
+
+1816
+01:16:07,820 --> 01:16:11,660
+So, even Barisan National, when they were
+
+1817
+01:16:11,660 --> 01:16:14,680
+in government, they did not take the action
+
+1818
+01:16:14,680 --> 01:16:16,660
+of taking away parliamentary allocations
+
+1819
+01:16:16,660 --> 01:16:20,160
+from MPs within their own party that may
+
+1820
+01:16:20,160 --> 01:16:23,120
+not have agreed with the Prime Minister.
+
+1821
+01:16:23,740 --> 01:16:25,180
+Do you think he also,
+
+1822
+01:16:26,740 --> 01:16:28,800
+what's the progress right now in separation
+
+1823
+01:16:28,800 --> 01:16:30,200
+of AG and PP?
+
+1824
+01:16:30,440 --> 01:16:32,240
+And do you think this is something he
+
+1825
+01:16:32,240 --> 01:16:35,340
+actually would want to make happen?
+
+1826
+01:16:35,400 --> 01:16:36,860
+I think he wants to make it happen.
+
+1827
+01:16:37,220 --> 01:16:39,460
+Azalina, is the Minister from UMNO in
+
+1828
+01:16:39,460 --> 01:16:42,540
+charge of this, similar to the amendment
+
+1829
+01:16:42,540 --> 01:16:44,480
+to the constitution necessary to have
+
+1830
+01:16:44,480 --> 01:16:47,120
+this 10 -year term limit to the Prime
+
+1831
+01:16:47,120 --> 01:16:50,460
+Minister, which actually failed to get
+
+1832
+01:16:50,460 --> 01:16:52,780
+passed through Parliament in the last
+
+1833
+01:16:52,780 --> 01:16:55,280
+setting because it was mismanaged on the
+
+1834
+01:16:55,280 --> 01:16:57,660
+part of the WIP and others in government.
+
+1835
+01:16:59,900 --> 01:17:03,000
+Right now, this requires a two -thirds
+
+1836
+01:17:03,000 --> 01:17:05,940
+majority, which I do not think the Prime
+
+1837
+01:17:05,940 --> 01:17:07,820
+Minister has because they do not have
+
+1838
+01:17:07,820 --> 01:17:09,720
+the support of Barisan National.
+
+1839
+01:17:10,800 --> 01:17:11,280
+So,
+
+1840
+01:17:13,000 --> 01:17:16,000
+it may not be able to be passed in the
+
+1841
+01:17:16,000 --> 01:17:17,000
+upcoming parliamentary
+
+1842
+01:17:18,720 --> 01:17:21,920
+sitting. In that particular case, you
+
+1843
+01:17:21,920 --> 01:17:24,840
+can say, Barisan National is an obstacle
+
+1844
+01:17:24,840 --> 01:17:27,080
+in the reform. But then you have to ask,
+
+1845
+01:17:27,400 --> 01:17:29,200
+why is it that BN is not supporting you?
+
+1846
+01:17:29,500 --> 01:17:31,000
+Is it because you are putting a lot of
+
+1847
+01:17:31,000 --> 01:17:32,760
+pressure on them through all these cases?
+
+1848
+01:17:34,560 --> 01:17:36,440
+100%. Yes, correct. So,
+
+1849
+01:17:39,000 --> 01:17:40,820
+what is the point of putting all this
+
+1850
+01:17:40,820 --> 01:17:42,660
+pressure on them now and then not before?
+
+1851
+01:17:42,980 --> 01:17:44,540
+It's because general elections are coming.
+
+1852
+01:17:44,800 --> 01:17:47,680
+But he's also dropping some of the cases.
+
+1853
+01:17:47,960 --> 01:17:50,060
+So, you have to ask, why did he drop
+
+1854
+01:17:52,120 --> 01:17:53,340
+Muhyiddin's cases recently?
+
+1855
+01:17:53,800 --> 01:17:55,060
+Can you answer the question?
+
+1856
+01:17:55,280 --> 01:17:58,320
+Trying to get him to brother up.
+
+1857
+01:17:58,500 --> 01:18:00,240
+It's all political expediency, right?
+
+1858
+01:18:00,240 --> 01:18:02,100
+The enemy of your enemy is my friend.
+
+1859
+01:18:02,840 --> 01:18:04,700
+And again, what principle is involved
+
+1860
+01:18:04,700 --> 01:18:06,120
+here? There's no principle.
+
+1861
+01:18:06,300 --> 01:18:07,680
+The principle is that you can work with
+
+1862
+01:18:07,680 --> 01:18:09,260
+me because you don't like the other side.
+
+1863
+01:18:09,960 --> 01:18:11,560
+Whichever the other side is. The principle
+
+1864
+01:18:11,560 --> 01:18:13,820
+is play politics. Correct.
+
+1865
+01:18:14,460 --> 01:18:17,980
+So, you see, the reason why I find this
+
+1866
+01:18:17,980 --> 01:18:19,640
+parliamentary allocation thing particularly
+
+1867
+01:18:19,640 --> 01:18:23,720
+sensitive is because, again, I'm not sure
+
+1868
+01:18:23,720 --> 01:18:26,240
+how much attention you paid, but when
+
+1869
+01:18:26,240 --> 01:18:27,780
+Muhyiddin was still the Prime Minister
+
+1870
+01:18:27,780 --> 01:18:29,980
+before this, after Sheraton move, before
+
+1871
+01:18:29,980 --> 01:18:31,480
+Isma Sabri became Prime Minister,
+
+1872
+01:18:33,140 --> 01:18:36,420
+I, together with Tony Pua, were negotiating
+
+1873
+01:18:36,420 --> 01:18:39,180
+with Muhyiddin's team, which included
+
+1874
+01:18:39,180 --> 01:18:41,600
+at the time Tenggu Zafrul, to come up
+
+1875
+01:18:41,600 --> 01:18:43,300
+with a confidence and supply agreement
+
+1876
+01:18:43,300 --> 01:18:47,040
+whereby, you know, the opposition at that
+
+1877
+01:18:47,040 --> 01:18:51,040
+time, PH mainly, would support Muhyiddin
+
+1878
+01:18:51,040 --> 01:18:52,820
+as Prime Minister in exchange for certain
+
+1879
+01:18:52,820 --> 01:18:55,480
+institutional reforms. Anti -party hopping,
+
+1880
+01:18:55,840 --> 01:18:58,920
+ME63, implementation of UDI 18, and also
+
+1881
+01:18:58,920 --> 01:19:01,280
+equal parliamentary allocation to all,
+
+1882
+01:19:01,820 --> 01:19:03,440
+both opposition and in parliament.
+
+1883
+01:19:04,440 --> 01:19:06,920
+Muhyiddin tried to offer that, it was
+
+1884
+01:19:06,920 --> 01:19:09,080
+rejected by PH because they wanted to
+
+1885
+01:19:09,080 --> 01:19:12,080
+see him fall because of his involvement
+
+1886
+01:19:12,080 --> 01:19:13,720
+in bringing up PH 1 .0.
+
+1887
+01:19:13,940 --> 01:19:16,780
+Now the irony is, of course, charges against
+
+1888
+01:19:16,780 --> 01:19:19,640
+him, I dropped PH, now maybe want to make
+
+1889
+01:19:19,640 --> 01:19:21,280
+overtures, right? Again, it's all political
+
+1890
+01:19:21,280 --> 01:19:23,580
+expediency, but when I negotiated together
+
+1891
+01:19:23,580 --> 01:19:26,160
+with Tony, with Muhyiddin's team, it was
+
+1892
+01:19:26,160 --> 01:19:28,400
+within the context of wanting to bring
+
+1893
+01:19:28,400 --> 01:19:31,320
+in institutional reform because the other
+
+1894
+01:19:31,320 --> 01:19:33,600
+side was willing to talk. So Muhyiddin
+
+1895
+01:19:33,600 --> 01:19:36,500
+was not successful, Ismail Sabri came
+
+1896
+01:19:36,500 --> 01:19:40,660
+up. And then Anthony Lok told Anwar, this
+
+1897
+01:19:40,660 --> 01:19:42,820
+is the institutional reform package that
+
+1898
+01:19:42,820 --> 01:19:45,000
+will be acceptable to Ismail Sabri.
+
+1899
+01:19:45,300 --> 01:19:47,140
+Take it to him and say that we'll sign
+
+1900
+01:19:47,140 --> 01:19:49,220
+the CSA with you in exchange for political
+
+1901
+01:19:49,220 --> 01:19:50,680
+stability in the short term.
+
+1902
+01:19:50,880 --> 01:19:53,240
+You give us all these things, including
+
+1903
+01:19:53,240 --> 01:19:56,480
+anti -hopping law and also eco -parliamentary
+
+1904
+01:19:56,480 --> 01:19:58,720
+allocation. And that was done. That was
+
+1905
+01:19:58,720 --> 01:20:02,640
+done. I had a front row seat because I
+
+1906
+01:20:02,640 --> 01:20:05,260
+was part and parcel of the original team
+
+1907
+01:20:05,260 --> 01:20:06,500
+that was negotiating it.
+
+1908
+01:20:07,560 --> 01:20:09,060
+What happened after 2022?
+
+1909
+01:20:10,020 --> 01:20:14,860
+No systematic action whatsoever to
+
+1910
+01:20:14,860 --> 01:20:16,560
+give eco -parliamentary!
+
+1911
+01:20:16,860 --> 01:20:18,820
+allocation. Not only that, and you may
+
+1912
+01:20:18,820 --> 01:20:21,940
+have forgotten this, there were six Bersatu
+
+1913
+01:20:21,940 --> 01:20:26,120
+MPs who pledged their support to the unity
+
+1914
+01:20:26,120 --> 01:20:27,440
+government in exchange for what?
+
+1915
+01:20:28,240 --> 01:20:29,220
+Parliamentary allocation.
+
+1916
+01:20:30,580 --> 01:20:32,420
+They've since been removed from Bersatu.
+
+1917
+01:20:34,020 --> 01:20:36,440
+But this was the political expediency
+
+1918
+01:20:36,440 --> 01:20:39,360
+part. That you offer this as a carrot,
+
+1919
+01:20:39,620 --> 01:20:42,100
+not for institutional reform, so that
+
+1920
+01:20:42,100 --> 01:20:43,660
+you can bolster the numbers on your side.
+
+1921
+01:20:45,560 --> 01:20:49,120
+So I mean, you know, because I am a politician,
+
+1922
+01:20:49,120 --> 01:20:50,960
+I keep track of these things, I know what's
+
+1923
+01:20:50,960 --> 01:20:52,460
+happening, and I'm also somebody who is
+
+1924
+01:20:52,460 --> 01:20:55,540
+very attentive towards any
+
+1925
+01:20:56,780 --> 01:20:59,860
+issues of institutional political reform,
+
+1926
+01:21:00,020 --> 01:21:02,320
+and also things that happen where these
+
+1927
+01:21:02,320 --> 01:21:04,220
+kinds of things did not take place.
+
+1928
+01:21:04,220 --> 01:21:07,880
+see, I'll be honest, I didn't really understand
+
+1929
+01:21:07,880 --> 01:21:10,940
+everything, but you've answered any doubts
+
+1930
+01:21:10,940 --> 01:21:15,000
+or any questions I have very well,
+
+1931
+01:21:15,180 --> 01:21:15,720
+and
+
+1932
+01:21:17,000 --> 01:21:20,320
+I don't know what the comments would say
+
+1933
+01:21:20,320 --> 01:21:23,260
+about that, but now I think when I look
+
+1934
+01:21:23,260 --> 01:21:25,980
+at all the backlash, it's mostly talking
+
+1935
+01:21:25,980 --> 01:21:27,840
+about UMNO and BN.
+
+1936
+01:21:28,120 --> 01:21:30,320
+Let me throw this question back to you,
+
+1937
+01:21:30,340 --> 01:21:32,920
+since you brought up reforms and stuff
+
+1938
+01:21:32,920 --> 01:21:35,340
+like that. Do you think Anwar Ibrahim
+
+1939
+01:21:35,340 --> 01:21:38,120
+is a real reformist, based on his track
+
+1940
+01:21:38,120 --> 01:21:39,820
+record as Prime Minister? You have to
+
+1941
+01:21:39,820 --> 01:21:41,660
+understand, I also only paid attention
+
+1942
+01:21:41,660 --> 01:21:44,380
+in 2022, so I actually felt that...
+
+1943
+01:21:44,380 --> 01:21:46,000
+After 2022? You mean now?
+
+1944
+01:21:46,280 --> 01:21:49,520
+Now? No, no, that one now is very different,
+
+1945
+01:21:49,660 --> 01:21:51,520
+very obvious already, because it's been
+
+1946
+01:21:51,520 --> 01:21:53,240
+four years. So your answer would be?
+
+1947
+01:21:53,560 --> 01:21:55,040
+And then I also have a question for you,
+
+1948
+01:21:55,200 --> 01:21:57,580
+which is, do you think in a push of a
+
+1949
+01:21:57,580 --> 01:22:00,100
+button, he would make all the reforms
+
+1950
+01:22:00,100 --> 01:22:02,820
+he promised happen right now? The answer
+
+1951
+01:22:02,820 --> 01:22:04,300
+is we probably already...
+
+1952
+01:22:04,300 --> 01:22:06,260
+I think I probably answered that question.
+
+1953
+01:22:06,500 --> 01:22:09,320
+Yeah. Probably not. Anyway, the push of
+
+1954
+01:22:09,320 --> 01:22:10,740
+a button, we know it's not realistic.
+
+1955
+01:22:11,300 --> 01:22:13,620
+The process of reforms is actually a very
+
+1956
+01:22:13,620 --> 01:22:15,400
+difficult one, and you need to have a
+
+1957
+01:22:15,400 --> 01:22:16,980
+long -term strategy and long -term plan
+
+1958
+01:22:16,980 --> 01:22:19,240
+to be able to see it true. But was four
+
+1959
+01:22:19,240 --> 01:22:20,840
+years actually enough? Yeah.
+
+1960
+01:22:21,100 --> 01:22:22,600
+It was, right? It could have been. I mean,
+
+1961
+01:22:23,480 --> 01:22:25,220
+Ismail Sabri ushered in those reforms
+
+1962
+01:22:25,220 --> 01:22:27,800
+under the CSA agreement, included a constitutional
+
+1963
+01:22:28,320 --> 01:22:31,020
+amendment to introduce the anti -hopping
+
+1964
+01:22:33,680 --> 01:22:35,000
+law in the constitution.
+
+1965
+01:22:35,240 --> 01:22:39,260
+And Ismail was only in office for...
+
+1966
+01:22:39,260 --> 01:22:41,680
+One and a half years. About four years.
+
+1967
+01:22:42,300 --> 01:22:44,780
+Doctor, okay, I'll throw you this question
+
+1968
+01:22:44,780 --> 01:22:47,100
+if it's okay. So, just now, I think you
+
+1969
+01:22:47,100 --> 01:22:49,780
+asked whether is Anwar a reformist and
+
+1970
+01:22:49,780 --> 01:22:51,420
+all that, right? So, I think I grew up
+
+1971
+01:22:51,420 --> 01:22:53,020
+with the generation who thinks like, you
+
+1972
+01:22:53,020 --> 01:22:54,760
+know, okay, maybe he could.
+
+1973
+01:22:54,880 --> 01:22:56,420
+Because back then, you know, it was always
+
+1974
+01:22:56,420 --> 01:22:59,100
+one side that speaks about the problem.
+
+1975
+01:22:59,100 --> 01:23:00,700
+We don't really understand what actually
+
+1976
+01:23:00,700 --> 01:23:04,180
+goes into it, right? Do you think, I mean,
+
+1977
+01:23:04,320 --> 01:23:05,800
+because of course people are saying this,
+
+1978
+01:23:05,900 --> 01:23:07,520
+but I'm not sure how accurate it is, maybe
+
+1979
+01:23:07,520 --> 01:23:10,100
+you can clarify. Like, now people are
+
+1980
+01:23:10,100 --> 01:23:12,560
+saying that Anwar is not able to pass
+
+1981
+01:23:12,560 --> 01:23:16,040
+certain laws or clear certain things because
+
+1982
+01:23:16,040 --> 01:23:18,340
+of the unity government that he gets blocked
+
+1983
+01:23:18,340 --> 01:23:20,900
+either by BN or the other coalition parties.
+
+1984
+01:23:20,900 --> 01:23:22,600
+Like, how accurate is that, do you think?
+
+1985
+01:23:23,180 --> 01:23:24,840
+I think that's not accurate at all.
+
+1986
+01:23:25,260 --> 01:23:27,420
+Right. In the sense that if you're prime
+
+1987
+01:23:27,420 --> 01:23:29,520
+minister, you're willing to put political
+
+1988
+01:23:29,520 --> 01:23:31,340
+capital behind some of these reforms,
+
+1989
+01:23:32,080 --> 01:23:33,820
+you'll be able to find a way to make them
+
+1990
+01:23:33,820 --> 01:23:35,160
+palatable to all parties.
+
+1991
+01:23:35,480 --> 01:23:36,980
+Meaning, if let's say you want them to
+
+1992
+01:23:36,980 --> 01:23:38,580
+support this particular thing that maybe
+
+1993
+01:23:38,580 --> 01:23:40,620
+there could be some obstacles, you offer
+
+1994
+01:23:40,620 --> 01:23:42,220
+them something else. Right.
+
+1995
+01:23:42,280 --> 01:23:45,800
+So, for example, if you wanted to have
+
+1996
+01:23:46,480 --> 01:23:48,940
+Sabah and Sarawak on your side more, you
+
+1997
+01:23:48,940 --> 01:23:51,260
+would want to offer them genuine autonomy
+
+1998
+01:23:51,260 --> 01:23:53,440
+and devolution of power and budget in
+
+1999
+01:23:53,440 --> 01:23:55,620
+areas like, let's say, education and healthcare.
+
+2000
+01:23:56,280 --> 01:23:58,380
+But those actually need a lot of hard
+
+2001
+01:23:58,380 --> 01:24:01,640
+work. You need to establish good SOP,
+
+2002
+01:24:01,740 --> 01:24:04,840
+put in the right working committees at
+
+2003
+01:24:04,840 --> 01:24:06,620
+the parliamentary and also at the governmental
+
+2004
+01:24:06,620 --> 01:24:09,580
+level, have a good minister representing
+
+2005
+01:24:09,580 --> 01:24:11,300
+Sabah and Sarawak to be able to discuss
+
+2006
+01:24:11,300 --> 01:24:12,820
+with the state governments on both sides.
+
+2007
+01:24:13,040 --> 01:24:15,120
+It's a long confidence -building exercise
+
+2008
+01:24:15,120 --> 01:24:16,840
+that will require you to have started
+
+2009
+01:24:16,840 --> 01:24:18,960
+the process right at the beginning of
+
+2010
+01:24:18,960 --> 01:24:20,400
+your term. Right?
+
+2011
+01:24:20,400 --> 01:24:22,700
+Maybe I give you some grace period.
+
+2012
+01:24:22,840 --> 01:24:24,980
+You start maybe after one year. Right?
+
+2013
+01:24:25,080 --> 01:24:26,260
+And then you still have another three
+
+2014
+01:24:26,260 --> 01:24:28,560
+years to put those in place.
+
+2015
+01:24:28,920 --> 01:24:31,180
+Right now, those things are not in place.
+
+2016
+01:24:31,540 --> 01:24:35,540
+Right? So, maybe to answer this
+
+2017
+01:24:35,540 --> 01:24:38,600
+question in a way that is more fair to
+
+2018
+01:24:38,600 --> 01:24:41,840
+Anwar and also more educational for your
+
+2019
+01:24:41,840 --> 01:24:46,880
+listeners. Anwar is not an institutionalist
+
+2020
+01:24:46,880 --> 01:24:49,620
+and he is not strategic in his thinking.
+
+2021
+01:24:49,880 --> 01:24:51,240
+He is very tactical.
+
+2022
+01:24:51,240 --> 01:24:54,060
+Meaning, you attack him, he will attack
+
+2023
+01:24:54,060 --> 01:24:56,340
+you back. Right? He will defend and attack
+
+2024
+01:24:56,340 --> 01:24:59,920
+you back. There is no big picture strategy
+
+2025
+01:24:59,920 --> 01:25:01,420
+in terms of governing.
+
+2026
+01:25:01,980 --> 01:25:03,960
+Right? That's why under Najib, you have
+
+2027
+01:25:03,960 --> 01:25:05,640
+what? Economic Transformation Program,
+
+2028
+01:25:06,060 --> 01:25:07,440
+Government Transformation Program.
+
+2029
+01:25:08,100 --> 01:25:10,420
+Under Pakla, you have the
+
+2030
+01:25:11,740 --> 01:25:15,960
+GLC Transformation Program and other minor
+
+2031
+01:25:15,960 --> 01:25:18,020
+reforms that he brought in, work with
+
+2032
+01:25:18,020 --> 01:25:19,680
+me, not for me.
+
+2033
+01:25:20,420 --> 01:25:21,940
+Mahathir had a long history of different
+
+2034
+01:25:21,940 --> 01:25:22,460
+kinds of
+
+2035
+01:25:23,800 --> 01:25:25,540
+strategies that he wanted to put in place
+
+2036
+01:25:25,540 --> 01:25:28,420
+from a development perspective. If I were
+
+2037
+01:25:28,420 --> 01:25:29,800
+to throw the question back at you, what
+
+2038
+01:25:29,800 --> 01:25:31,520
+is Anwar's governing philosophy?
+
+2039
+01:25:31,960 --> 01:25:34,120
+Can you tell me? Reform.
+
+2040
+01:25:34,320 --> 01:25:35,740
+That's what we know is reform.
+
+2041
+01:25:35,900 --> 01:25:38,380
+But then now it's already destroyed.
+
+2042
+01:25:38,640 --> 01:25:40,480
+What does Madani stand for?
+
+2043
+01:25:40,700 --> 01:25:41,040
+Reform.
+
+2044
+01:25:42,280 --> 01:25:44,060
+That's what they say, but I don't personally
+
+2045
+01:25:44,060 --> 01:25:46,300
+know or feel it or run up or anything.
+
+2046
+01:25:46,300 --> 01:25:49,580
+So, in that interpretive context, that
+
+2047
+01:25:49,580 --> 01:25:53,340
+he's not strategic, that he's not an institutionalist,
+
+2048
+01:25:53,520 --> 01:25:55,760
+meaning he doesn't know how to make use
+
+2049
+01:25:55,760 --> 01:25:57,420
+of the institutions to bring in these
+
+2050
+01:25:57,420 --> 01:25:58,800
+kinds of changes that we've been talking
+
+2051
+01:25:58,800 --> 01:26:02,940
+about, then you can see why the
+
+2052
+01:26:02,940 --> 01:26:04,760
+government has been working the way it
+
+2053
+01:26:04,760 --> 01:26:07,340
+was working. So, let me ask the both of
+
+2054
+01:26:07,340 --> 01:26:09,340
+you this even more important question.
+
+2055
+01:26:10,380 --> 01:26:14,060
+Heading into GE16, PH will ask for you
+
+2056
+01:26:14,060 --> 01:26:14,940
+to vote for them,
+
+2057
+01:26:16,580 --> 01:26:17,500
+number one, because
+
+2058
+01:26:18,840 --> 01:26:20,320
+they're going to tell you you don't want
+
+2059
+01:26:20,320 --> 01:26:22,900
+pass to be in power, or you don't want
+
+2060
+01:26:22,900 --> 01:26:25,000
+to be in power because they've done all
+
+2061
+01:26:25,000 --> 01:26:27,380
+these things in the past. my counter to
+
+2062
+01:26:27,380 --> 01:26:31,520
+them is, are you trying to convince me
+
+2063
+01:26:31,520 --> 01:26:34,140
+to vote for another five years of Anwar
+
+2064
+01:26:34,140 --> 01:26:37,120
+Ibrahim as Prime Minister? Yeah, I voted
+
+2065
+01:26:37,120 --> 01:26:39,580
+for them before, I can't say I'll do the
+
+2066
+01:26:39,580 --> 01:26:41,660
+same. That's the truth.
+
+2067
+01:26:42,180 --> 01:26:43,940
+Honestly, I don't know.
+
+2068
+01:26:44,640 --> 01:26:47,000
+Okay, so here's my take on the whole thing,
+
+2069
+01:26:47,080 --> 01:26:49,440
+right? For now, I really don't know who
+
+2070
+01:26:49,440 --> 01:26:52,080
+I'm voting for, but at the same time,
+
+2071
+01:26:52,240 --> 01:26:54,580
+I've always feel like race -based politics
+
+2072
+01:26:54,580 --> 01:26:55,800
+is just so outdated.
+
+2073
+01:26:56,700 --> 01:26:58,880
+Maybe it's just very shallow of me to
+
+2074
+01:26:58,880 --> 01:27:01,060
+think, race -based politics is no place
+
+2075
+01:27:01,060 --> 01:27:03,940
+now. Why do we need a party for this specifically
+
+2076
+01:27:03,940 --> 01:27:05,920
+and we need another party to govern this
+
+2077
+01:27:05,920 --> 01:27:08,140
+race? That's just where I'm going from.
+
+2078
+01:27:08,400 --> 01:27:10,440
+But I don't see a solution.
+
+2079
+01:27:10,780 --> 01:27:12,380
+So my honest answer is I don't know.
+
+2080
+01:27:15,340 --> 01:27:20,180
+So you were saying what is Anwar's
+
+2081
+01:27:20,180 --> 01:27:21,380
+governing philosophy?
+
+2082
+01:27:23,340 --> 01:27:25,920
+I also sort of thought that he was anti
+
+2083
+01:27:25,920 --> 01:27:28,780
+-race politics, all this stuff like that.
+
+2084
+01:27:28,880 --> 01:27:30,460
+I sort of thought that also. And then?
+
+2085
+01:27:31,520 --> 01:27:33,240
+I don't know whether that's the case anymore.
+
+2086
+01:27:33,600 --> 01:27:35,620
+Now looking back, it's like a play game.
+
+2087
+01:27:35,960 --> 01:27:37,280
+Yeah, literally.
+
+2088
+01:27:37,640 --> 01:27:38,200
+Yeah, okay.
+
+2089
+01:27:39,540 --> 01:27:40,980
+So... Maybe just to wrap up.
+
+2090
+01:27:41,120 --> 01:27:43,660
+Yeah, just to wrap up, something fast.
+
+2091
+01:27:44,880 --> 01:27:47,140
+Didn't get to talk much about Najib, but
+
+2092
+01:27:47,140 --> 01:27:48,520
+will you be...
+
+2093
+01:27:48,520 --> 01:27:51,500
+So definitely he cannot be involved for
+
+2094
+01:27:51,500 --> 01:27:54,260
+next GE because his house arrest is until
+
+2095
+01:27:55,120 --> 01:27:56,380
+November or October.
+
+2096
+01:27:56,540 --> 01:27:58,320
+No, he's still a convicted criminal. If
+
+2097
+01:27:58,320 --> 01:27:59,800
+you're a convicted criminal, you cannot
+
+2098
+01:28:00,860 --> 01:28:03,660
+stand for any political office until your
+
+2099
+01:28:03,660 --> 01:28:07,080
+sentence runs out.
+
+2100
+01:28:07,360 --> 01:28:09,300
+And even then, you have to wait for one
+
+2101
+01:28:09,300 --> 01:28:11,160
+election cycle five years. Oh, even then
+
+2102
+01:28:11,160 --> 01:28:13,140
+also? Okay, okay. And you have to remember,
+
+2103
+01:28:14,220 --> 01:28:17,580
+he is serving also his sentence for the
+
+2104
+01:28:17,580 --> 01:28:19,800
+SRC, not just SRC, 1MDB.
+
+2105
+01:28:20,040 --> 01:28:21,880
+Which hasn't been... Which hasn't started
+
+2106
+01:28:21,880 --> 01:28:23,560
+yet. People don't realise that.
+
+2107
+01:28:23,840 --> 01:28:25,300
+It's under appeal, it's going to go to
+
+2108
+01:28:25,300 --> 01:28:27,360
+the Court of Appeal, and then probably
+
+2109
+01:28:27,360 --> 01:28:28,320
+all the way to the Federal Court. What
+
+2110
+01:28:28,320 --> 01:28:29,780
+do you think is going to happen? So to
+
+2111
+01:28:29,780 --> 01:28:31,540
+me, I think the best strategy for Najib
+
+2112
+01:28:31,540 --> 01:28:34,500
+moving forward, right, you know, is,
+
+2113
+01:28:35,760 --> 01:28:37,400
+you know, he'll get a house arrest, I
+
+2114
+01:28:37,400 --> 01:28:39,440
+think it's a matter of when, not if.
+
+2115
+01:28:41,420 --> 01:28:45,860
+Have some sort of interview, negotiate
+
+2116
+01:28:45,860 --> 01:28:47,840
+with whoever's in power, you know, probably
+
+2117
+01:28:47,840 --> 01:28:50,340
+be easy if, let's say, BN comes back into
+
+2118
+01:28:50,340 --> 01:28:52,160
+power and hosts the Prime Ministership.
+
+2119
+01:28:55,120 --> 01:28:57,520
+Explain to the public, tell the public
+
+2120
+01:28:57,520 --> 01:29:01,760
+that you were partly misled by JOLO,
+
+2121
+01:29:02,200 --> 01:29:04,460
+but at the same time, you were also complicit.
+
+2122
+01:29:04,560 --> 01:29:06,180
+That means you have to take on certain
+
+2123
+01:29:06,180 --> 01:29:08,540
+personal responsibility and ownership.
+
+2124
+01:29:08,980 --> 01:29:11,300
+Yes, correct. You cannot say everything
+
+2125
+01:29:11,300 --> 01:29:14,060
+is JOLO. I mean, if that's the case, then
+
+2126
+01:29:14,060 --> 01:29:15,800
+you have to convince us that you are one
+
+2127
+01:29:15,800 --> 01:29:17,020
+of the most stupidest Prime Ministers
+
+2128
+01:29:17,020 --> 01:29:18,880
+in history. Otas Singh was also talking
+
+2129
+01:29:18,880 --> 01:29:20,520
+about how he doesn't know anything. Oh
+
+2130
+01:29:20,520 --> 01:29:24,000
+my God, who believes that? Okay, one last
+
+2131
+01:29:24,000 --> 01:29:27,480
+one. So, I think I heard you mention that
+
+2132
+01:29:28,800 --> 01:29:32,920
+you think GE16 is most likely BN would
+
+2133
+01:29:32,920 --> 01:29:35,020
+be in government again? Together with
+
+2134
+01:29:35,020 --> 01:29:37,560
+PAS? Yes. And Saban Sarawak?
+
+2135
+01:29:37,700 --> 01:29:40,040
+So, and also you mentioned Zahid would
+
+2136
+01:29:40,620 --> 01:29:42,220
+probably be the PM.
+
+2137
+01:29:42,380 --> 01:29:44,780
+He's the front runner in that situation,
+
+2138
+01:29:45,040 --> 01:29:46,880
+in the political context, to be Prime
+
+2139
+01:29:46,880 --> 01:29:49,260
+Minister. What do you expect of him?
+
+2140
+01:29:50,800 --> 01:29:53,640
+Our PMs are old, but what do you expect
+
+2141
+01:29:53,640 --> 01:29:55,300
+of him if he were to take place?
+
+2142
+01:29:55,360 --> 01:29:56,300
+And do you think he will perform better
+
+2143
+01:29:56,300 --> 01:29:58,380
+than Anwar? So, he'll be 73, going to
+
+2144
+01:29:58,380 --> 01:30:00,740
+74. He's 73 now, 74 next year.
+
+2145
+01:30:02,740 --> 01:30:05,840
+I think those people who want to see his
+
+2146
+01:30:05,840 --> 01:30:06,980
+own governing philosophy.
+
+2147
+01:30:08,880 --> 01:30:10,380
+We have not seen that, actually.
+
+2148
+01:30:10,600 --> 01:30:12,540
+Actually, you have. You have.
+
+2149
+01:30:12,700 --> 01:30:14,280
+May not be good, may not be bad, depending
+
+2150
+01:30:14,280 --> 01:30:16,480
+on how you want to look at it. Firstly,
+
+2151
+01:30:17,120 --> 01:30:18,860
+he's on the whole quite pro business.
+
+2152
+01:30:19,920 --> 01:30:21,460
+That could be interpreted in different
+
+2153
+01:30:21,460 --> 01:30:21,780
+ways.
+
+2154
+01:30:23,120 --> 01:30:25,740
+And he's got a track record being in business.
+
+2155
+01:30:26,380 --> 01:30:28,400
+he actually started out in the banking
+
+2156
+01:30:28,400 --> 01:30:30,820
+sector. The first job that he got, and
+
+2157
+01:30:30,820 --> 01:30:33,100
+I saw this recently being shared on social
+
+2158
+01:30:33,100 --> 01:30:35,340
+media, was actually as a bank officer
+
+2159
+01:30:35,340 --> 01:30:37,940
+at OCBC. I think a lot of people don't
+
+2160
+01:30:37,940 --> 01:30:39,940
+realise that. And he went on to other
+
+2161
+01:30:39,940 --> 01:30:41,460
+corporate positions and whatnot. So, he
+
+2162
+01:30:41,460 --> 01:30:43,640
+actually has more corporate involvement
+
+2163
+01:30:43,640 --> 01:30:45,380
+and experience than even Anwar Ibrahim.
+
+2164
+01:30:45,980 --> 01:30:48,080
+So, that hopefully will come into play
+
+2165
+01:30:48,080 --> 01:30:51,040
+in terms of knowing how to work together
+
+2166
+01:30:51,040 --> 01:30:52,900
+with the private sector. That's one.
+
+2167
+01:30:53,020 --> 01:30:56,320
+Second thing is, I would say that he is
+
+2168
+01:30:56,320 --> 01:30:57,540
+an institutionalist.
+
+2169
+01:30:58,280 --> 01:31:00,560
+Unlike Anwar, institutionalist meaning
+
+2170
+01:31:00,560 --> 01:31:02,680
+he respects the process and the procedures
+
+2171
+01:31:02,680 --> 01:31:05,980
+in institutions, whether it is within
+
+2172
+01:31:05,980 --> 01:31:09,080
+the context of government, whether it
+
+2173
+01:31:09,080 --> 01:31:10,880
+is in the context of organisations,
+
+2174
+01:31:12,320 --> 01:31:14,480
+whether it is in the context of politics.
+
+2175
+01:31:15,360 --> 01:31:18,340
+There are times when he will run and depart
+
+2176
+01:31:18,340 --> 01:31:20,540
+from that. So, the classic example is
+
+2177
+01:31:20,540 --> 01:31:23,340
+when he sacked Kyrie suspended, Sharil
+
+2178
+01:31:23,340 --> 01:31:25,420
+and all those guys, that should have gone
+
+2179
+01:31:25,420 --> 01:31:27,180
+through a disciplinary committee process
+
+2180
+01:31:27,180 --> 01:31:29,000
+within his own party. That didn't happen.
+
+2181
+01:31:29,620 --> 01:31:32,360
+So, that is, I think, one sign, one black
+
+2182
+01:31:32,360 --> 01:31:33,740
+mark on his part. But,
+
+2183
+01:31:35,140 --> 01:31:38,520
+in the way in which he has done government,
+
+2184
+01:31:38,680 --> 01:31:40,500
+and even now, he is trying to protect
+
+2185
+01:31:40,500 --> 01:31:42,180
+the civil service by saying that, look,
+
+2186
+01:31:44,540 --> 01:31:47,420
+we understand if you appear at politicians'
+
+2187
+01:31:47,660 --> 01:31:49,420
+events, you are there in your capacity
+
+2188
+01:31:49,420 --> 01:31:52,080
+as a civil servant, but don't get involved
+
+2189
+01:31:52,080 --> 01:31:54,440
+in politics. So, he said, I will protect
+
+2190
+01:31:54,440 --> 01:31:55,960
+you as long as you do not get involved
+
+2191
+01:31:55,960 --> 01:31:57,460
+in the political process itself.
+
+2192
+01:31:57,620 --> 01:31:59,360
+So, he is an institutionalist from that
+
+2193
+01:31:59,360 --> 01:32:01,180
+perspective. And then, the third thing
+
+2194
+01:32:01,180 --> 01:32:03,740
+in terms of the priorities that he would
+
+2195
+01:32:03,740 --> 01:32:05,460
+have as Prime Minister, I would encourage
+
+2196
+01:32:05,460 --> 01:32:08,180
+your listeners to get a copy of his speech
+
+2197
+01:32:08,180 --> 01:32:11,400
+at the recent UMNO General Assembly, the
+
+2198
+01:32:11,400 --> 01:32:14,880
+Ucapan Dasar, where he had strategic trust
+
+2199
+01:32:14,880 --> 01:32:15,920
+in his policy
+
+2200
+01:32:17,120 --> 01:32:18,760
+document and policy speech.
+
+2201
+01:32:18,980 --> 01:32:20,760
+It is not very substantive, but that is
+
+2202
+01:32:20,760 --> 01:32:24,320
+the framework of a possible Barisan National
+
+2203
+01:32:24,320 --> 01:32:26,580
+and even a Zaid Hamidi administration,
+
+2204
+01:32:27,180 --> 01:32:29,460
+which is why a lot of people criticise
+
+2205
+01:32:29,460 --> 01:32:31,660
+Kyrie for saying that this is the speech
+
+2206
+01:32:31,660 --> 01:32:33,380
+of a Prime Minister in waiting, a government
+
+2207
+01:32:33,380 --> 01:32:35,680
+in waiting. What they don't realise, because
+
+2208
+01:32:35,680 --> 01:32:37,040
+they probably didn't bother to listen
+
+2209
+01:32:37,040 --> 01:32:38,380
+to the speech, I listened to the speech
+
+2210
+01:32:38,380 --> 01:32:40,880
+and I read the text. I think Kyrie was
+
+2211
+01:32:40,880 --> 01:32:42,980
+referring to not just the tone of his
+
+2212
+01:32:43,860 --> 01:32:46,460
+speech, but the full context, the substance
+
+2213
+01:32:46,460 --> 01:32:47,560
+as well. Full substance.
+
+2214
+01:32:48,900 --> 01:32:50,240
+That would be a good start.
+
+2215
+01:32:50,900 --> 01:32:52,880
+I think it also really depends on how
+
+2216
+01:32:52,880 --> 01:32:57,180
+he wants to build up his cabinet, who
+
+2217
+01:32:57,180 --> 01:32:58,980
+the people he wants to bring in from within
+
+2218
+01:32:58,980 --> 01:33:01,340
+Barisan National, from within PAS, the
+
+2219
+01:33:01,340 --> 01:33:03,000
+portfolios that you want to assign to
+
+2220
+01:33:03,000 --> 01:33:06,120
+them. I think these are early days, but
+
+2221
+01:33:06,120 --> 01:33:07,500
+something for people to look out.
+
+2222
+01:33:07,900 --> 01:33:09,780
+Can I just one last?
+
+2223
+01:33:10,780 --> 01:33:14,280
+I just want to ask, how should we Malaysians
+
+2224
+01:33:14,280 --> 01:33:18,280
+all feel? Because we have Prime Minister
+
+2225
+01:33:19,840 --> 01:33:22,700
+that we do not have much hope in.
+
+2226
+01:33:23,100 --> 01:33:25,580
+Our potential future Prime Ministers are
+
+2227
+01:33:25,580 --> 01:33:27,440
+also tainted, Zahid.
+
+2228
+01:33:28,400 --> 01:33:32,320
+It seems to be just a normal thing these
+
+2229
+01:33:32,320 --> 01:33:33,300
+days. How should us
+
+2230
+01:33:34,560 --> 01:33:35,760
+Malaysians feel about this?
+
+2231
+01:33:35,940 --> 01:33:38,720
+You even once recommended a full reset
+
+2232
+01:33:38,720 --> 01:33:40,900
+for everyone. Do you think it's sort of
+
+2233
+01:33:40,900 --> 01:33:44,840
+like we have to let the past go and what
+
+2234
+01:33:44,840 --> 01:33:47,100
+else can we do about it? This is what's
+
+2235
+01:33:47,100 --> 01:33:47,780
+more realistic.
+
+2236
+01:33:49,120 --> 01:33:51,980
+I think in some cases we should forgive
+
+2237
+01:33:51,980 --> 01:33:53,940
+but not forget. Of course.
+
+2238
+01:33:54,160 --> 01:33:56,300
+When I talk about the reset which includes
+
+2239
+01:33:56,300 --> 01:33:59,300
+consideration for pardon for Najib also
+
+2240
+01:33:59,300 --> 01:34:01,320
+at the time includes Guan Eng
+
+2241
+01:34:02,600 --> 01:34:05,600
+and also dropping the cases for Sak Sadiq
+
+2242
+01:34:05,600 --> 01:34:07,860
+which I think now that doesn't need to
+
+2243
+01:34:07,860 --> 01:34:10,420
+happen. Dropping the cases against Muhyiddin
+
+2244
+01:34:10,420 --> 01:34:11,780
+that may not need to happen.
+
+2245
+01:34:12,640 --> 01:34:13,160
+Even
+
+2246
+01:34:14,380 --> 01:34:18,180
+making sure that Zahid's own DNA can be
+
+2247
+01:34:18,180 --> 01:34:19,820
+sustained and not used as a political
+
+2248
+01:34:19,820 --> 01:34:21,820
+weapon in the past if there's any changes
+
+2249
+01:34:21,820 --> 01:34:24,600
+in Prime Minister. You have to draw some
+
+2250
+01:34:24,600 --> 01:34:30,700
+cut -off date. You can say moving
+
+2251
+01:34:30,700 --> 01:34:32,420
+forward that
+
+2252
+01:34:34,640 --> 01:34:37,040
+the amnesty only
+
+2253
+01:34:38,460 --> 01:34:41,360
+are for cases that happen before a certain
+
+2254
+01:34:41,360 --> 01:34:44,300
+period of time. I would say if you really
+
+2255
+01:34:44,300 --> 01:34:46,200
+wanted to do it, it won't come under Anwar
+
+2256
+01:34:46,200 --> 01:34:47,620
+Prime Ministership. If let's say Zahid
+
+2257
+01:34:47,620 --> 01:34:50,040
+comes in, you have an amnesty that includes
+
+2258
+01:34:50,040 --> 01:34:52,520
+Anwar himself. for whatever stuff that
+
+2259
+01:34:52,520 --> 01:34:54,240
+he's done as Prime Minister, I won't go
+
+2260
+01:34:54,240 --> 01:34:56,540
+after him or his family even though Anwar
+
+2261
+01:34:56,540 --> 01:34:58,640
+has not shown the same kind of grace towards
+
+2262
+01:34:58,640 --> 01:35:00,560
+people in UMNO for example.
+
+2263
+01:35:00,880 --> 01:35:04,840
+People trying to go after Daim Zainuddin,
+
+2264
+01:35:05,760 --> 01:35:07,220
+Mahathir's own family and whatnot.
+
+2265
+01:35:07,380 --> 01:35:09,800
+This is all grudges. It's a payback period
+
+2266
+01:35:09,800 --> 01:35:13,060
+of time. I think that is still valid.
+
+2267
+01:35:13,720 --> 01:35:16,460
+What I would say to the Malaysian public
+
+2268
+01:35:16,460 --> 01:35:18,220
+and especially your listeners would be
+
+2269
+01:35:18,220 --> 01:35:20,840
+don't give up hope. I know that a lot
+
+2270
+01:35:20,840 --> 01:35:22,540
+of people will say it doesn't matter who
+
+2271
+01:35:22,540 --> 01:35:24,000
+you vote in, it will still be the same.
+
+2272
+01:35:24,720 --> 01:35:26,380
+I think the very fact that I'm on this
+
+2273
+01:35:26,380 --> 01:35:28,260
+podcast and that you are still speaking
+
+2274
+01:35:28,260 --> 01:35:29,960
+about these things, inviting guests to
+
+2275
+01:35:29,960 --> 01:35:32,300
+speak out on these things shows that at
+
+2276
+01:35:32,300 --> 01:35:33,760
+least there are some people who still
+
+2277
+01:35:33,760 --> 01:35:35,460
+have hope that Malaysia can be a better
+
+2278
+01:35:35,460 --> 01:35:38,040
+place politically, economically, socially.
+
+2279
+01:35:39,060 --> 01:35:42,080
+I think for me the choices are quite wide
+
+2280
+01:35:42,080 --> 01:35:42,420
+now.
+
+2281
+01:35:43,900 --> 01:35:44,340
+Realistically
+
+2282
+01:35:46,020 --> 01:35:48,240
+saying no one is an angel, no one is a
+
+2283
+01:35:48,240 --> 01:35:50,660
+demon. everyone, there's no black and
+
+2284
+01:35:50,660 --> 01:35:52,640
+white anymore, everyone is a shade of
+
+2285
+01:35:52,640 --> 01:35:52,820
+grey.
+
+2286
+01:35:54,060 --> 01:35:58,180
+So make your choices wisely, do not paint
+
+2287
+01:35:58,180 --> 01:36:01,540
+somebody with a broad stroke to say that
+
+2288
+01:36:01,540 --> 01:36:03,760
+this person is a pengkhianat, this person
+
+2289
+01:36:03,760 --> 01:36:05,040
+is a X, Y, and Z.
+
+2290
+01:36:05,420 --> 01:36:07,000
+But understand that there are nuances
+
+2291
+01:36:07,000 --> 01:36:09,300
+behind the actions that different people
+
+2292
+01:36:09,300 --> 01:36:12,580
+are taking. Don't overreact to one particular
+
+2293
+01:36:12,580 --> 01:36:14,620
+statement that one politician says.
+
+2294
+01:36:15,340 --> 01:36:18,140
+look at the longer term track record of
+
+2295
+01:36:18,140 --> 01:36:20,180
+politicians and of political parties.
+
+2296
+01:36:20,640 --> 01:36:23,760
+Okay. And you know, for people who are
+
+2297
+01:36:24,280 --> 01:36:27,140
+just hopeless and do not care much, you
+
+2298
+01:36:27,140 --> 01:36:28,520
+know, there's that saying, you might not
+
+2299
+01:36:28,520 --> 01:36:30,400
+be interested in politics, but politics
+
+2300
+01:36:30,400 --> 01:36:32,800
+is interested in you. Yeah, and let's
+
+2301
+01:36:32,800 --> 01:36:34,600
+say, you know, you really feel that hopeless,
+
+2302
+01:36:34,940 --> 01:36:38,860
+if you're up for it, come for a five kilometer
+
+2303
+01:36:38,860 --> 01:36:41,300
+run with me at Lake Gardens, we can have
+
+2304
+01:36:41,300 --> 01:36:43,620
+a chat, we can go fast, we can go slow,
+
+2305
+01:36:43,780 --> 01:36:45,580
+and then at the end of the day, after
+
+2306
+01:36:45,580 --> 01:36:47,620
+you, you know, speak politics with me,
+
+2307
+01:36:47,680 --> 01:36:49,920
+you're still feeling hopeless, at least
+
+2308
+01:36:49,920 --> 01:36:51,560
+you'll have some endorphins in you after
+
+2309
+01:36:51,560 --> 01:36:53,780
+the post run, and we can go and have a
+
+2310
+01:36:53,780 --> 01:36:56,960
+Roti China. I need to ask, this hang out
+
+2311
+01:36:56,960 --> 01:36:57,760
+and run with
+
+2312
+01:36:59,000 --> 01:37:00,980
+Dr. Botau, is it paid?
+
+2313
+01:37:01,220 --> 01:37:04,420
+No, no. Because this guy has really good
+
+2314
+01:37:04,420 --> 01:37:07,340
+insights behind the curtain and just his
+
+2315
+01:37:07,340 --> 01:37:09,460
+analysis. Every time I hang out with you,
+
+2316
+01:37:10,340 --> 01:37:12,780
+I feel like I'm talking to Chad GPT, but
+
+2317
+01:37:12,780 --> 01:37:15,100
+probably, you can say maybe more accurate
+
+2318
+01:37:15,100 --> 01:37:17,140
+at some points because Chad GPT does make
+
+2319
+01:37:17,140 --> 01:37:19,120
+mistakes. They hellosain, especially on
+
+2320
+01:37:19,120 --> 01:37:20,380
+the Malaysian political ecosystem.
+
+2321
+01:37:20,740 --> 01:37:23,400
+Yeah. So, okay, that's it for today's
+
+2322
+01:37:23,400 --> 01:37:25,140
+podcast episode. Guys, I hope you all
+
+2323
+01:37:25,140 --> 01:37:27,820
+enjoyed it. Dr. Ong Ken Ming, if you guys
+
+2324
+01:37:27,820 --> 01:37:29,340
+listen up to this point, please to me,
+
+2325
+01:37:29,560 --> 01:37:31,060
+quick favor, hit the like button, hit
+
+2326
+01:37:31,060 --> 01:37:32,400
+the subscribe button, what you thought
+
+2327
+01:37:32,400 --> 01:37:34,000
+about today's podcast episode.
+
+2328
+01:37:34,300 --> 01:37:36,420
+Don't give so much hate for Ong Ken Ming.
+
+2329
+01:37:36,960 --> 01:37:38,700
+I don't know, I'm going to assume that's
+
+2330
+01:37:38,700 --> 01:37:39,320
+going to be a lot.
+
+2331
+01:37:40,780 --> 01:37:42,220
+I thought you answered a lot of the questions
+
+2332
+01:37:42,220 --> 01:37:44,120
+well. Suggestions who you want to see
+
+2333
+01:37:44,120 --> 01:37:46,740
+in a future podcast episode and hope to
+
+2334
+01:37:46,740 --> 01:37:49,000
+see you on as well next time and we will
+
+2335
+01:37:49,000 --> 01:37:50,680
+see you in the next episode, ladies and
+
+2336
+01:37:50,680 --> 01:37:51,900
+gentlemen, Dr.
+
+2337
+01:37:52,020 --> 01:37:53,560
+Ong Ken Ming. See you guys.
+
+2338
+01:37:53,680 --> 01:37:55,060
+Thanks for having me. Bye -bye. Thank
+
+2339
+01:37:55,060 --> 01:37:56,500
+you. Can we take a picture?
+
+2340
+01:37:56,720 --> 01:37:57,520
+Then we can let you go.

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AutoClip Setup"
+  short_description: "Ready the AutoClip folder once: venv, ffmpeg, whisper weights, PO-token server, secrets — then interview the settings.md into being."

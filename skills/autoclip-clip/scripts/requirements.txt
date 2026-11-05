@@ -1,0 +1,20 @@
+# AutoClip skill-set requirements — the venv aclip needs (2026-10-30).
+# Installed by the autoclip-setup skill (or tools/setup.sh) with:
+#   uv pip install --python .venv/bin/python -r skills/autoclip-clip/scripts/requirements.txt
+# This is the pruned list the clip pipeline actually imports: the YouTube Track
+# library, the Whisper transcription (mlx pulls mlx-metal/numpy/transformers),
+# the downloader + its PO-token plugin, and pytest for the gate suite. The root
+# requirements.txt died with the app at the #37 cutover.
+
+# --- the YouTube Track (spec decision 7: the PyPI library, pinned) ---------------
+youtube-transcript-api==1.2.4
+
+# --- the Whisper Track (spec decision 7: mlx-whisper large-v3-turbo) ------------
+mlx-whisper==0.4.3
+
+# --- the download ladder (spec decision 6: yt-dlp + the vendored PO-token plugin)
+yt-dlp==2026.8.19
+bgutil-ytdlp-pot-provider==2.0.0
+
+# --- the gate suite (spec decision 15: pytest, run by aclip doctor) -------------
+pytest==9.1.1

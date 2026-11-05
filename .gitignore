@@ -1,0 +1,55 @@
+# NOTE: the heavy-runtime patterns below are anchored with a leading "/" so
+# they only match the *repository root* entries (the worktree symlinks). Any
+# nested directory with the same name is NOT ignored. Keep them slashless (no
+# trailing "/") so the top-level entries in a fresh clone are still ignored.
+
+# local venv
+/.venv
+
+# model caches (large binaries, re-downloadable)
+/models
+
+# media + generated artifacts
+/downloads
+/transcripts
+/output
+
+# autoclip runtime data (sqlite, logs, cli-settings)
+/data
+
+# secrets — never commit
+/.secrets
+/.env
+
+# local scratch that must never be swept into a commit: the retired app's cargo
+# build dir (a cutover leftover on dev machines) and an upstream library clone
+/target
+/youtube-transcript-api
+
+# the #37 cutover deleted the app-era scratch and analysis trees from git but
+# left them on dev machines; keep the local copies (they hold that era's review
+# notes) out of a fresh clone and out of an accidental `git add -A`
+/.scratch
+/analysis
+
+# a local pass-down note for the next session; not part of the tracked tree
+/HANDOFF.md
+
+# third-party deps & static binaries (re-installable / re-downloadable —
+# tools/setup.sh rebuilds both)
+/tools/vendor
+/tools/bin
+
+# python + OS junk
+__pycache__
+*.pyc
+.DS_Store
+
+# local-only knowledge + the issue-tracker's home, gitignored from the #37
+# cutover on: the retired app's ADRs stay on disk for history and out of the
+# tree, so a fresh clone carries the skill set alone. GLOSSARY.md is NOT
+# ignored — the three skills name it for vocabulary (the reviewed run failed at
+# the very first `cat GLOSSARY.md`).
+/.agents
+/projects
+/docs/adr

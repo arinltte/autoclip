@@ -1,0 +1,774 @@
+{
+ "text": "Why should we invest?  There's this saying right  The difference between the rich and the poor  is that the poor uses their time to exchange for money  but the rich uses their asset to exchange for money  If I invest, I might lose money  I might as well keep the money  There's no chance of losing it  wordy  long  pause  unicode  skip  nowords  missingkey  ints  tiny",
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.0,
+   "end": 1.2,
+   "text": " Why should we invest?",
+   "tokens": [
+    50365,
+    1545,
+    820,
+    321,
+    1963,
+    30,
+    50429
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " Why",
+     "start": 0.0,
+     "end": 0.3,
+     "probability": 0.52880859375
+    },
+    {
+     "word": " should",
+     "start": 0.3,
+     "end": 0.58,
+     "probability": 0.96484375
+    },
+    {
+     "word": " we",
+     "start": 0.58,
+     "end": 0.84,
+     "probability": 0.9833984375
+    },
+    {
+     "word": " invest?",
+     "start": 0.84,
+     "end": 1.2,
+     "probability": 0.99560546875
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "seek": 0,
+   "start": 1.38,
+   "end": 2.18,
+   "text": " There's this saying right",
+   "tokens": [
+    50429,
+    821,
+    311,
+    341,
+    1566,
+    558,
+    50479
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " There's",
+     "start": 1.38,
+     "end": 1.54,
+     "probability": 0.90625
+    },
+    {
+     "word": " this",
+     "start": 1.54,
+     "end": 1.66,
+     "probability": 0.98974609375
+    },
+    {
+     "word": " saying",
+     "start": 1.66,
+     "end": 1.96,
+     "probability": 0.99609375
+    },
+    {
+     "word": " right",
+     "start": 1.96,
+     "end": 2.18,
+     "probability": 0.71484375
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "seek": 0,
+   "start": 2.18,
+   "end": 3.76,
+   "text": " The difference between the rich and the poor",
+   "tokens": [
+    50479,
+    440,
+    2649,
+    1296,
+    264,
+    4593,
+    293,
+    264,
+    4716,
+    50559
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " The",
+     "start": 2.18,
+     "end": 2.44,
+     "probability": 0.1612548828125
+    },
+    {
+     "word": " difference",
+     "start": 2.44,
+     "end": 2.7,
+     "probability": 0.99462890625
+    },
+    {
+     "word": " between",
+     "start": 2.7,
+     "end": 2.96,
+     "probability": 0.998046875
+    },
+    {
+     "word": " the",
+     "start": 2.96,
+     "end": 3.14,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " rich",
+     "start": 3.14,
+     "end": 3.32,
+     "probability": 0.99462890625
+    },
+    {
+     "word": " and",
+     "start": 3.32,
+     "end": 3.48,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " the",
+     "start": 3.48,
+     "end": 3.56,
+     "probability": 0.96875
+    },
+    {
+     "word": " poor",
+     "start": 3.56,
+     "end": 3.76,
+     "probability": 0.9990234375
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "seek": 0,
+   "start": 3.76,
+   "end": 6.5,
+   "text": " is that the poor uses their time to exchange for money",
+   "tokens": [
+    50559,
+    307,
+    300,
+    264,
+    4716,
+    4960,
+    641,
+    565,
+    281,
+    7742,
+    337,
+    1460,
+    50695
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " is",
+     "start": 3.76,
+     "end": 4.14,
+     "probability": 0.609375
+    },
+    {
+     "word": " that",
+     "start": 4.14,
+     "end": 4.32,
+     "probability": 0.97119140625
+    },
+    {
+     "word": " the",
+     "start": 4.32,
+     "end": 4.48,
+     "probability": 0.599609375
+    },
+    {
+     "word": " poor",
+     "start": 4.48,
+     "end": 4.66,
+     "probability": 0.9951171875
+    },
+    {
+     "word": " uses",
+     "start": 4.66,
+     "end": 5.04,
+     "probability": 0.9853515625
+    },
+    {
+     "word": " their",
+     "start": 5.04,
+     "end": 5.26,
+     "probability": 0.98779296875
+    },
+    {
+     "word": " time",
+     "start": 5.26,
+     "end": 5.48,
+     "probability": 0.99755859375
+    },
+    {
+     "word": " to",
+     "start": 5.48,
+     "end": 5.66,
+     "probability": 0.99560546875
+    },
+    {
+     "word": " exchange",
+     "start": 5.66,
+     "end": 5.98,
+     "probability": 0.99951171875
+    },
+    {
+     "word": " for",
+     "start": 5.98,
+     "end": 6.22,
+     "probability": 0.9951171875
+    },
+    {
+     "word": " money",
+     "start": 6.22,
+     "end": 6.5,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "seek": 0,
+   "start": 6.5,
+   "end": 9.42,
+   "text": " but the rich uses their asset to exchange for money",
+   "tokens": [
+    50695,
+    457,
+    264,
+    4593,
+    4960,
+    641,
+    11999,
+    281,
+    7742,
+    337,
+    1460,
+    50841
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " but",
+     "start": 6.5,
+     "end": 6.76,
+     "probability": 0.79150390625
+    },
+    {
+     "word": " the",
+     "start": 6.76,
+     "end": 6.88,
+     "probability": 0.998046875
+    },
+    {
+     "word": " rich",
+     "start": 6.88,
+     "end": 7.24,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " uses",
+     "start": 7.24,
+     "end": 7.58,
+     "probability": 0.98974609375
+    },
+    {
+     "word": " their",
+     "start": 7.58,
+     "end": 7.86,
+     "probability": 0.94677734375
+    },
+    {
+     "word": " asset",
+     "start": 7.86,
+     "end": 8.22,
+     "probability": 0.78173828125
+    },
+    {
+     "word": " to",
+     "start": 8.22,
+     "end": 8.48,
+     "probability": 0.99658203125
+    },
+    {
+     "word": " exchange",
+     "start": 8.48,
+     "end": 8.84,
+     "probability": 0.9990234375
+    },
+    {
+     "word": " for",
+     "start": 8.84,
+     "end": 9.1,
+     "probability": 0.998046875
+    },
+    {
+     "word": " money",
+     "start": 9.1,
+     "end": 9.42,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "seek": 0,
+   "start": 9.42,
+   "end": 11.0,
+   "text": " If I invest, I might lose money",
+   "tokens": [
+    50841,
+    759,
+    286,
+    1963,
+    11,
+    286,
+    1062,
+    3624,
+    1460,
+    50923
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " If",
+     "start": 9.42,
+     "end": 9.68,
+     "probability": 0.81005859375
+    },
+    {
+     "word": " I",
+     "start": 9.68,
+     "end": 9.76,
+     "probability": 0.97216796875
+    },
+    {
+     "word": " invest,",
+     "start": 9.76,
+     "end": 10.08,
+     "probability": 0.998046875
+    },
+    {
+     "word": " I",
+     "start": 10.42,
+     "end": 10.5,
+     "probability": 0.8125
+    },
+    {
+     "word": " might",
+     "start": 10.5,
+     "end": 10.56,
+     "probability": 0.51025390625
+    },
+    {
+     "word": " lose",
+     "start": 10.56,
+     "end": 10.74,
+     "probability": 0.97314453125
+    },
+    {
+     "word": " money",
+     "start": 10.74,
+     "end": 11.0,
+     "probability": 0.99609375
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "seek": 0,
+   "start": 11.0,
+   "end": 12.2,
+   "text": " I might as well keep the money",
+   "tokens": [
+    50923,
+    286,
+    1062,
+    382,
+    731,
+    1066,
+    264,
+    1460,
+    50983
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " I",
+     "start": 11.0,
+     "end": 11.28,
+     "probability": 0.4306640625
+    },
+    {
+     "word": " might",
+     "start": 11.28,
+     "end": 11.4,
+     "probability": 0.99609375
+    },
+    {
+     "word": " as",
+     "start": 11.4,
+     "end": 11.54,
+     "probability": 0.98388671875
+    },
+    {
+     "word": " well",
+     "start": 11.54,
+     "end": 11.58,
+     "probability": 0.998046875
+    },
+    {
+     "word": " keep",
+     "start": 11.58,
+     "end": 11.8,
+     "probability": 0.444580078125
+    },
+    {
+     "word": " the",
+     "start": 11.8,
+     "end": 11.94,
+     "probability": 0.9853515625
+    },
+    {
+     "word": " money",
+     "start": 11.94,
+     "end": 12.2,
+     "probability": 0.99951171875
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "seek": 0,
+   "start": 12.2,
+   "end": 13.44,
+   "text": " There's no chance of losing it",
+   "tokens": [
+    50983,
+    821,
+    311,
+    572,
+    2931,
+    295,
+    7027,
+    309,
+    51051
+   ],
+   "temperature": 0.0,
+   "avg_logprob": -0.2161970685242088,
+   "compression_ratio": 2.0334448160535117,
+   "no_speech_prob": 9.557193578202394e-12,
+   "words": [
+    {
+     "word": " There's",
+     "start": 12.2,
+     "end": 12.6,
+     "probability": 0.771484375
+    },
+    {
+     "word": " no",
+     "start": 12.6,
+     "end": 12.72,
+     "probability": 0.984375
+    },
+    {
+     "word": " chance",
+     "start": 12.72,
+     "end": 12.9,
+     "probability": 0.97900390625
+    },
+    {
+     "word": " of",
+     "start": 12.9,
+     "end": 13.02,
+     "probability": 0.994140625
+    },
+    {
+     "word": " losing",
+     "start": 13.02,
+     "end": 13.24,
+     "probability": 0.99169921875
+    },
+    {
+     "word": " it",
+     "start": 13.24,
+     "end": 13.44,
+     "probability": 0.99755859375
+    }
+   ]
+  },
+  {
+   "id": 900,
+   "start": 100.0,
+   "end": 102.0,
+   "text": " wordy",
+   "words": [
+    {
+     "word": " this",
+     "start": 100.0,
+     "end": 100.4
+    },
+    {
+     "word": " is",
+     "start": 100.4,
+     "end": 100.8
+    },
+    {
+     "word": " a",
+     "start": 100.8,
+     "end": 101.2
+    },
+    {
+     "word": " very",
+     "start": 101.2,
+     "end": 101.6
+    },
+    {
+     "word": " wordy",
+     "start": 101.6,
+     "end": 102.0
+    },
+    {
+     "word": " caption",
+     "start": 102.0,
+     "end": 102.4
+    },
+    {
+     "word": " line",
+     "start": 102.4,
+     "end": 102.8
+    },
+    {
+     "word": " breaking",
+     "start": 102.8,
+     "end": 103.2
+    },
+    {
+     "word": " right",
+     "start": 103.2,
+     "end": 103.6
+    },
+    {
+     "word": " here",
+     "start": 103.6,
+     "end": 104.0
+    }
+   ]
+  },
+  {
+   "id": 901,
+   "start": 110.0,
+   "end": 114.5,
+   "text": " long",
+   "words": [
+    {
+     "word": " alpha",
+     "start": 110.0,
+     "end": 110.85
+    },
+    {
+     "word": " beta",
+     "start": 110.85,
+     "end": 111.7
+    },
+    {
+     "word": " gamma",
+     "start": 111.7,
+     "end": 112.55
+    },
+    {
+     "word": " delta",
+     "start": 112.55,
+     "end": 113.4
+    },
+    {
+     "word": " epsilon",
+     "start": 113.4,
+     "end": 114.25
+    }
+   ]
+  },
+  {
+   "id": 902,
+   "start": 120.0,
+   "end": 126.0,
+   "text": " pause",
+   "words": [
+    {
+     "word": " Hi.",
+     "start": 120.0,
+     "end": 120.3
+    },
+    {
+     "word": " Ok.",
+     "start": 120.4,
+     "end": 120.8
+    },
+    {
+     "word": " There",
+     "start": 122.5,
+     "end": 123.0
+    },
+    {
+     "word": " we",
+     "start": 123.0,
+     "end": 123.2
+    },
+    {
+     "word": " go",
+     "start": 123.2,
+     "end": 123.4
+    },
+    {
+     "word": " again.",
+     "start": 123.4,
+     "end": 124.0
+    }
+   ]
+  },
+  {
+   "id": 903,
+   "start": 130.0,
+   "end": 132.0,
+   "text": " unicode",
+   "words": [
+    {
+     "word": " naïve",
+     "start": 130.0,
+     "end": 130.5
+    },
+    {
+     "word": " café",
+     "start": 130.5,
+     "end": 131.0
+    },
+    {
+     "word": " déjà",
+     "start": 131.0,
+     "end": 131.4
+    },
+    {
+     "word": " vu…",
+     "start": 131.4,
+     "end": 132.0
+    }
+   ]
+  },
+  {
+   "id": 904,
+   "start": 140.0,
+   "end": 141.0,
+   "text": " skip",
+   "words": [
+    {
+     "word": " keep",
+     "start": 140.0,
+     "end": 140.4
+    },
+    {
+     "word": "   ",
+     "start": 140.4,
+     "end": 140.6
+    },
+    {
+     "word": "",
+     "start": 140.6,
+     "end": 140.8
+    },
+    {
+     "word": " me",
+     "start": 140.8,
+     "end": 141.2
+    }
+   ]
+  },
+  {
+   "id": 905,
+   "start": 142.0,
+   "end": 143.0,
+   "text": " nowords",
+   "words": []
+  },
+  {
+   "id": 906,
+   "start": 144.0,
+   "end": 145.0,
+   "text": " missingkey"
+  },
+  {
+   "id": 907,
+   "start": 70,
+   "end": 71,
+   "text": " ints",
+   "words": [
+    {
+     "word": " whole",
+     "start": 70,
+     "end": 70.5
+    },
+    {
+     "word": " seconds.",
+     "start": 70.5,
+     "end": 71
+    }
+   ]
+  },
+  {
+   "id": 908,
+   "start": 0.0,
+   "end": 0.04,
+   "text": " tiny",
+   "words": [
+    {
+     "word": " tiny",
+     "start": 0.0,
+     "end": 0.04
+    }
+   ]
+  }
+ ],
+ "language": "en"
+}
