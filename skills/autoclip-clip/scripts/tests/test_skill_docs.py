@@ -200,16 +200,28 @@ def test_each_skill_carries_its_agent_descriptor() -> None:
 
 
 def test_the_readme_is_the_skill_sets_front_door() -> None:
-    """The final README: logo header, pitch, pipeline diagram, setup-then-paste,
-    folder map, upload-out-of-scope note, NVIDIA attribution (#35)."""
+    """The final README: logo header (sized to 64px), pitch, pipeline diagram,
+    setup-then-paste, the before/after comparison table, the v0.1.0 + tested-with
+    note, upload-out-of-scope note, NVIDIA attribution (#35)."""
     text = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
-    assert text.startswith("![AutoClip](logo.png)")
+    assert text.startswith('<img src="logo.png" alt="AutoClip" width="64">')
     assert "AutoClip is a folder of three coding-agent skills" in text
     assert "```" in text and "scaffold" in text and "render" in text  # the pipeline diagram
     assert "Run setup once, then paste a link" in text
     assert "projects/<Video Id>/output/" in text  # the folder map
     assert "Uploading is not part of the pipeline" in text
     assert "NVIDIA NIM" in text and "integrate.api.nvidia.com" in text
+    # the before/after comparison: original still + YouTube deep-link vs the render
+    assert "images/original-section.jpg" in text and "images/clipped-vertical.jpg" in text
+    assert "youtu.be/09Dl5rO6TlY?t=1102s" in text
+    # the right side plays the clip, not just a still of it
+    assert "<video" in text and "user-attachments/assets" in text
+    assert 'controls poster="images/clipped-vertical.jpg"' in text
+    # the honest version + the tested-with note whose absence would mislead users
+    assert "0.1.0" in text
+    assert "PI Coding Agent" in text
+    assert "Step 5 Preview" in text and "GLM 5.3 Flash" in text
+    assert "open an issue" in text
     # the audience is users of the skill set — the retired app's machinery is gone
     assert "Model Chain" not in text and "src/" not in text
 
